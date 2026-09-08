@@ -1,0 +1,298 @@
+
+  :root{
+    --bg: #F8F1E1;
+    --bg-soft: #F1E2C0;
+    --bg-liturgy: #F1E4C8;
+    --card-bg: #FFFFFF;
+    --ink: #111A19;
+    --ink-soft: #5C5039;
+    --line: #E3D2AC;
+    --accent: #4C6338;
+    --accent-hover: #8F6336;
+    --accent-soft: #E7E2C9;
+    --accent-ink: #4C6338;
+    --gold: #E0B873;
+    --caramel: #8F6336;
+    --paper-shadow: rgba(17,26,25,0.12);
+    --shadow-strong: rgba(17,26,25,0.28);
+    --radius-lg: 26px;
+    --radius-md: 16px;
+    --serif: 'Lora', Georgia, serif;
+    --sans: 'Source Sans 3', -apple-system, sans-serif;
+    --font-scale: 1;
+  }
+  html[data-theme="dark"]{
+    --bg: #111A19;
+    --bg-soft: #1B2622;
+    --bg-liturgy: #17221E;
+    --card-bg: #182422;
+    --ink: #EFE2C5;
+    --ink-soft: #A89C82;
+    --line: #2B342E;
+    --accent: #5C7A44;
+    --accent-hover: #A97A46;
+    --accent-soft: #263228;
+    --accent-ink: #E0B873;
+    --gold: #E0B873;
+    --caramel: #C08A52;
+    --paper-shadow: rgba(0,0,0,0.4);
+    --shadow-strong: rgba(0,0,0,0.55);
+  }
+  *{box-sizing:border-box;}
+  html{font-size: calc(100% * var(--font-scale)); scroll-behavior:smooth;}
+  body{
+    margin:0;
+    background:var(--bg);
+    color:var(--ink);
+    font-family:var(--sans);
+    line-height:1.6;
+    -webkit-font-smoothing:antialiased;
+    transition:background .4s ease, color .4s ease;
+  }
+  h1,h2,h3{font-family:var(--serif); font-weight:500; margin:0; color:var(--ink);}
+  a{color:inherit;}
+  button{font-family:var(--sans); cursor:pointer;}
+
+  .proto-badge{
+    position:fixed; top:14px; left:14px; z-index:60;
+    font-size:11.5px; letter-spacing:.02em; color:var(--ink-soft);
+    background:var(--bg); border:1px solid var(--line); border-radius:999px;
+    padding:5px 12px; opacity:.85;
+  }
+
+  /* ---------- HERO ---------- */
+  .hero{
+    min-height:100svh;
+    display:flex; flex-direction:column; align-items:center; justify-content:center;
+    text-align:center; padding:2rem; position:relative;
+  }
+  .saint-card{
+    width:min(90vw, 480px); aspect-ratio:3/4; max-height:640px;
+    border-radius:28px; overflow:hidden; position:relative;
+    box-shadow:0 34px 64px var(--shadow-strong);
+  }
+  .saint-photo{
+    width:100%; height:100%; position:relative;
+    background-size:cover; background-position:center;
+    background-image:linear-gradient(160deg, var(--caramel) 0%, var(--accent) 55%, var(--ink) 100%);
+    display:flex; align-items:flex-end;
+  }
+  .saint-overlay{
+    width:100%; padding:2.2rem 1.8rem 2rem;
+    background:linear-gradient(to top, rgba(17,26,25,0.85) 0%, rgba(17,26,25,0.32) 55%, rgba(17,26,25,0) 100%);
+  }
+  .saint-name{
+    font-family:var(--serif); font-style:italic; font-weight:400;
+    color:#F3EAD6; font-size:clamp(1.25rem,3.2vw,1.6rem); line-height:1.4;
+    margin:0; text-align:left;
+  }
+  .saint-name span{font-style:normal; font-weight:500; color:var(--gold);}
+  .scroll-cue{
+    position:absolute; bottom:2.6rem; left:50%; transform:translateX(-50%);
+    background:none; border:none; color:var(--ink-soft);
+    display:flex; flex-direction:column; align-items:center; gap:6px;
+    animation:cueFloat 2.8s ease-in-out infinite;
+  }
+  .scroll-cue span{font-size:12px;}
+  @keyframes cueFloat{
+    0%,100%{transform:translateX(-50%) translateY(0); opacity:.55;}
+    50%{transform:translateX(-50%) translateY(6px); opacity:.95;}
+  }
+
+  /* ---------- DESKTOP NAV ---------- */
+  .nav-desktop{
+    position:fixed; top:18px; left:50%; transform:translate(-50%,-14px);
+    display:flex; align-items:center; gap:26px;
+    background:var(--bg); border:1px solid var(--line);
+    border-radius:999px; padding:10px 14px 10px 20px;
+    box-shadow:0 10px 30px var(--paper-shadow);
+    opacity:0; pointer-events:none; transition:opacity .5s ease, transform .5s ease;
+    z-index:50;
+  }
+  .nav-desktop.visible{opacity:1; transform:translate(-50%,0); pointer-events:auto;}
+  .nav-mark{font-family:var(--serif); font-size:16px; margin-right:6px;}
+  .nav-links{display:flex; gap:20px; list-style:none; margin:0; padding:0;}
+  .nav-links a{font-size:14.5px; text-decoration:none; color:var(--ink-soft); transition:color .2s;}
+  .nav-links a:hover{color:var(--accent-ink);}
+  .nav-tools{display:flex; align-items:center; gap:6px; border-left:1px solid var(--line); padding-left:14px;}
+  .tool-btn{
+    background:none; border:1px solid var(--line); border-radius:999px;
+    width:30px; height:30px; font-size:12.5px; color:var(--ink-soft);
+    display:flex; align-items:center; justify-content:center; transition:.2s;
+  }
+  .tool-btn:hover{border-color:var(--accent); color:var(--accent-ink);}
+
+  /* ---------- MOBILE TOP BAR ---------- */
+  .topbar-mobile{
+    display:none;
+    position:fixed; top:0; left:0; right:0; z-index:50;
+    align-items:center; justify-content:space-between;
+    padding:14px 18px; background:var(--bg);
+    border-bottom:1px solid transparent;
+    opacity:0; transform:translateY(-10px);
+    transition:opacity .4s ease, transform .4s ease;
+  }
+  .topbar-mobile.visible{opacity:1; transform:translateY(0); border-bottom-color:var(--line);}
+  .topbar-mark{font-family:var(--serif); font-size:17px;}
+  .topbar-search{background:none;border:none;color:var(--ink-soft);font-size:17px;}
+
+  /* ---------- MOBILE BOTTOM NAV ---------- */
+  .nav-mobile{
+    display:none;
+    position:fixed; left:14px; right:14px; bottom:14px; z-index:50;
+    background:var(--bg); border:1px solid var(--line);
+    border-radius:22px; box-shadow:0 12px 28px var(--paper-shadow);
+    justify-content:space-around; padding:8px 4px;
+    opacity:0; transform:translateY(14px);
+    transition:opacity .4s ease, transform .4s ease;
+  }
+  .nav-mobile.visible{opacity:1; transform:translateY(0);}
+  .nav-mobile a{
+    text-decoration:none; color:var(--ink-soft); font-size:10.5px;
+    display:flex; flex-direction:column; align-items:center; gap:4px;
+    padding:6px 10px; border-radius:14px; transition:.2s;
+  }
+  .nav-mobile a .ic{font-size:17px;}
+  .nav-mobile a.active{color:var(--accent-ink); background:var(--accent-soft);}
+
+  /* ---------- LAYOUT ---------- */
+  main{padding-bottom:6rem;}
+  .wide-content{max-width:1140px; margin:0 auto; padding:0 24px;}
+  .reading-content{max-width:720px; margin:0 auto; padding:0 24px;}
+  .section{padding:5.5rem 0;}
+  .section + .section{border-top:1px solid var(--line);}
+
+  .reveal{opacity:0; transform:translateY(14px); transition:opacity .6s ease, transform .6s ease;}
+  .reveal.is-visible{opacity:1; transform:translateY(0);}
+
+  /* ---------- LITURGY HEADER ---------- */
+  .lit-eyebrow{
+    display:flex; align-items:center; gap:8px; font-size:14px; color:var(--ink-soft); margin-bottom:.6rem;
+  }
+  .lit-dot{width:9px; height:9px; border-radius:50%; background:var(--accent); flex-shrink:0;}
+  .lit-date{font-size:14px; color:var(--ink-soft); margin-bottom:.3rem;}
+  .lit-celebration{font-size:clamp(1.7rem,4vw,2.1rem); margin-bottom:.4rem;}
+  .lit-note{font-size:13px; color:var(--ink-soft); font-style:italic; margin-bottom:3rem;}
+
+  /* ---------- LITURGY SURFACE ---------- */
+  .liturgy-surface{background:var(--bg-liturgy);}
+
+  /* ---------- READING BLOCK (card) ---------- */
+  .reading-block{
+    background:var(--card-bg); border-radius:22px;
+    padding:2.1rem 1.9rem; margin-bottom:2.2rem;
+    box-shadow:0 22px 48px var(--paper-shadow);
+  }
+  .reading-heading{
+    font-size:1.05rem; font-weight:600; color:var(--accent-ink);
+    margin-bottom:.2rem; font-family:var(--sans);
+  }
+  .reading-ref{font-size:13.5px; color:var(--ink-soft); margin-bottom:1rem;}
+  .reading-text{font-family:var(--serif); font-size:1.14rem; line-height:1.85; color:var(--ink);}
+  .reading-text p{margin:0 0 1.1em;}
+  .reading-placeholder-note{font-size:12.5px; color:var(--ink-soft); font-style:italic; margin-top:.6rem;}
+
+  .accordion-toggle{
+    margin:1.4rem auto 0; width:max-content; background:var(--accent); border:none;
+    padding:12px 26px; border-radius:999px;
+    display:flex; align-items:center; justify-content:center; gap:8px;
+    font-size:14.5px; color:#fff; font-weight:500;
+    transition:background .25s ease, transform .15s ease;
+  }
+  .accordion-toggle:hover{background:var(--accent-hover);}
+  .accordion-toggle:active{transform:scale(0.98);}
+  .accordion-toggle .chevron{font-size:12px; transition:transform .3s ease;}
+  .accordion-toggle[aria-expanded="true"] .chevron{transform:rotate(180deg);}
+  .accordion-panel{max-height:0; overflow:hidden; transition:max-height .4s ease;}
+  .accordion-inner{padding-top:1.2rem;}
+  .aprenda-item{margin-bottom:1rem;}
+  .aprenda-item h4{font-size:14.5px; font-weight:600; margin-bottom:.25rem; color:var(--ink);}
+  .aprenda-item p{font-size:14.5px; color:var(--ink-soft); margin:0; line-height:1.6;}
+
+  /* ---------- AUDIO / VIDEO ---------- */
+  .audio-player{
+    display:flex; align-items:center; gap:14px; margin-top:1.6rem;
+    padding:14px 18px; background:var(--bg-soft); border-radius:999px;
+  }
+  .play-btn{
+    width:38px; height:38px; border-radius:50%; border:1px solid var(--line);
+    background:var(--bg); color:var(--accent-ink); font-size:13px;
+    display:flex; align-items:center; justify-content:center; flex-shrink:0;
+  }
+  .audio-meta{flex:1; min-width:0;}
+  .audio-title{font-size:13.5px; font-weight:500;}
+  .audio-track{height:3px; background:var(--line); border-radius:3px; margin-top:6px; position:relative;}
+  .audio-progress{position:absolute; left:0; top:0; height:100%; width:0%; background:var(--accent); border-radius:3px;}
+  .audio-time{font-size:11.5px; color:var(--ink-soft); flex-shrink:0;}
+
+  .video-frame{
+    margin-top:1.6rem; aspect-ratio:16/9; border-radius:var(--radius-md);
+    background:var(--bg-soft); border:1px solid var(--line);
+    display:flex; flex-direction:column; align-items:center; justify-content:center; gap:10px;
+    color:var(--ink-soft);
+  }
+  .video-play{
+    width:52px; height:52px; border-radius:50%; background:var(--bg);
+    border:1px solid var(--line); display:flex; align-items:center; justify-content:center; font-size:16px;
+  }
+
+  /* ---------- NEWS PREVIEW ---------- */
+  .news-grid{display:grid; grid-template-columns:1.4fr 1fr; gap:2.4rem; align-items:start;}
+  .news-feature-img{
+    aspect-ratio:16/10; border-radius:var(--radius-md); background:var(--bg-soft);
+    border:1px solid var(--line); margin-bottom:1rem;
+  }
+  .news-feature h3{font-size:1.5rem; margin-bottom:.5rem;}
+  .news-feature p{color:var(--ink-soft); font-size:15px; margin:0;}
+  .news-small{padding:1rem 0; border-top:1px solid var(--line);}
+  .news-small:first-child{border-top:none; padding-top:0;}
+  .news-small h4{font-size:15px; font-weight:600; margin-bottom:.3rem;}
+  .news-small p{font-size:13px; color:var(--ink-soft); margin:0;}
+  .section-head{display:flex; align-items:baseline; justify-content:space-between; margin-bottom:2.2rem;}
+  .section-link{font-size:14px; color:var(--accent-ink); text-decoration:none; white-space:nowrap;}
+
+  /* ---------- APRENDA ---------- */
+  .aprenda-grid{display:grid; grid-template-columns:repeat(4,1fr); gap:1.6rem;}
+  .aprenda-tile{padding:1.4rem 0; border-top:1px solid var(--line);}
+  .aprenda-tile .ic{font-size:20px; color:var(--accent-ink); margin-bottom:.7rem; display:block;}
+  .aprenda-tile h4{font-size:15px; margin-bottom:.35rem;}
+  .aprenda-tile p{font-size:13px; color:var(--ink-soft); margin:0; line-height:1.55;}
+
+  /* ---------- DOACOES ---------- */
+  .pix-card{
+    border:1px solid var(--line); border-radius:var(--radius-md); padding:1.8rem;
+    display:flex; gap:1.6rem; align-items:center;
+  }
+  .pix-qr{width:84px; height:84px; border-radius:10px; background:var(--bg-soft); flex-shrink:0; border:1px solid var(--line);}
+  .pix-key-row{display:flex; align-items:center; gap:10px; margin-top:.7rem;}
+  .pix-key{font-size:13.5px; background:var(--bg-soft); padding:6px 12px; border-radius:8px; color:var(--ink-soft);}
+  .copy-btn{
+    font-size:12.5px; border:1px solid var(--line); background:none; border-radius:999px;
+    padding:5px 12px; color:var(--accent-ink);
+  }
+  .pix-note{font-size:12.5px; color:var(--ink-soft); margin-top:.9rem; font-style:italic;}
+
+  footer{padding:3rem 24px 4rem; text-align:center; font-size:12.5px; color:var(--ink-soft);}
+
+  @media (max-width:760px){
+    .nav-desktop{display:none;}
+    .topbar-mobile{display:flex;}
+    .nav-mobile{display:flex;}
+    .section{padding:3.4rem 0;}
+    .news-grid{grid-template-columns:1fr; gap:2rem;}
+    .aprenda-grid{grid-template-columns:1fr 1fr; gap:1.2rem 1.6rem;}
+    .pix-card{flex-direction:column; align-items:flex-start;}
+    .reading-block{padding:1.6rem 1.3rem; border-radius:18px;}
+    .saint-card{width:92vw; max-height:66svh;}
+    main{padding-bottom:7rem;}
+  }
+
+/* Detalhes da liturgia dinâmica, mantendo a paleta geral do site. */
+#liturgia [hidden]{display:none;}
+.liturgia-header{margin-bottom:2.2rem;}
+#liturgia .lit-dot{background:var(--cor-liturgica, var(--accent)); border:1px solid var(--ink-soft);}
+#liturgia .reading-block{border-top:3px solid var(--cor-liturgica, var(--line));}
+.salmo-refrao{font-weight:600;}
+.video-frame{overflow:hidden;}
+.video-frame iframe{width:100%; height:100%; border:0; display:block;}
+.video-aviso{font-size:13px; text-align:center; padding:0 1rem;}
