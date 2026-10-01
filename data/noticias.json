@@ -1,0 +1,28 @@
+{
+  "fonte": "Vatican News",
+  "feed": "https://www.vaticannews.va/pt.rss.xml",
+  "atualizadoEm": "2026-10-01T11:56:08.9193566+00:00",
+  "noticias": [
+    {
+      "titulo": "Fernández: a complementaridade entre a humanidade e a IA",
+      "resumo": "O Prefeito do Dicastério para a Doutrina da Fé, Víctor Manuel Fernández, reflete sobre a encíclica «Magnifica humanitas» e a inteligência artificial durante a jornada de estudos realizada na Universidade de Comillas, em Madri: «a encíclica é, em si mesma,…",
+      "url": "https://www.vaticannews.va/pt/vaticano/news/2026-10/cardeal-fernandez-complementacao-entre-humanidade-ia.html",
+      "imagem": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/giugno/22/206.06.22-Intelligenza-artificiale.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "publicadaEm": "2026-10-01T10:37:00.0000000+00:00"
+    },
+    {
+      "titulo": "Papa: no cuidado com a criação, a Igreja seja a primeira a praticar o que anuncia",
+      "resumo": "Ao receber uma delegação do Grupo Hera, responsável pelos serviços ambientais no Vaticano, Leão XIV recordou a urgência do desafio ecológico e pediu uma mudança de conduta diante do consumo descontrolado dos recursos e da crescente quantidade de resíduos.…",
+      "url": "https://www.vaticannews.va/pt/papa/news/2026-10/papa-no-cuidado-com-a-criacao-a-igreja-seja-a-primeira-praticar.html",
+      "imagem": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/10/01/2026-10-01-delegazione-del--gruppo-hera-/1790850907921.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "publicadaEm": "2026-10-01T10:19:00.0000000+00:00"
+    },
+    {
+      "titulo": "Leão XIV recebe presidente da República Centro-Africana",
+      "resumo": "Faustin-Archange Touadéra é o atual presidente da República Centro-Africana, ocupando o cargo desde março de 2016. Nascido em Bangui a 21 de abril de 1957, é professor universitário e matemático de formação, possuindo doutorados na área. Antes da…",
+      "url": "https://www.vaticannews.va/pt/papa/news/2026-10/papa-leao-xiv-audiencia-presidente-republica-centro-africana.html",
+      "imagem": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/10/01/2026-10-01-s-e--il-signor-faustin-archange-touadera--presidente-/1790843112494.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "publicadaEm": "2026-10-01T10:02:00.0000000+00:00"
+    }
+  ]
+}

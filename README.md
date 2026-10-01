@@ -29,3 +29,23 @@ Ao editar um ID ou texto já publicado, envie novamente o arquivo mensal e recar
 ## Validação local
 
 Execute `node --test tests/liturgia.test.mjs` (Node 22 ou posterior). Os testes usam apenas o Node, sem instalar dependências.
+
+## Notícias automáticas — Vatican News
+
+A página lê as três notícias mais recentes de `data/noticias.json`, com título, trecho do resumo, data e imagem fornecidos pelo RSS oficial em português: https://www.vaticannews.va/pt.rss.xml. Títulos, imagens e botões abrem a reportagem original em outra aba. Não há reprodução do artigo completo.
+
+O coletor `scripts/atualizar-noticias.ps1` requer PowerShell 7. Execute `pwsh -File scripts/atualizar-noticias.ps1` para sincronizar. Não requer chave de API nem proxy de terceiros. O RSS não libera CORS; por isso a coleta acontece fora do navegador e a página lê apenas o JSON do próprio site. Falhas de rede, XML inválido ou feed vazio preservam o arquivo anterior. URLs são restritas ao domínio oficial, o HTML do resumo é removido e entidades XML externas são proibidas.
+
+A aba consulta o JSON ao abrir, ao retornar ao site e a cada 15 minutos enquanto estiver visível. Isso não coleta o RSS: o coletor deve ser executado no servidor ou por CI. Após 36 horas sem sincronização, a página identifica a última atualização disponível. As imagens dependem do servidor do Vatican News.
+
+### Ativação na hospedagem
+
+O workflow `.github/workflows/noticias.yml` está preparado para sincronizar diariamente às 06h23, 12h23 e 18h23 de Brasília (09h23, 15h23 e 21h23 UTC). Os horários do GitHub Actions são aproximados. Também permite execução manual. É necessário publicar estes arquivos no branch padrão do repositório, habilitar Actions e permitir escrita de conteúdo para que o workflow grave o JSON. Proteções do branch podem exigir ajuste. Workflows agendados em repositórios públicos podem ser suspensos pelo GitHub após inatividade.
+
+Para GitHub Pages, configure a origem como **GitHub Actions** e crie a variável de repositório `PUBLICAR_GITHUB_PAGES=true`. O próprio workflow publicará o site após atualizar as notícias, pois commits feitos com GITHUB_TOKEN não disparam o build padrão de Pages. A primeira publicação pode ser acionada manualmente. Em outra hospedagem, execute o coletor antes de publicar ou agende-o no servidor; copiar o JSON uma única vez não ativa atualização diária.
+
+Esta implementação local não habilita configurações no GitHub nem publica alterações automaticamente por conta própria.
+
+### Testes
+
+Execute `pwsh -File tests/noticias.test.ps1` para verificar RSS, CDATA, remoção de HTML, ordenação, duplicados, URLs e preservação do último arquivo válido em caso de falha. Execute também `node --test tests/liturgia.test.mjs`.

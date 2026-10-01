@@ -3,67 +3,38 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Emaús — protótipo</title>
+<title>Emaús — Liturgia e vida de fé</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;1,400&family=Source+Sans+3:wght@400;500;600&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-
-<div class="proto-badge">protótipo visual · conteúdo ilustrativo</div>
-
-<!-- HERO -->
-<section class="hero" id="hero">
-  <div class="saint-card">
-    <div class="saint-photo" id="saintImage" style="background-image:url('');" data-saint-image-url="">
-      <div class="saint-overlay">
-        <p class="saint-name"><span id="saintName">São Francisco de Assis</span>, rogai por nós.</p>
-      </div>
+<a class="skip-link" href="#liturgia">Ir para a liturgia</a>
+<header class="site-header" id="inicio">
+  <div class="masthead">
+    <a class="wordmark" href="#inicio" aria-label="Emaús, início">Emaús<span>Liturgia e vida de fé</span></a>
+    <div class="nav-tools" aria-label="Preferências de leitura">
+      <button class="tool-btn" onclick="changeFont(-0.05)" aria-label="Diminuir fonte">A−</button>
+      <button class="tool-btn" onclick="changeFont(0.05)" aria-label="Aumentar fonte">A+</button>
+      <button class="tool-btn" id="themeBtn" onclick="toggleTheme()" aria-label="Ativar tema escuro" aria-pressed="false">☾</button>
     </div>
   </div>
-  <button class="scroll-cue" onclick="document.getElementById('liturgia').scrollIntoView()" aria-label="Rolar para a liturgia do dia">
-    <span>a liturgia de hoje</span>
-    <svg width="16" height="10" viewBox="0 0 16 10" fill="none"><path d="M1 1L8 8L15 1" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>
-  </button>
-</section>
-
-<!-- DESKTOP NAV -->
-<nav class="nav-desktop" id="navDesktop">
-  <span class="nav-mark">Emaús</span>
-  <ul class="nav-links">
-    <li><a href="#liturgia">Liturgia</a></li>
-    <li><a href="#noticias">Notícias</a></li>
-    <li><a href="#aprenda">Aprenda</a></li>
-    <li><a href="#doacoes">Doações</a></li>
-  </ul>
-  <div class="nav-tools">
-    <button class="tool-btn" onclick="changeFont(-0.05)" aria-label="Diminuir fonte">A−</button>
-    <button class="tool-btn" onclick="changeFont(0.05)" aria-label="Aumentar fonte">A+</button>
-    <button class="tool-btn" id="themeBtn" onclick="toggleTheme()" aria-label="Alternar tema">☾</button>
-  </div>
-</nav>
-
-<!-- MOBILE TOP BAR -->
-<div class="topbar-mobile" id="topbarMobile">
-  <span class="topbar-mark">Emaús</span>
-  <button class="topbar-search" aria-label="Buscar">
-    <svg width="18" height="18" viewBox="0 0 24 24" fill="none"><circle cx="11" cy="11" r="7" stroke="currentColor" stroke-width="1.8"/><path d="M21 21l-4.3-4.3" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
-  </button>
-</div>
-
-<!-- MOBILE BOTTOM NAV -->
-<nav class="nav-mobile" id="navMobile">
-  <a href="#liturgia" class="active"><span class="ic">✝</span>Liturgia</a>
-  <a href="#aprenda"><span class="ic">◒</span>Aprenda</a>
-  <a href="#noticias"><span class="ic">▤</span>Notícias</a>
-  <a href="#doacoes"><span class="ic">♡</span>Doações</a>
-</nav>
-
+  <nav class="site-nav" aria-label="Navegação principal">
+    <a href="#liturgia">Liturgia do dia</a><a href="oracoes.html">Orações e formação</a><a href="#noticias">Notícias</a><a href="#doacoes">Contribua</a>
+  </nav>
+</header>
 <main>
-
-  <!-- LITURGIA: conteúdo preenchido por js/liturgia.js -->
-  <section class="section liturgy-surface" id="liturgia">
+  <section class="intro" aria-labelledby="intro-title">
+    <div><p class="eyebrow">Um tempo para a Palavra</p><h1 id="intro-title">A fé no dia a dia.</h1><p>Leia a liturgia, reserve um momento para a oração<br class="desktop-break"> e aprofunde o que você vive na Missa.</p></div>
+    <aside class="devotion" aria-label="Invocação">
+      <div class="saint-photo" id="saintImage" data-saint-image-url="" hidden></div>
+      <span class="devotion-cross" aria-hidden="true">✝</span>
+      <p><span id="saintName">São Francisco de Assis</span>,<br><em>rogai por nós.</em></p>
+    </aside>
+  </section>
+  <section class="section liturgy-surface" id="liturgia" aria-label="Liturgia do dia">
+    <div class="section-margin"><span class="section-number">01</span><h2>Liturgia do dia</h2><p>Leitura e oração</p></div>
     <div class="reading-content">
       <div class="liturgia-header">
         <div class="lit-eyebrow" hidden><span class="lit-dot"></span><span id="liturgiaTempo"></span></div>
@@ -75,130 +46,44 @@
       <noscript>Ative o JavaScript para consultar a liturgia do dia.</noscript>
     </div>
   </section>
-
-  <!-- NOTICIAS -->
-  <section class="section wide-content" id="noticias">
-    <div class="section-head reveal">
-      <h2 style="font-size:1.7rem;">Notícias Católicas</h2>
-      <a class="section-link" href="#">Ver todas as notícias →</a>
-    </div>
-    <div class="news-grid reveal">
-      <div class="news-feature">
-        <div class="news-feature-img"></div>
-        <h3>Título de exemplo para a notícia principal do dia</h3>
-        <p>Um subtítulo curto que resume a notícia em uma frase, no estilo de um portal editorial.</p>
+  <section class="section" id="aprenda" aria-labelledby="aprenda-title">
+    <div class="section-margin"><span class="section-number">02</span><h2 id="aprenda-title">Orações<br> e formação</h2><p>Para guardar e consultar</p></div>
+    <div>
+      <div class="prayer-previews">
+        <a class="prayer-preview" href="oracoes.html#pai-nosso"><h3>Pai Nosso</h3><p>Pai nosso que estais nos céus, santificado seja o vosso nome…</p><span>Ler oração <span aria-hidden="true">→</span></span></a>
+        <a class="prayer-preview" href="oracoes.html#ave-maria"><h3>Ave Maria</h3><p>Ave Maria, cheia de graça, o Senhor é convosco…</p><span>Ler oração <span aria-hidden="true">→</span></span></a>
+        <a class="prayer-preview" href="oracoes.html#credo"><h3>Creio em Deus Pai</h3><p>Creio em Deus Pai todo-poderoso, criador do céu e da terra…</p><span>Ler oração <span aria-hidden="true">→</span></span></a>
       </div>
-      <div>
-        <div class="news-small"><h4>Segunda notícia de exemplo</h4><p>Linha de resumo curta.</p></div>
-        <div class="news-small"><h4>Terceira notícia de exemplo</h4><p>Linha de resumo curta.</p></div>
-        <div class="news-small"><h4>Quarta notícia de exemplo</h4><p>Linha de resumo curta.</p></div>
-      </div>
+      <a class="prayer-more" href="oracoes.html">Ver orações e formação <span aria-hidden="true">→</span></a>
+      <nav class="formation-shortcuts" aria-label="Guias de formação"><a href="oracoes.html#terco">Como rezar o terço →</a><a href="oracoes.html#missa">Entenda a Missa →</a></nav>
     </div>
   </section>
-
-  <!-- APRENDA -->
-  <section class="section wide-content" id="aprenda">
-    <div class="section-head reveal">
-      <h2 style="font-size:1.7rem;">Aprenda</h2>
-      <a class="section-link" href="#">Explorar →</a>
-    </div>
-    <div class="aprenda-grid reveal">
-      <div class="aprenda-tile"><span class="ic">🕊</span><h4>Orações</h4><p>Pai Nosso, Ave Maria, Credo e outras orações, com texto, áudio e explicação.</p></div>
-      <div class="aprenda-tile"><span class="ic">◐</span><h4>Terço e Rosário</h4><p>Passo a passo guiado, do sinal da cruz aos mistérios.</p></div>
-      <div class="aprenda-tile"><span class="ic">⛪</span><h4>Entenda a Missa</h4><p>O que acontece em cada momento da celebração — e por quê.</p></div>
-      <div class="aprenda-tile"><span class="ic">✚</span><h4>Fé Católica</h4><p>Fundamentos da fé para quem está conhecendo ou aprofundando.</p></div>
+  <section class="section news-section" id="noticias" aria-labelledby="noticias-title">
+    <div class="section-margin"><span class="section-number">03</span><h2 id="noticias-title">Notícias da Igreja</h2><p>Um olhar sobre o que acontece</p></div>
+    <div class="news-content">
+      <div class="news-edition"><span>Últimas notícias</span><p id="noticiasStatus" role="status">Carregando notícias do Vatican News…</p></div>
+      <div class="news-grid" id="noticiasGrid"></div>
+      <noscript>Ative o JavaScript para ver as prévias ou acesse as notícias no link abaixo.</noscript>
+      <div class="news-footer"><p>Imagens e reportagens: Vatican News.</p><a href="https://www.vaticannews.va/pt.html" target="_blank" rel="noopener noreferrer">Mais notícias no Vatican News <span aria-hidden="true">↗</span></a></div>
     </div>
   </section>
-
-  <!-- DOACOES -->
-  <section class="section reading-content" id="doacoes">
-    <h2 class="reveal" style="font-size:1.7rem; margin-bottom:1.4rem;">Apoie a comunidade</h2>
-    <div class="pix-card reveal">
-      <div class="pix-qr"></div>
-      <div>
-        <p style="font-size:14.5px; color:var(--ink-soft); margin:0;">Contribuição para a Paróquia (exemplo)</p>
-        <div class="pix-key-row">
-          <span class="pix-key" id="pixKey">paroquia@exemplo.org.br</span>
-          <button class="copy-btn" onclick="copyPix(this)">Copiar</button>
-        </div>
-        <p class="pix-note">Chave e finalidade de exemplo — na versão real, ficará claro para quem o valor é enviado.</p>
-      </div>
-    </div>
+  <section class="section" id="doacoes" aria-labelledby="doacoes-title">
+    <div class="section-margin"><span class="section-number">04</span><h2 id="doacoes-title">Contribua</h2><p>Cuidado com a comunidade</p></div>
+    <div class="editorial-note"><h3>Apoio à comunidade</h3><p>As informações para contribuição estarão disponíveis após a confirmação da paróquia beneficiada e da finalidade das doações.</p><p class="small-note">Ainda não há uma chave Pix cadastrada.</p></div>
   </section>
-
 </main>
-
-<footer>Protótipo visual · Plataforma Emaús — nome e conteúdo ainda em definição</footer>
-
+<footer><a class="footer-mark" href="#inicio">Emaús</a><p>Liturgia e vida de fé</p><span>Projeto em construção · Conteúdo em preparação</span></footer>
 <script>
-  // Estrutura pronta para a troca automática e diária do Santo do Dia.
-  // Uso futuro, por exemplo a partir de uma fonte de dados litúrgica:
-  // setSaintOfDay('Santo Antônio de Pádua', 'https://.../foto-do-santo.jpg');
   function setSaintOfDay(name, imageUrl){
-    const nameEl = document.getElementById('saintName');
-    const photoEl = document.getElementById('saintImage');
-    if(nameEl) nameEl.textContent = name;
-    if(photoEl && imageUrl){
-      photoEl.style.backgroundImage = `url('${imageUrl}')`;
-      photoEl.setAttribute('data-saint-image-url', imageUrl);
-    }
+    document.getElementById('saintName').textContent = name;
+    const photo = document.getElementById('saintImage');
+    photo.style.backgroundImage = imageUrl ? `url('${imageUrl}')` : '';
+    photo.dataset.saintImageUrl = imageUrl || '';
+    photo.hidden = !imageUrl;
   }
-
-  function toggleTheme(){
-    const html = document.documentElement;
-    const isDark = html.getAttribute('data-theme') === 'dark';
-    html.setAttribute('data-theme', isDark ? 'light' : 'dark');
-    document.getElementById('themeBtn').textContent = isDark ? '☾' : '☀';
-  }
-
-  let fontScale = 1;
-  function changeFont(delta){
-    fontScale = Math.min(1.25, Math.max(0.9, fontScale + delta));
-    document.documentElement.style.setProperty('--font-scale', fontScale);
-  }
-
-  function copyPix(btn){
-    const key = document.getElementById('pixKey').textContent;
-    const original = btn.textContent;
-    navigator.clipboard.writeText(key).then(()=>{
-      btn.textContent = 'Copiado!';
-      setTimeout(()=> btn.textContent = original, 1500);
-    }).catch(()=>{
-      btn.textContent = 'Copiado!';
-      setTimeout(()=> btn.textContent = original, 1500);
-    });
-  }
-
-  const hero = document.getElementById('hero');
-  const navD = document.getElementById('navDesktop');
-  const topM = document.getElementById('topbarMobile');
-  const navM = document.getElementById('navMobile');
-  const heroObserver = new IntersectionObserver(([entry])=>{
-    const show = !entry.isIntersecting;
-    [navD, topM, navM].forEach(el => el.classList.toggle('visible', show));
-  }, {threshold: 0.2});
-  heroObserver.observe(hero);
-
-  const revealEls = document.querySelectorAll('.reveal');
-  const revealObserver = new IntersectionObserver((entries)=>{
-    entries.forEach(entry => {
-      if(entry.isIntersecting){
-        entry.target.classList.add('is-visible');
-        revealObserver.unobserve(entry.target);
-      }
-    });
-  }, {threshold: 0.12});
-  revealEls.forEach(el => revealObserver.observe(el));
-
-  const mobileLinks = document.querySelectorAll('.nav-mobile a');
-  mobileLinks.forEach(link => {
-    link.addEventListener('click', () => {
-      mobileLinks.forEach(l => l.classList.remove('active'));
-      link.classList.add('active');
-    });
-  });
 </script>
-
+<script src="js/leitura.js"></script>
 <script type="module" src="js/liturgia.js"></script>
+<script type="module" src="js/noticias.js"></script>
 </body>
 </html>
