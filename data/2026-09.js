@@ -2,11 +2,11 @@
 // Substitua todos os placeholders por conteúdo verificado e remova exemplo: true.
 // Nenhuma celebração ou leitura real foi atribuída a esta data.
 export const liturgias = {
-  '07': {
+  '12': {
     
     celebracao: 'Celebremos com júbilo o nascimento da Santa Virgem Maria, da qual nasceu o Sol da justiça, Cristo, nosso Deus.',
     tempoLiturgico: 'Tempo Comum',
-    corLiturgica: 'verde', // Exemplo de valor permitido, não atribuição real ao dia.
+    corLiturgica: 'roxo', // Exemplo de valor permitido, não atribuição real ao dia.
     primeiraLeitura: {
       titulo: 'Leitura da profecia de Miqueias',
       referencia: 'Miqueias 5,1-4',
@@ -22,7 +22,7 @@ export const liturgias = {
     salmo: {
       referencia: '[EXEMPLO] Referência do salmo',
       refrao: 'Exulto de alegria no Senhor.',
-      texto: ['Sois meu apoio desde antes que eu nascesse, † desde o seio maternal, o meu amparo: / para vós o meu louvor eternamente! Uma vez que confiei no vosso amor, † meu coração, por vosso auxílio, rejubile, / e que eu vos cante pelo bem que me fizestes! '],
+      texto: ['Sois meu apoio desde antes que eu nascesse,/n † desde o seio maternal, o meu amparo: / para vós o meu louvor eternamente! Uma vez que confiei no vosso amor, † meu coração, por vosso auxílio, rejubile, / e que eu vos cante pelo bem que me fizestes! '],
     
       aprendaMais: {
       contextoHistorico: '[EXEMPLO] Preencha o contexto histórico revisado.',

@@ -42,8 +42,18 @@ function criar(tag, classe, conteudo) {
   return el;
 }
 
+function criarParagrafo(valor, classe = '') {
+  const p = criar('p', classe);
+  // Preserva as linhas cadastradas sem interpretar o conteúdo como HTML.
+  texto(valor).split(/\r\n|\r|\n/).forEach((linha, indice) => {
+    if (indice) p.append(criar('br'));
+    p.append(document.createTextNode(linha));
+  });
+  return p;
+}
+
 function adicionarTexto(destino, valor) {
-  for (const p of paragrafos(valor)) destino.append(criar('p', '', p));
+  for (const p of paragrafos(valor)) destino.append(criarParagrafo(p));
 }
 
 function criarCard(titulo) {
@@ -99,7 +109,7 @@ export function renderizarSalmo(dados) {
   card.dataset.leitura = 'salmo';
   if (texto(dados.referencia)) card.append(criar('p', 'reading-ref', texto(dados.referencia)));
   const corpo = criar('div', 'reading-text');
-  if (texto(dados.refrao)) corpo.append(criar('p', 'salmo-refrao', texto(dados.refrao)));
+  if (texto(dados.refrao)) corpo.append(criarParagrafo(dados.refrao, 'salmo-refrao'));
   adicionarTexto(corpo, dados.texto);
   card.append(corpo);
   renderizarAprenda(card, dados.aprendaMais, 'salmo');
