@@ -1,4 +1,4 @@
-import { obterDataBrasilia, proximaMeiaNoite } from './liturgia.js';
+import { obterDataBrasilia, proximaMeiaNoite } from './liturgia.js?v=20261002-mobile-2';
 
 export function santoValido(santo, data) {
   if (!santo || santo.data !== data || typeof santo.nome !== 'string' || !santo.nome.trim()) return false;

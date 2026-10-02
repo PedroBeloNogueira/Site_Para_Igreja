@@ -1,6 +1,6 @@
 import { readFile, writeFile, rename } from 'node:fs/promises';
-import { normalizarLiturgia, urlLiturgia } from '../js/liturgia-api.js';
-import { obterDataBrasilia } from '../js/liturgia.js';
+import { normalizarLiturgia, urlLiturgia } from '../js/liturgia-api.js?v=20261002-mobile-2';
+import { obterDataBrasilia } from '../js/liturgia.js?v=20261002-mobile-2';
 
 const arquivo = new URL('../data/liturgia-auto.json', import.meta.url);
 let liturgias = {};

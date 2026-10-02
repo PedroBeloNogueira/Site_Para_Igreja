@@ -1,4 +1,4 @@
-import { buscarLiturgia } from './liturgia-api.js';
+import { buscarLiturgia } from './liturgia-api.js?v=20261002-mobile-2';
 
 const FUSO = 'America/Sao_Paulo';
 const formato = new Intl.DateTimeFormat('en-CA', {
