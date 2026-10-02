@@ -1,8 +1,15 @@
 {
   "fonte": "Vatican News",
   "feed": "https://www.vaticannews.va/pt.rss.xml",
-  "atualizadoEm": "2026-10-02T15:42:30.5702813+00:00",
+  "atualizadoEm": "2026-10-02T15:52:50.9700195+00:00",
   "noticias": [
+    {
+      "titulo": "Amoris laetitia, por um novo anúncio do Evangelho com as famílias e para as famílias",
+      "resumo": "Na quarta-feira, 7 de outubro, Leão XIV abrirá o encontro com os chefes das Igrejas Orientais e os presidentes das Conferências Episcopais por ocasião do décimo aniversário da encíclica do Papa Francisco. O encontro, agendado até 14 de outubro na Sala…",
+      "url": "https://www.vaticannews.va/pt/vaticano/news/2026-10/amoris-laetitia-aniversario-encontro-papa-leao-xiv.html",
+      "imagem": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/ottobre/02/livello-3.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "publicadaEm": "2026-10-02T14:59:00.0000000+00:00"
+    },
     {
       "titulo": "Colômbia, a Igreja e os desafios pós-terremoto",
       "resumo": "O padre Diego Meza, diretor do Secretaria Nacional de Pastoral Social e Caritas de Ipiales, descreve a situação na Colômbia após o terremoto e a importância do apoio contínuo aos mais vulneráveis: \"A ajuda não chega a todos igualmente.\"",
@@ -16,13 +23,6 @@
       "url": "https://www.vaticannews.va/pt/vaticano/news/2026-10/cardeal-tolentino-de-mendonca-simposio-ia-fatima-portugal.html",
       "imagem": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/ottobre/02/j9f-0109aem.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "publicadaEm": "2026-10-02T14:01:00.0000000+00:00"
-    },
-    {
-      "titulo": "Mais de 800 jovens se reúnem em Flores da Cunha/RS para a JTchêJ",
-      "resumo": "O encontro no interior do Rio Grande do Sul foi marcado por catequese e oração, além da missa presidida por dom José Gislon. A 9ª Jornada Diocesana da Juventude, conhecida como JTchêJ, abordou temas importantes para a juventude nos dias atuais, refletindo…",
-      "url": "https://www.vaticannews.va/pt/igreja/news/2026-10/jovens-jornada-diocesana-flores-da-cunha-rs-brasil-2026.html",
-      "imagem": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/29/bra-1.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-      "publicadaEm": "2026-10-02T13:18:00.0000000+00:00"
     }
   ]
 }
