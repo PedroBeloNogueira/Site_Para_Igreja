@@ -1,7 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import * as liturgia from '../js/liturgia.js';
-import { mesesDisponiveis } from '../data/indice.js';
 import { liturgias as modelo } from '../data/modelo-31-dias.js';
 
 test('Brasília independe do fuso do dispositivo e respeita viradas do calendário', () => {
@@ -93,22 +92,40 @@ test('troca remove cards/vídeo/cor e dias/meses ausentes não reaproveitam dado
   liturgia.renderizarLiturgia({ celebracao: 'Teste', corLiturgica: 'roxo', primeiraLeitura: { texto: 'Texto teste' }, segundaLeitura: null, video: { youtubeId: 'Abc_123-XYZ' } }, data);
   assert.equal(ids.liturgia.dataset.corLiturgica, 'roxo');
   assert.equal(todos(ids.liturgiaCards).filter(e => e.tagName === 'iframe').length, 1);
-  await liturgia.carregarLiturgiaDoDia(new Date('2026-09-02T15:00:00Z'));
+  await liturgia.carregarLiturgiaDoDia(new Date('2026-09-02T15:00:00Z'), async () => ({liturgia: null}));
   assert.equal(ids.liturgiaCelebracao.textContent, 'Liturgia ainda não disponível');
   assert.equal(todos(ids.liturgiaCards).filter(e => e.tagName === 'iframe').length, 0);
   assert.equal(ids.liturgia.dataset.corLiturgica, undefined);
-  await liturgia.carregarLiturgiaDoDia(new Date('2030-01-01T15:00:00Z'));
+  await liturgia.carregarLiturgiaDoDia(new Date('2030-01-01T15:00:00Z'), async () => ({liturgia: null}));
   assert.equal(ids.liturgiaCards.children.length, 1); // Apenas aviso do vídeo.
 });
 
 test('resposta atrasada de outro mês não sobrescreve o dia mais recente', async () => {
   let resolver;
-  mesesDisponiveis['2040-01'] = () => new Promise(resolve => { resolver = resolve; });
-  const pendente = liturgia.carregarLiturgiaDoDia(new Date('2040-01-31T15:00:00Z'));
-  await liturgia.carregarLiturgiaDoDia(new Date('2040-02-01T15:00:00Z'));
-  resolver({ liturgias: { '31': { celebracao: 'Antigo' } } });
+  const consultar = () => new Promise(resolve => { resolver = resolve; });
+  const pendente = liturgia.carregarLiturgiaDoDia(new Date('2040-01-31T15:00:00Z'), consultar);
+  await liturgia.carregarLiturgiaDoDia(new Date('2040-02-01T15:00:00Z'), async () => ({liturgia: null}));
+  resolver({ liturgia: {data: '2040-01-31', celebracao: 'Antigo'} });
   await pendente;
   assert.equal(ids.liturgiaCelebracao.textContent, 'Liturgia ainda não disponível');
   assert.ok(ids.liturgiaData.textContent.includes('fevereiro'));
-  delete mesesDisponiveis['2040-01'];
+
+});
+
+test('prévia destaca o Evangelho e remove a reflexão quando não há leitura publicada', () => {
+  ids.liturgiaCards.dataset.preview = 'true';
+  const data = liturgia.obterDataBrasilia(new Date('2026-10-02T15:00:00Z'));
+  try {
+    const dados = { celebracao: 'Celebração de teste', evangelho: { referencia: 'Referência de teste', texto: 'Palavra para meditar.' }, reflexaoDoDia: 'Que gesto de cuidado posso fazer hoje?' };
+    liturgia.renderizarLiturgia(dados, data);
+    assert.equal(todos(ids.liturgiaCards).filter(e => e.tagName === 'blockquote').length, 1);
+    assert.ok(ids.liturgiaCards.textContent.includes(dados.reflexaoDoDia));
+    assert.equal(todos(ids.liturgiaCards).some(e => e.tagName === 'iframe'), false);
+    delete dados.reflexaoDoDia;
+    liturgia.renderizarLiturgia(dados, data);
+    assert.ok(ids.liturgiaCards.textContent.includes('Referência de teste'));
+    assert.ok(ids.liturgiaCards.textContent.includes('qual palavra chama sua atenção'));
+    liturgia.renderizarLiturgia(null, data);
+    assert.equal(ids.liturgiaCards.children.length, 0);
+  } finally { delete ids.liturgiaCards.dataset.preview; }
 });

@@ -1,4 +1,4 @@
-import { mesesDisponiveis } from '../data/indice.js';
+import { buscarLiturgia } from './liturgia-api.js';
 
 const FUSO = 'America/Sao_Paulo';
 const formato = new Intl.DateTimeFormat('en-CA', {
@@ -173,11 +173,39 @@ export function renderizarLiturgia(dados, data = obterDataBrasilia()) {
   tempo.textContent = publicado ? texto(dados.tempoLiturgico) : '';
   tempo.parentElement.hidden = !tempo.textContent;
   const aviso = document.getElementById('liturgiaAviso');
-  aviso.textContent = publicado ? '' : 'O conteúdo deste dia ainda está sendo preparado.';
+  aviso.textContent = publicado ? '' : 'Não foi possível obter as leituras deste dia.';
   aviso.hidden = publicado;
   aplicarCorLiturgica(publicado ? dados.corLiturgica : null);
+  if (cards.dataset?.preview === 'true') {
+    if (publicado) {
+      const leitura = dados.evangelho;
+      const trecho = Array.isArray(leitura?.texto) ? leitura.texto.join(' ') : texto(leitura?.texto);
+      if (trecho) {
+        const previa = criar('article', 'liturgy-preview');
+        previa.append(criar('p', 'eyebrow', 'Evangelho do dia'), criar('h3', '', texto(leitura.referencia)));
+        previa.append(criar('blockquote', 'preview-excerpt', trecho.length > 320 ? trecho.slice(0, 320).replace(/\s+\S*$/, '') + '…' : trecho));
+        cards.append(previa);
+        const reflexao = criar('aside', 'daily-reflection');
+        reflexao.setAttribute('aria-label', 'Reflexão do dia');
+        reflexao.append(criar('p', 'eyebrow', 'Para levar com você hoje'));
+        reflexao.append(criar('h3', '', 'Um instante de reflexão'));
+        const pergunta = texto(dados.reflexaoDoDia);
+        reflexao.append(criar('p', '', pergunta && !pergunta.includes('[EXEMPLO]')
+          ? pergunta : `Ao escutar o Evangelho${texto(leitura.referencia) ? ' (' + texto(leitura.referencia) + ')' : ''}, qual palavra chama sua atenção e como você pode vivê-la hoje?`));
+        cards.append(reflexao);
+      }
+    }
+    return;
+  }
   if (publicado) {
-    const conteudos = [
+    const grupos = dados.gruposLeituras;
+    const conteudos = grupos ? [
+      ...grupos.primeiraLeitura.map((l, i) => renderizarLeitura(l, 'Primeira Leitura', `primeira-${i}`)),
+      ...grupos.extras.map((l, i) => renderizarLeitura(l, 'Leitura adicional', `extra-${i}`)),
+      ...grupos.salmo.map(l => renderizarSalmo(l)),
+      ...grupos.segundaLeitura.map((l, i) => renderizarLeitura(l, 'Segunda Leitura', `segunda-${i}`)),
+      ...grupos.evangelho.map((l, i) => renderizarLeitura(l, 'Evangelho', `evangelho-${i}`)),
+    ] : [
       renderizarLeitura(dados.primeiraLeitura, 'Primeira Leitura', 'primeira'),
       renderizarSalmo(dados.salmo),
       renderizarLeitura(dados.segundaLeitura, 'Segunda Leitura', 'segunda'),
@@ -192,20 +220,33 @@ export function renderizarLiturgia(dados, data = obterDataBrasilia()) {
 let dataCarregada = null;
 let requisicao = 0;
 let temporizador;
+let ultimaConsulta = 0;
 
-export async function carregarLiturgiaDoDia(agora = new Date()) {
+export async function carregarLiturgiaDoDia(agora = new Date(), consultar = buscarLiturgia) {
   const data = obterDataBrasilia(agora);
   const versao = ++requisicao;
+  const mudou = dataCarregada !== data.iso;
   dataCarregada = data.iso;
-  renderizarLiturgia(null, data);
-  const carregarMes = mesesDisponiveis[`${data.ano}-${data.mes}`];
-  if (!carregarMes) return; // Sem request para meses não cadastrados.
+  ultimaConsulta = Date.now();
+  if (mudou) {
+    renderizarLiturgia(null, data);
+    document.getElementById('liturgiaAviso').textContent = 'Consultando as leituras deste dia…';
+  }
+  const fonte = document.getElementById('liturgiaFonte');
+  if (fonte) fonte.textContent = 'Consultando a liturgia do dia…';
   try {
-    const { liturgias } = await carregarMes();
-    if (versao === requisicao) renderizarLiturgia(liturgias?.[data.dia], data);
+    const { liturgia, origem } = await consultar(data.iso);
+    if (versao !== requisicao) return;
+    renderizarLiturgia(liturgia, data);
+    if (fonte) fonte.textContent = origem === 'api' ? 'Leituras: API Liturgia Diária · Atualizadas para hoje.'
+      : liturgia ? 'Leituras: API Liturgia Diária · Exibindo a cópia salva para este dia.'
+        : 'Não foi possível consultar as leituras deste dia. Tente novamente mais tarde.';
   } catch (erro) {
-    // Arquivo inválido/indisponível conserva o estado vazio, nunca o dia anterior.
-    if (versao === requisicao) console.warn('Não foi possível carregar o mês litúrgico.', erro);
+    if (versao === requisicao) {
+      renderizarLiturgia(null, data);
+      if (fonte) fonte.textContent = 'Liturgia temporariamente indisponível.';
+      console.warn('Não foi possível carregar a liturgia.', erro);
+    }
   }
 }
 
@@ -216,7 +257,7 @@ export function agendarProximaAtualizacao() {
 }
 
 function atualizarSeNecessario() {
-  if (obterDataBrasilia().iso !== dataCarregada) void carregarLiturgiaDoDia();
+  if (obterDataBrasilia().iso !== dataCarregada || Date.now() - ultimaConsulta >= 15 * 60 * 1000) void carregarLiturgiaDoDia();
   agendarProximaAtualizacao();
 }
 
@@ -228,4 +269,5 @@ if (typeof document !== 'undefined' && document.getElementById('liturgiaCards'))
   });
   window.addEventListener('pageshow', atualizarSeNecessario);
   window.addEventListener('focus', atualizarSeNecessario);
+  setInterval(() => { if (!document.hidden) atualizarSeNecessario(); }, 15 * 60 * 1000);
 }

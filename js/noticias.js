@@ -19,9 +19,10 @@ function link(texto, url, classe) {
 }
 const formato = new Intl.DateTimeFormat('pt-BR', { timeZone: 'America/Sao_Paulo', day: '2-digit', month: 'short', year: 'numeric', hour: '2-digit', minute: '2-digit' });
 function artigo(noticia, destaque) {
+  const previa = grade?.dataset.preview === 'true';
   const el = criar('article', destaque ? 'news-lead' : 'news-brief');
   const imagem = urlSegura(noticia.imagem, '/content/dam/');
-  if (imagem) {
+  if (imagem && (!previa || destaque)) {
     const figure = criar('figure', 'news-image');
     const fotoLink = link('', noticia.url);
     fotoLink.setAttribute('aria-label', `Ler: ${noticia.titulo}`);
@@ -39,12 +40,13 @@ function artigo(noticia, destaque) {
   const titulo = criar('h3');
   titulo.append(link(noticia.titulo, noticia.url));
   el.append(titulo);
-  if (noticia.resumo) el.append(criar('p', 'news-summary', noticia.resumo));
+  if (noticia.resumo && !previa) el.append(criar('p', 'news-summary', noticia.resumo));
   const meta = criar('p', 'news-meta', 'Vatican News · ');
   const time = criar('time', '', formato.format(new Date(noticia.publicadaEm)));
   time.dateTime = noticia.publicadaEm;
   meta.append(time);
-  el.append(meta, link('Ler no Vatican News ↗', noticia.url, 'news-read'));
+  el.append(meta);
+  if (!previa) el.append(link('Ler no Vatican News ↗', noticia.url, 'news-read'));
   return el;
 }
 let carregando = false;

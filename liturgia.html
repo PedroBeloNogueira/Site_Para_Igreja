@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-BR" data-theme="light">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Liturgia do dia — Emaús</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;1,400&family=Source+Sans+3:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="icon" type="image/svg+xml" href="assets/logo-paroquia.svg">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body><a class="skip-link" href="#conteudo">Ir para o conteúdo</a><header class="site-header" id="inicio">
+  <div class="masthead">
+    <a class="wordmark" href="index.html" aria-label="Emaús, início"><img class="parish-logo" src="assets/logo-paroquia.svg" alt="Paróquia Nossa Senhora da Assunção, Mazagão–AP" width="112" height="132"><span class="brand-copy"><strong>Emaús</strong><span class="brand-subtitle">Liturgia e vida de fé</span><span class="parish-name">Paróquia Nossa Senhora da Assunção · Mazagão–AP</span></span></a>
+    <div class="nav-tools" aria-label="Preferências de leitura">
+      <button class="tool-btn" onclick="changeFont(-0.05)" aria-label="Diminuir fonte">A−</button>
+      <button class="tool-btn" onclick="changeFont(0.05)" aria-label="Aumentar fonte">A+</button>
+      <button class="tool-btn" id="themeBtn" onclick="toggleTheme()" aria-label="Ativar tema escuro" aria-pressed="false">☾</button>
+    </div>
+  </div>
+  <nav class="site-nav" aria-label="Navegação principal"><a href="index.html">Início</a><a href="liturgia.html" aria-current="page">Liturgia do dia</a><a href="oracoes.html">Orações e formação</a><a href="noticias.html">Notícias</a><a href="contribua.html">Contribua</a></nav>
+</header><main id="conteudo"><div class="prayers-intro"><a class="back-link" href="index.html">← Voltar ao início</a><h1>Liturgia do dia</h1></div><section class="section liturgy-surface" id="liturgia" aria-label="Liturgia do dia">
+    <div class="section-margin"><span class="section-number">01</span><h2>Liturgia do dia</h2><p>Leitura e oração</p></div>
+    <div class="reading-content">
+      <div class="liturgia-header">
+        <div class="lit-eyebrow" hidden><span class="lit-dot"></span><span id="liturgiaTempo"></span></div>
+        <p class="lit-date" id="liturgiaData"></p>
+        <h2 class="lit-celebration" id="liturgiaCelebracao">Liturgia ainda não disponível</h2>
+        <p class="lit-note" id="liturgiaAviso" role="status">Consultando as leituras deste dia…</p>
+      </div>
+      <p class="small-note" id="liturgiaFonte" role="status"></p><div id="liturgiaCards"></div>
+      <noscript>Ative o JavaScript para consultar a liturgia do dia.</noscript>
+    </div>
+  </section></main><footer><a class="footer-mark" href="index.html">Emaús</a><p>Liturgia e vida de fé</p><span>Projeto em construção · Conteúdo em preparação</span></footer><script src="js/leitura.js"></script><script type="module" src="js/liturgia.js"></script></body></html>

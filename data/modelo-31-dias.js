@@ -7,6 +7,7 @@ export const liturgias = {
     celebracao: '[EXEMPLO] Nome da celebração verificada',
     tempoLiturgico: '[EXEMPLO] Tempo litúrgico verificado',
     corLiturgica: 'verde', // Exemplo de valor permitido, não atribuição real ao dia.
+    reflexaoDoDia: '[EXEMPLO] Pergunta curta, revisada e ligada ao Evangelho deste dia.',
     primeiraLeitura: {
       titulo: 'Primeira Leitura',
       referencia: '[EXEMPLO] Referência a cadastrar',
