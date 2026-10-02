@@ -74,3 +74,7 @@ Paróquia Nossa Senhora da Assunção. Endereço: Trav. Pe. Antônio Valente Fle
 ## Conteúdo e manutenção
 
 A navegação mantém quatro páginas e uma janela de apoio. Foram removidos os cadastros mensais antigos, modelos e índice manual, a antiga página de contribuição, rótulos decorativos, numeração de seções, reflexão genérica e o aviso de vídeo sem integração. As leituras e sua numeração bíblica, a formação, o Pix, créditos e estados de erro permanecem.
+
+## Orações individuais
+
+`oracoes.html` é o catálogo com caixas de acesso. Pai Nosso, Ave Maria, Creio em Deus Pai, Glória ao Pai, Salve Rainha e Ó meu Jesus têm páginas individuais com o texto completo. Os guias do terço e da Missa também têm páginas próprias. Todos os HTML da raiz são incluídos na publicação do GitHub Actions.
