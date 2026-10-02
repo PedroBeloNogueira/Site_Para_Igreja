@@ -8,7 +8,7 @@ A consulta envia dia, mês e ano no horário de Brasília. A resposta deve corre
 
 A API é a fonte principal. Em caso de falha, o site usa a resposta para a mesma data em `data/liturgia-auto.json` ou a última resposta salva no navegador. Nunca mostra a liturgia de ontem como a de hoje. Sem cópia do dia, informa a indisponibilidade. A data é conferida à meia-noite de Brasília, ao retornar à aba e a cada 15 minutos enquanto visível. Bloquear o armazenamento do navegador não impede a consulta à API.
 
-Não é mais necessário preencher arquivos mensais nem cadastrar novos meses no índice. Os antigos arquivos `data/AAAA-MM.js` permanecem como referência e não alimentam a integração automática. A API fornece leituras e cor litúrgica; homilias e explicações próprias não são geradas. A prévia usa o primeiro Evangelho disponível e uma pergunta para meditar a leitura. O vídeo permanece indisponível até existir uma integração própria.
+Não é mais necessário preencher arquivos mensais nem cadastrar novos meses no índice. A API fornece leituras e cor litúrgica; homilias e explicações próprias não são geradas. A prévia mostra um trecho do primeiro Evangelho disponível.
 
 ### Cópia automática
 
@@ -44,7 +44,7 @@ Execute `pwsh -File tests/noticias.test.ps1` para verificar RSS, CDATA, remoçã
 
 ## Páginas do site
 
-A página inicial apresenta chamadas para os conteúdos. Publique também `liturgia.html`, `oracoes.html`, `noticias.html` e `contribua.html`, junto com os recursos compartilhados.
+A página inicial apresenta chamadas para os conteúdos. Publique também `liturgia.html`, `oracoes.html`, `noticias.html`, junto com os recursos compartilhados.
 
 ## Homenagem automática ao santo do dia
 
@@ -56,10 +56,21 @@ O navegador troca a homenagem à meia-noite de Brasília, confere a data ao reto
 
 Validação: `node --test tests/liturgia.test.mjs tests/santo.test.mjs` e `pwsh -File tests/santos.test.ps1`.
 
-### Prévias e reflexão no início
-
-A homenagem exibe um trecho de até 22 palavras da descrição da história no A12; o coletor atualiza esse resumo junto com a imagem. A prévia destaca o Evangelho cadastrado e apresenta uma pergunta de reflexão. Na integração automática, a pergunta convida a meditar o Evangelho indicado e não depende de cadastro mensal. Sem Evangelho publicado, a reflexão fica oculta. No celular, a homenagem aparece primeiro e atalhos levam à liturgia e à formação. As notícias mostram uma imagem principal e duas manchetes menores.
 
 ## Identidade visual da paróquia
 
-A logo original de Nossa Senhora da Assunção (Mazagão–AP) foi convertida de AI para `assets/logo-paroquia.svg`, preservando o desenho vetorial. O cabeçalho e o ícone das cinco páginas usam esse arquivo. A paleta fornecida está nas variáveis do CSS: dourados e bege nos detalhes, fundo claro #F2F2F2 e texto escuro. O tema escuro usa fundos castanhos e dourado claro, com preferência salva no navegador. As cores litúrgicas dos conteúdos continuam independentes da identidade da paróquia.
+A logo original de Nossa Senhora da Assunção (Mazagão–AP) foi convertida de AI para `assets/logo-paroquia.svg`, preservando o desenho vetorial. O cabeçalho e o ícone das quatro páginas usam esse arquivo. A paleta fornecida está nas variáveis do CSS: dourados e bege nos detalhes, fundo claro #F2F2F2 e texto escuro. O tema escuro usa fundos castanhos e dourado claro, com preferência salva no navegador. As cores litúrgicas dos conteúdos continuam independentes da identidade da paróquia.
+
+## Apoio à comunidade por Pix
+
+Os botões de apoio abrem um dialog modal com QR Code estático, chave CNPJ e destinatário informado: PAROQUIA NOSSA SENHA DA ASSUNÇÃO. A cidade do QR é Mazagão. O QR usa valor livre e a chave 07814217002470, com checksum CRC16. O nome no payload é normalizado e limitado aos 25 caracteres previstos no BR Code; a janela mostra o nome completo informado. A conferência do cadastro bancário ocorre no aplicativo de pagamento.
+
+O QR está em `assets/pix-comunidade.svg` e o payload em `assets/pix-comunidade.txt`. A configuração do modal está em `js/apoio.js`. Para a foto futura, coloque a imagem em `assets/igreja.jpg` e preencha `foto` com esse caminho. Até lá, a área mostra a logo da paróquia. Escape, botão de fechar e clique fora fecham a janela; o foco retorna ao botão de origem.
+
+## Dados da paróquia
+
+Paróquia Nossa Senhora da Assunção. Endereço: Trav. Pe. Antônio Valente Flexa, s/n - Bairro Central, Mazagão - AP, 68940-000. CNPJ: 07.814.217/0024-70. Horários informados das Missas: 07h00 e 18h00; dias da semana não informados. Site criado por Pedro Belo Nogueira. Informações exibidas no rodapé das quatro páginas principais.
+
+## Conteúdo e manutenção
+
+A navegação mantém quatro páginas e uma janela de apoio. Foram removidos os cadastros mensais antigos, modelos e índice manual, a antiga página de contribuição, rótulos decorativos, numeração de seções, reflexão genérica e o aviso de vídeo sem integração. As leituras e sua numeração bíblica, a formação, o Pix, créditos e estados de erro permanecem.

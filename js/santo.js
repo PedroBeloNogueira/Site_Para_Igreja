@@ -51,7 +51,7 @@ if (area) {
       if (!santoValido(santo, data.iso)) { limpar(data); return; }
       nome.textContent = santo.nome;
       status.textContent = typeof santo.resumo === 'string' && santo.resumo.trim()
-        ? santo.resumo.trim() : 'Uma vida de fé para conhecer e levar à sua oração.';
+        ? santo.resumo.trim() : '';
       fonte.href = santo.url;
       fonte.hidden = false;
       credito.textContent = 'Imagem e calendário: A12 · Santuário de Aparecida';

@@ -19,11 +19,11 @@
       <button class="tool-btn" id="themeBtn" onclick="toggleTheme()" aria-label="Ativar tema escuro" aria-pressed="false">☾</button>
     </div>
   </div>
-  <nav class="site-nav" aria-label="Navegação principal"><a href="index.html" aria-current="page">Início</a><a href="liturgia.html">Liturgia do dia</a><a href="oracoes.html">Orações e formação</a><a href="noticias.html">Notícias</a><a href="contribua.html">Contribua</a></nav>
+  <nav class="site-nav" aria-label="Navegação principal"><a href="index.html" aria-current="page">Início</a><a href="liturgia.html">Liturgia do dia</a><a href="oracoes.html">Orações e formação</a><a href="noticias.html">Notícias</a><button class="nav-support" type="button" data-open-support>Apoiar a comunidade</button></nav>
 </header><main id="conteudo"><nav class="home-shortcuts" aria-label="Explore os conteúdos"><a href="#saintTribute">Santo do dia</a><a href="#liturgia">Evangelho e reflexão</a><a href="#aprenda">Orações e formação</a></nav><section class="intro" aria-labelledby="intro-title">
-    <div class="home-welcome"><p class="eyebrow">Um tempo para a Palavra</p><h1 id="intro-title">A fé no dia a dia.</h1><p>Leia a liturgia, reserve um momento para a oração<br class="desktop-break"> e aprofunde o que você vive na Missa.</p><a class="home-primary" href="liturgia.html">Ler a liturgia de hoje →</a></div>
+    <div class="home-welcome"><h1 id="intro-title">Liturgia e oração</h1><a class="home-primary" href="liturgia.html">Ler a liturgia de hoje →</a></div>
     <aside class="devotion saint-tribute" id="saintTribute" aria-labelledby="saintName">
-      <p class="eyebrow">Santo do dia · nossa homenagem</p>
+
       <p class="saint-date" id="saintDate"></p>
       <figure class="saint-figure">
         <img class="saint-portrait" id="saintImage" alt="" width="600" height="338" fetchpriority="high" hidden>
@@ -33,7 +33,7 @@
       <a class="saint-source" id="saintSource" target="_blank" rel="noopener noreferrer" hidden>Conheça sua história ↗</a>
     </aside>
   </section><section class="section liturgy-surface" id="liturgia" aria-label="Liturgia do dia">
-    <div class="section-margin"><span class="section-number">01</span><h2>Liturgia do dia</h2><p>Leitura e oração</p></div>
+    <div class="section-margin"><h2>Liturgia do dia</h2></div>
     <div class="reading-content">
       <div class="liturgia-header">
         <div class="lit-eyebrow" hidden><span class="lit-dot"></span><span id="liturgiaTempo"></span></div>
@@ -41,21 +41,26 @@
         <h2 class="lit-celebration" id="liturgiaCelebracao">Liturgia ainda não disponível</h2>
         <p class="lit-note" id="liturgiaAviso" role="status">Consultando as leituras deste dia…</p>
       </div>
-      <p class="small-note" id="liturgiaFonte" role="status"></p><div id="liturgiaCards" data-preview="true"></div>
-      <a class="preview-more" href="liturgia.html">Reserve um momento para a Palavra →</a><noscript>Ative o JavaScript para consultar a liturgia do dia.</noscript>
+      <div id="liturgiaCards" data-preview="true"></div>
+      <a class="preview-more" href="liturgia.html">Ler liturgia completa →</a><noscript>Ative o JavaScript para consultar a liturgia do dia.</noscript>
     </div>
   </section><section class="section" id="aprenda" aria-labelledby="aprenda-title">
-<div class="section-margin"><span class="section-number">02</span><h2 id="aprenda-title">Orações e formação</h2><p>Um momento para aprofundar sua fé</p></div>
+<div class="section-margin"><h2 id="aprenda-title">Orações e formação</h2></div>
 <div><div class="prayer-previews">
-<a class="prayer-preview" href="oracoes.html#pai-nosso"><p class="eyebrow">Para rezar</p><h3>Pai Nosso</h3><p>Pai nosso que estais nos céus, santificado seja o vosso nome; venha a nós o vosso reino…</p><span>Continuar a oração →</span></a>
-<a class="prayer-preview" href="oracoes.html#terco"><p class="eyebrow">Para aprender</p><h3>Como rezar o terço</h3><p>Comece pelo sinal da cruz e pelo Creio. Nas contas, alterne o Pai Nosso e as Ave Marias enquanto medita os mistérios.</p><span>Ver o passo a passo →</span></a>
-<a class="prayer-preview" href="oracoes.html#missa"><p class="eyebrow">Para viver</p><h3>Entenda a Missa</h3><p>Na Liturgia da Palavra, escutamos as leituras e o Evangelho. Na Liturgia Eucarística, participamos da apresentação das oferendas, da oração e da comunhão.</p><span>Conhecer cada momento →</span></a>
+<a class="prayer-preview" href="oracoes.html#pai-nosso"><h3>Pai Nosso</h3><p>Pai nosso que estais nos céus, santificado seja o vosso nome; venha a nós o vosso reino…</p><span>Continuar a oração →</span></a>
+<a class="prayer-preview" href="oracoes.html#terco"><h3>Como rezar o terço</h3><p>Comece pelo sinal da cruz e pelo Creio. Nas contas, alterne o Pai Nosso e as Ave Marias enquanto medita os mistérios.</p><span>Ver o passo a passo →</span></a>
+<a class="prayer-preview" href="oracoes.html#missa"><h3>Entenda a Missa</h3><p>Na Liturgia da Palavra, escutamos as leituras e o Evangelho. Na Liturgia Eucarística, participamos da apresentação das oferendas, da oração e da comunhão.</p><span>Conhecer cada momento →</span></a>
 </div><a class="preview-more" href="oracoes.html">Explorar orações e formação →</a></div></section><section class="section news-section" id="noticias" aria-labelledby="noticias-title">
-    <div class="section-margin"><span class="section-number">03</span><h2 id="noticias-title">Notícias da Igreja</h2><p>Um olhar sobre o que acontece</p></div>
+    <div class="section-margin"><h2 id="noticias-title">Notícias da Igreja</h2></div>
     <div class="news-content">
-      <div class="news-edition"><span>Últimas notícias</span><p id="noticiasStatus" role="status">Carregando notícias do Vatican News…</p></div>
+      <div class="news-edition"><p id="noticiasStatus" role="status">Carregando notícias do Vatican News…</p></div>
       <div class="news-grid" id="noticiasGrid" data-preview="true"></div>
       <noscript>Ative o JavaScript para ver as prévias ou acesse as notícias no link abaixo.</noscript>
       <a class="preview-more" href="noticias.html">Ver todas as notícias →</a><div class="news-footer"><p>Imagens e reportagens: Vatican News.</p><a href="https://www.vaticannews.va/pt.html" target="_blank" rel="noopener noreferrer">Mais notícias no Vatican News <span aria-hidden="true">↗</span></a></div>
     </div>
-  </section><section class="section" id="doacoes" aria-labelledby="doacoes-title"><div class="section-margin"><span class="section-number">04</span><h2 id="doacoes-title">Contribua</h2><p>Cuidado com a comunidade</p></div><div class="editorial-note"><h3>Apoio à comunidade</h3><p>As informações para contribuição estarão disponíveis após a confirmação da paróquia beneficiada e da finalidade das doações.</p><a class="preview-more" href="contribua.html">Consultar informações de apoio →</a></div></section></main><footer><a class="footer-mark" href="index.html">Emaús</a><p>Liturgia e vida de fé</p><span>Projeto em construção · Conteúdo em preparação</span></footer><script src="js/leitura.js"></script><script type="module" src="js/liturgia.js"></script><script type="module" src="js/noticias.js"></script><script type="module" src="js/santo.js"></script></body></html>
+  </section><section class="section" id="doacoes" aria-labelledby="doacoes-title"><div class="section-margin"><h2 id="doacoes-title">Contribua</h2></div><div class="editorial-note"><button id="apoio" class="preview-more support-trigger" type="button" data-open-support>Apoiar a comunidade →</button></div></section></main><footer class="parish-footer" id="paroquia">
+  <div class="parish-footer-info"><a class="footer-mark" href="index.html">Emaús</a><h2>Paróquia Nossa Senhora da Assunção</h2><p class="parish-cnpj">CNPJ: 07.814.217/0024-70</p></div>
+  <div><h3>Venha nos visitar</h3><address>Trav. Pe. Antônio Valente Flexa, s/n - Bairro Central, Mazagão - AP, 68940-000</address><a class="parish-map-link" href="https://www.google.com/maps/search/?api=1&query=Trav.%20Pe.%20Ant%C3%B4nio%20Valente%20Flexa%2C%20s%2Fn%20-%20Bairro%20Central%2C%20Mazag%C3%A3o%20-%20AP%2C%2068940-000" target="_blank" rel="noopener noreferrer">Ver endereço no mapa ↗</a></div>
+  <div><h3>Horários das Missas</h3><ul class="mass-times"><li><strong>07h00</strong><span>Manhã</span></li><li><strong>18h00</strong><span>Noite</span></li></ul></div>
+  <p class="site-credit">Site criado por <strong>Pedro Belo Nogueira</strong>.</p>
+</footer><script src="js/leitura.js"></script><script type="module" src="js/liturgia.js"></script><script type="module" src="js/noticias.js"></script><script type="module" src="js/santo.js"></script><script src="js/apoio.js"></script></body></html>

@@ -36,7 +36,6 @@ function artigo(noticia, destaque) {
     figure.append(fotoLink, criar('figcaption', '', 'Imagem: Vatican News'));
     el.append(figure);
   }
-  el.append(criar('p', 'news-category', destaque ? 'Em destaque' : 'Também no Vatican News'));
   const titulo = criar('h3');
   titulo.append(link(noticia.titulo, noticia.url));
   el.append(titulo);

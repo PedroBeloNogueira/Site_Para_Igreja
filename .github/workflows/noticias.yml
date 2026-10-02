@@ -51,7 +51,7 @@ jobs:
         shell: bash
         run: |
           mkdir -p _site
-          cp index.html liturgia.html oracoes.html noticias.html contribua.html styles.css _site/
+          cp index.html liturgia.html oracoes.html noticias.html styles.css _site/
           cp -R js data _site/
           if [ -d assets ]; then cp -R assets _site/; fi
       - uses: actions/upload-pages-artifact@v4
