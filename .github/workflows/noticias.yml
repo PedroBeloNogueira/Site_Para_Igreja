@@ -1,5 +1,14 @@
 name: Atualizar liturgia, notícias e santos
 on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/noticias.yml'
+      - 'scripts/**'
+      - 'js/**'
+      - '*.html'
+      - 'styles.css'
+      - 'assets/**'
   schedule:
     - cron: '23 9,15,21 * * *'
   workflow_dispatch:
@@ -25,6 +34,7 @@ jobs:
         shell: pwsh
         run: ./scripts/atualizar-santos.ps1
       - name: Consultar o RSS oficial
+        continue-on-error: true
         shell: pwsh
         run: ./scripts/atualizar-noticias.ps1
       - name: Salvar notícias atualizadas
