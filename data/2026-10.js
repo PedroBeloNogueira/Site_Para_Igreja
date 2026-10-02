@@ -2,7 +2,7 @@
 // Substitua todos os placeholders por conteúdo verificado e remova exemplo: true.
 // Nenhuma celebração ou leitura real foi atribuída a esta data.
 export const liturgias = {
-  '01': {
+  '02': {
     
     celebracao: 'Celebremos com júbilo o nascimento da Santa Virgem Maria, da qual nasceu o Sol da justiça, Cristo, nosso Deus.',
     tempoLiturgico: 'Tempo Comum',
