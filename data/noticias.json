@@ -1,11 +1,18 @@
 {
   "fonte": "Vatican News",
   "feed": "https://www.vaticannews.va/pt.rss.xml",
-  "atualizadoEm": "2026-10-02T16:45:49.9121032+00:00",
+  "atualizadoEm": "2026-10-03T00:33:12.6257817+00:00",
   "noticias": [
     {
+      "titulo": "Ouellet: aprofundar a reflexão sobre os carismas para uma Igreja sinodal e missionária",
+      "resumo": "O cardeal prefeito emérito do Dicastério para os Bispos apresenta o simpósio “Vocação e Carismas”, organizado pelo Centre de recherche et d'anthropologie des vocations, que vai se realizar de 15 a 17 de abril no Vaticano. Abertura dos trabalhos com Leão…",
+      "url": "https://www.vaticannews.va/pt/vaticano/news/2026-10/vocacoes-carismas-cardeal-ouellet-igreja-sinodal-missionaria.html",
+      "imagem": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/ottobre/01/ouellet-011026aem.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "publicadaEm": "2026-10-02T16:30:00.0000000+00:00"
+    },
+    {
       "titulo": "Amoris laetitia, por um novo anúncio do Evangelho com as famílias e para as famílias",
-      "resumo": "Na quarta-feira, 7 de outubro, Leão XIV abrirá o encontro com os chefes das Igrejas Orientais e os presidentes das Conferências Episcopais por ocasião do décimo aniversário da encíclica do Papa Francisco. O encontro, agendado até 14 de outubro na Sala…",
+      "resumo": "Na quarta-feira, 7 de outubro, Leão XIV abrirá o encontro com os chefes das Igrejas Orientais e os presidentes das Conferências Episcopais por ocasião do décimo aniversário da exortação apostólica do Papa Francisco. O encontro, agendado até 14 de outubro…",
       "url": "https://www.vaticannews.va/pt/vaticano/news/2026-10/amoris-laetitia-aniversario-encontro-papa-leao-xiv.html",
       "imagem": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/ottobre/02/livello-3.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "publicadaEm": "2026-10-02T14:59:00.0000000+00:00"
@@ -16,13 +23,6 @@
       "url": "https://www.vaticannews.va/pt/igreja/news/2026-10/colombia-igreja-terremoto-desafios-caritas-populacao.html",
       "imagem": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/11/2026-09-11-at-11-26-01-1.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "publicadaEm": "2026-10-02T14:03:00.0000000+00:00"
-    },
-    {
-      "titulo": "Cardeal De Mendonça abre Simpósio sobre Educação e avanços da IA em Portugal",
-      "resumo": "Através de participação em modalidade on-line, o prefeito do Dicastério para a Cultura e a Educação, cardeal José Tolentino De Mendonça, fez a abertura do Simpósio \"A Educação e a Escola em Portugal\", com uma reflexão sobre Inteligência Artificial, o…",
-      "url": "https://www.vaticannews.va/pt/vaticano/news/2026-10/cardeal-tolentino-de-mendonca-simposio-ia-fatima-portugal.html",
-      "imagem": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/ottobre/02/j9f-0109aem.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-      "publicadaEm": "2026-10-02T14:01:00.0000000+00:00"
     }
   ]
 }
