@@ -1,46 +1,6 @@
 {
-  "atualizadoEm": "2026-10-03T23:48:01.140Z",
+  "atualizadoEm": "2026-10-04T14:48:54.388Z",
   "liturgias": {
-    "2026-10-03": {
-      "data": "03/10/2026",
-      "liturgia": "Santos André de Soveral e Ambrósio Francisco Ferro, presbíteros, Mateus Moreira e companheiros, mártires, Memória",
-      "cor": "Vermelho",
-      "oracoes": {
-        "coleta": "Ó Deus, concedestes admirável constância no martírio aos Santos André e Ambrósio, presbíteros, Mateus Moreira e seus companheiros leigos; fazei que o seu testemunho de fé fortaleça as nossas comunidades e estimule a ação missionária de vossa Igreja. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
-        "oferendas": "Pai santo, aceitai as oferendas que vos apresentamos na comemoração dos Protomártires do Brasil, e a nós, vossos servos e servas, concedei a graça de permanecer firmes na confissão do vosso nome. Por Cristo, nosso Senhor.",
-        "comunhao": "Recebemos, ó Deus, os dons celestes, alegrando-nos pela festa de hoje. Assim como anunciamos nesta Eucaristia a morte do vosso Filho, possamos participar, com os santos mártires, de sua ressurreição e de sua glória. Por Cristo, nosso Senhor.",
-        "extras": []
-      },
-      "leituras": {
-        "primeiraLeitura": [
-          {
-            "referencia": "Jó 42,1-3.5-6.12-16",
-            "titulo": "Leitura do livro de Jó",
-            "texto": "1Jó respondeu ao Senhor, dizendo: 2“Reconheço que podes tudo e que para ti nenhum pensamento é oculto. 3Quem é esse que ofusca a Providência, sem nada entender? Falei, pois, de coisas que não entendia, de maravilhas que ultrapassam a minha compreensão. 5Conhecia o Senhor apenas por ouvir falar, mas, agora, eu o vejo com meus olhos. 6Por isso me retrato e faço penitência no pó e na cinza”. 12O Senhor abençoou a Jó no fim de sua vida mais do que no princípio; ele possuía agora catorze mil ovelhas, seis mil camelos, mil juntas de bois e mil jumentas. 13Teve outros sete filhos e três filhas: 14a primeira chamava-se Rola, a segunda Cássia e a terceira Azeviche. 15Não havia em toda a terra mulheres mais belas que as filhas de Jó. Seu pai lhes destinou uma parte da herança entre os seus irmãos. 16Depois desses acontecimentos, Jó viveu cento e quarenta anos e viu seus filhos e os filhos de seus filhos até a quarta geração. E Jó morreu velho e repleto de anos."
-          }
-        ],
-        "salmo": [
-          {
-            "referencia": "Sl 118(119)",
-            "refrao": "Fazei brilhar vosso semblante ao vosso servo e ensinai-me vossas leis e mandamentos.",
-            "texto": "– Dai-me bom senso, retidão, sabedoria, pois tenho fé nos vossos santos mandamentos!\n– Para mim foi muito bom ser humilhado, porque assim eu aprendi vossa vontade!\n– Sei que os vossos julgamentos são corretos, e com justiça me provastes, ó Senhor!\n– Porque mandastes, tudo existe até agora; todas as coisas, ó Senhor, vos obedecem!\n– Sou vosso servo: concedei-me inteligência, para que eu possa compreender vossa aliança!\n– Vossa palavra, ao revelar-se, me ilumina, ela dá sabedoria aos pequeninos."
-          }
-        ],
-        "segundaLeitura": [],
-        "evangelho": [
-          {
-            "referencia": "Lc 10,17-24",
-            "titulo": "Proclamação do evangelho de Jesus Cristo segundo Lucas",
-            "texto": "Naquele tempo, 17os setenta e dois voltaram muito contentes, dizendo: “Senhor, até os demônios nos obedeceram por causa do teu nome”. 18Jesus respondeu: “Eu vi satanás cair do céu como um relâmpago. 19Eu vos dei o poder de pisar em cima de cobras e escorpiões e sobre toda a força do inimigo. E nada vos poderá fazer mal. 20Contudo, não vos alegreis porque os espíritos vos obedecem. Antes, ficai alegres porque vossos nomes estão escritos no céu”. 21Naquele momento, Jesus exultou no Espírito Santo e disse: “Eu te louvo, Pai, Senhor do céu e da terra, porque escondeste essas coisas aos sábios e inteligentes e as revelaste aos pequeninos. Sim, Pai, porque assim foi do teu agrado. 22Tudo me foi entregue pelo meu Pai. Ninguém conhece quem é o Filho, a não ser o Pai; e ninguém conhece quem é o Pai, a não ser o Filho e aquele a quem o Filho o quiser revelar”. 23Jesus voltou-se para os discípulos e disse-lhes em particular: “Felizes os olhos que veem o que vós vedes! 24Pois eu vos digo que muitos profetas e reis quiseram ver o que estais vendo e não puderam ver; quiseram ouvir o que estais ouvindo e não puderam ouvir”."
-          }
-        ],
-        "extras": []
-      },
-      "antifonas": {
-        "entrada": "Esses são os que vieram da grande tribulação. Lavaram e alvejaram as suas roupas no sangue do Cordeiro. (Cf. Ap 7,14)",
-        "comunhao": "Se o grão de trigo que cai na terra não morre, ele continua só um grão de trigo; mas se morre, então produz muito fruto. (Cf. Jo 12,24)"
-      }
-    },
     "2026-10-04": {
       "data": "04/10/2026",
       "liturgia": "27º Domingo do Tempo Comum",
@@ -278,6 +238,46 @@
             "referencia": "Lc 11,15-26",
             "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
             "texto": "Naquele tempo, Jesus estava expulsando um demônio. 15Mas alguns disseram: “É por Belzebu, o príncipe dos demônios, que ele expulsa os demônios”. 16Outros, para tentar Jesus, pediam-lhe um sinal do céu. 17Mas, conhecendo seus pensamentos, Jesus disse-lhes: “Todo reino dividido contra si mesmo será destruído; e cairá uma casa por cima da outra. 18Ora, se até satanás está dividido contra si mesmo, como poderá sobreviver o seu reino? Vós dizeis que é por Belzebu que eu expulso os demônios. 19Se é por meio de Belzebu que eu expulso demônios, vossos filhos os expulsam por meio de quem? Por isso, eles mesmos serão vossos juízes. 20Mas, se é pelo dedo de Deus que eu expulso os demônios, então chegou para vós o Reino de Deus. 21Quando um homem forte e bem armado guarda a própria casa, seus bens estão seguros. 22Mas, quando chega um homem mais forte do que ele, vence-o, arranca-lhe a armadura na qual ele confiava e reparte o que roubou. 23Quem não está comigo está contra mim. E quem não recolhe comigo dispersa. 24Quando o espírito mau sai de um homem, fica vagando em lugares desertos à procura de repouso; não o encontrando, ele diz: ‘Vou voltar para minha casa de onde saí’. 25Quando ele chega, encontra a casa varrida e arrumada. 26Então ele vai e traz consigo outros sete espíritos piores do que ele. E, entrando, instalam-se aí. No fim, esse homem fica em condição pior do que antes”."
+          }
+        ],
+        "extras": []
+      },
+      "antifonas": {
+        "entrada": "Ao vosso poder, Senhor, tudo está sujeito, e não há quem possa resistir à vossa vontade, porque sois o criador de todas as coisas, do céu e da terra e de tudo que eles contêm; vós sois o Senhor do universo. (Cf. Est 4, 17)",
+        "comunhao": "O Senhor é bondoso para quem nele confia, para a alma que o procura. (Lm 3, 25)"
+      }
+    },
+    "2026-10-10": {
+      "data": "10/10/2026",
+      "liturgia": "Sábado da 27ª Semana do Tempo Comum",
+      "cor": "Verde",
+      "oracoes": {
+        "coleta": "Deus eterno e todo-poderoso, que no vosso imenso amor de Pai nos concedeis mais do que merecemos e pedimos, infundi em nós vossa misericórdia, para perdoar o que nos pesa na consciência e para nos dar mais do que a oração ousa pedir. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+        "oferendas": "Acolhei, Senhor, nós vos pedimos, o sacrifício que instituístes; e pelos sagrados mistérios que celebramos em vossa honra dignai-vos completar a santificação daqueles que salvastes. Por Cristo, nosso Senhor.",
+        "comunhao": "Concedei-nos, Deus todo-poderoso, que inebriados e saciados pelo sacramento que recebemos, sejamos transformados naquele que comungamos. Por Cristo, nosso Senhor.",
+        "extras": []
+      },
+      "leituras": {
+        "primeiraLeitura": [
+          {
+            "referencia": "Gl 3,22-29",
+            "titulo": "Leitura da carta de São Paulo aos Gálatas",
+            "texto": "Irmãos, 22a Escritura pôs todos e tudo sob o jugo do pecado, a fim de que, pela fé em Jesus Cristo, se cumprisse a promessa em favor dos que creem. 23Antes que se inaugurasse o regime da fé, nós éramos guardados, como prisioneiros, sob o jugo da Lei. Éramos guardados para o regime da fé, que estava para ser revelado. 24Assim, a Lei foi como um pedagogo que nos conduziu até Cristo, para que fôssemos justificados pela fé. 25Mas, uma vez inaugurado o regime da fé, já não estamos na dependência desse pedagogo. 26Com efeito, vós todos sois filhos de Deus pela fé em Jesus Cristo. 27Vós todos que fostes batizados em Cristo vos revestistes de Cristo. 28O que vale não é mais ser judeu nem grego, nem escravo nem livre, nem homem nem mulher, pois todos vós sois um só em Jesus Cristo. 29Sendo de Cristo, sois então descendência de Abraão, herdeiros segundo a promessa."
+          }
+        ],
+        "salmo": [
+          {
+            "referencia": "Sl 104(105)",
+            "refrao": "O Senhor se lembra sempre da Aliança!",
+            "texto": "– Cantai, entoai salmos para ele, publicai todas as suas maravilhas! Gloriai-vos em seu nome, que é santo, exulte o coração que busca a Deus!\n– Procurai o Senhor Deus e seu poder, buscai constantemente a sua face! Lembrai as maravilhas que ele fez, seus prodígios e as palavras de seus lábios!\n– Descendentes de Abraão, seu servidor, e filhos de Jacó, seu escolhido, ele mesmo, o Senhor, é nosso Deus, vigoram suas leis em toda a terra."
+          }
+        ],
+        "segundaLeitura": [],
+        "evangelho": [
+          {
+            "referencia": "Lc 11,27-28",
+            "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+            "texto": "Naquele tempo, 27enquanto Jesus falava, uma mulher levantou a voz no meio da multidão e lhe disse: “Feliz o ventre que te trouxe e os seios que te amamentaram”. 28Jesus respondeu: “Muito mais felizes são aqueles que ouvem a Palavra de Deus e a põem em prática”."
           }
         ],
         "extras": []
