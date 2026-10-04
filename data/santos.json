@@ -1,20 +1,21 @@
 {
+  "atualizadoEm": "2026-10-04T18:40:07.0344258Z",
   "santos": {
     "2026-10-04": {
-      "fonte": "A12 · Santuário de Aparecida",
-      "data": "2026-10-04",
       "imagem": "https://www.a12.com/source/files/originals/Sao_Francisco_de_Assis-901913.jpg",
-      "resumo": "Francisco logo percebeu não ser aquela a vida que almejava. Chegou a lutar numa guerra, mas o coração o chamava à religião.",
+      "nome": "São Francisco de Assis",
+      "data": "2026-10-04",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=254&day=4&month=10",
-      "nome": "São Francisco de Assis"
+      "resumo": "Francisco logo percebeu não ser aquela a vida que almejava. Chegou a lutar numa guerra, mas o coração o chamava à religião.",
+      "fonte": "A12 · Santuário de Aparecida"
     },
     "2026-10-06": {
-      "fonte": "A12 · Santuário de Aparecida",
-      "data": "2026-10-06",
       "imagem": "https://www.a12.com/source/files/originals/Sao_Bruno_Abade-730162.jpg",
-      "resumo": "Respondendo aos apelos vocacionais, Bruno estudou teologia e tornou-se logo um excelente padre.",
+      "nome": "São Bruno Abade",
+      "data": "2026-10-06",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=256&day=6&month=10",
-      "nome": "São Bruno Abade"
+      "resumo": "Respondendo aos apelos vocacionais, Bruno estudou teologia e tornou-se logo um excelente padre.",
+      "fonte": "A12 · Santuário de Aparecida"
     },
     "2026-10-02": {
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=702&day=2&month=10",
@@ -33,52 +34,52 @@
       "imagem": "https://www.a12.com/source/files/originals/3_de_outubro_-_Santos_Martires_de_Cunhau_e_Uruacu-280032.jpg"
     },
     "2026-10-05": {
-      "fonte": "A12 · Santuário de Aparecida",
-      "data": "2026-10-05",
       "imagem": "https://www.a12.com/source/files/originals/5_de_outubro_-_Sao_Benedito-068857.jpg",
-      "resumo": "São Benedito, cuja festa é celebrada no dia 5 de outubro, é uma figura venerada na tradição católica que deixou um profundo…",
+      "nome": "São Benedito",
+      "data": "2026-10-05",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=699&day=5&month=10",
-      "nome": "São Benedito"
+      "resumo": "São Benedito, cuja festa é celebrada no dia 5 de outubro, é uma figura venerada na tradição católica que deixou um profundo…",
+      "fonte": "A12 · Santuário de Aparecida"
     },
     "2026-10-07": {
-      "fonte": "A12 · Santuário de Aparecida",
-      "data": "2026-10-07",
       "imagem": "https://www.a12.com/source/files/originals/7_de_outubro_-_Santa_Justina-543304.jpg",
-      "resumo": "No dia 7 de outubro, a Igreja Católica comemora a festa de Santa Justina, uma figura venerada por sua notável devoção e…",
+      "nome": "Santa Justina de Pádua",
+      "data": "2026-10-07",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=701&day=7&month=10",
-      "nome": "Santa Justina de Pádua"
+      "resumo": "No dia 7 de outubro, a Igreja Católica comemora a festa de Santa Justina, uma figura venerada por sua notável devoção e…",
+      "fonte": "A12 · Santuário de Aparecida"
     },
     "2026-10-08": {
-      "fonte": "A12 · Santuário de Aparecida",
-      "data": "2026-10-08",
       "imagem": "https://www.a12.com/source/files/originals/8_de_outubro_-__Santa_Pelagia-884935.jpg",
-      "resumo": "Figuras cristãs como Santa Pelágia, recordam profeticamente a Igreja da verdadeira ordem dos valores obscurecidos frequentemente pelos crescentes compromissos temporais.",
+      "nome": "Santa Pelágia",
+      "data": "2026-10-08",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=258&day=8&month=10",
-      "nome": "Santa Pelágia"
+      "resumo": "Figuras cristãs como Santa Pelágia, recordam profeticamente a Igreja da verdadeira ordem dos valores obscurecidos frequentemente pelos crescentes compromissos temporais.",
+      "fonte": "A12 · Santuário de Aparecida"
     },
     "2026-10-09": {
-      "fonte": "A12 · Santuário de Aparecida",
-      "data": "2026-10-09",
       "imagem": "https://www.a12.com/source/files/originals/9_de_outubro_-_Sao_Luis_Beltran-910289.jpg",
-      "resumo": "O Apóstolo da América Latina, São Luís Beltrán desempenhou um papel crucial na propagação do cristianismo nas colônias espanholas do século XVI.",
+      "nome": "São Luís Beltrán",
+      "data": "2026-10-09",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=703&day=9&month=10",
-      "nome": "São Luís Beltrán"
+      "resumo": "O Apóstolo da América Latina, São Luís Beltrán desempenhou um papel crucial na propagação do cristianismo nas colônias espanholas do século XVI.",
+      "fonte": "A12 · Santuário de Aparecida"
     },
     "2026-10-10": {
-      "fonte": "A12 · Santuário de Aparecida",
-      "data": "2026-10-10",
       "imagem": "https://www.a12.com/source/files/originals/10_de_outubro_-_Sao_Daniel_Comboni-788442.jpg",
-      "resumo": "Daniel Comboni anunciou e testemunhou o Evangelho em tudo aquilo que fez. Antes de mais, ele sente-se discípulo de Cristo.",
+      "nome": "São Daniel Comboni",
+      "data": "2026-10-10",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=260&day=10&month=10",
-      "nome": "São Daniel Comboni"
+      "resumo": "Daniel Comboni anunciou e testemunhou o Evangelho em tudo aquilo que fez. Antes de mais, ele sente-se discípulo de Cristo.",
+      "fonte": "A12 · Santuário de Aparecida"
     },
     "2026-10-11": {
-      "fonte": "A12 · Santuário de Aparecida",
-      "data": "2026-10-11",
       "imagem": "https://www.a12.com/source/files/originals/11_de_outubro_-_Sao_Joao_XXIII-797781.jpg",
-      "resumo": "João XXIII exalava odor de santidade, sendo assim reconhecido pelo seu rebanho que o chamava apenas de Papa Bom.",
+      "nome": "São João XXIII",
+      "data": "2026-10-11",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=261&day=11&month=10",
-      "nome": "São João XXIII"
+      "resumo": "João XXIII exalava odor de santidade, sendo assim reconhecido pelo seu rebanho que o chamava apenas de Papa Bom.",
+      "fonte": "A12 · Santuário de Aparecida"
     },
     "2026-10-12": {
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=707&day=12&month=10",
@@ -241,6 +242,5 @@
       "imagem": "https://www.a12.com/source/files/originals/31_de_outubro_-_Santo_Afonso_Rodrigues-385680.jpg"
     }
   },
-  "atualizadoEm": "2026-10-04T14:49:14.4971913Z",
   "fonte": "https://www.a12.com"
 }
