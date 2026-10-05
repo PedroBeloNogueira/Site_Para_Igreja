@@ -1,8 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import * as liturgia from '../js/liturgia.js';
-import { mesesDisponiveis } from '../data/indice.js';
-import { liturgias as modelo } from '../data/modelo-31-dias.js';
 
 test('Brasília independe do fuso do dispositivo e respeita viradas do calendário', () => {
   const anterior = process.env.TZ;
@@ -35,11 +33,10 @@ test('próxima meia-noite cobre meses de 28, 29, 30, 31 dias e ano novo', () => 
 });
 
 test('modelos, rascunhos, datas divergentes e objetos vazios não são publicados', () => {
-  for (const valor of [null, {}, { celebracao: ' ' }, modelo['01'],
+  for (const valor of [null, {}, { celebracao: ' ' }, { celebracao: 'Exemplo', exemplo: true },
     { celebracao: 'Teste', publicado: false }, { celebracao: 'Teste', data: '2026-09-02' }]) {
     assert.equal(liturgia.diaPublicado(valor, '2026-09-01'), false);
   }
-  assert.equal(Object.keys(modelo).length, 31);
   assert.equal(liturgia.diaPublicado({ celebracao: 'Cadastro' }, '2026-09-01'), true);
 });
 
@@ -59,56 +56,54 @@ ids.liturgiaTempo.parentElement = new Elemento('div');
 globalThis.document = { createElement: tag => new Elemento(tag), createTextNode: v => { const e = new Elemento('#text'); e.textContent = v; return e; }, getElementById: id => ids[id] };
 const todos = el => [el, ...el.children.flatMap(todos)];
 
-test('opcionais, texto seguro e accordion abrem/fecham sem conteúdo vazio', () => {
+test('leituras vazias ficam ocultas e texto é exibido sem executar HTML', () => {
   assert.equal(liturgia.renderizarLeitura(null, 'Leitura', 'x'), null);
   assert.equal(liturgia.renderizarLeitura({ texto: ' ' }, 'Leitura', 'x'), null);
-  assert.equal(liturgia.renderizarHomilia({}), null);
+
   assert.equal(liturgia.renderizarSalmo({}), null);
   assert.ok(liturgia.renderizarSalmo({ refrao: 'Refrão de teste' }));
   const card = liturgia.renderizarLeitura({ texto: '<img src=x onerror=alert(1)>\n\nSegundo parágrafo', aprendaMais: { mensagemPrincipal: 'Teste', contextoHistorico: '' } }, 'Leitura', 'x');
   assert.equal(todos(card).some(e => e.tagName === 'img'), false);
   assert.ok(card.textContent.includes('<img src=x onerror=alert(1)>'));
-  const botao = todos(card).find(e => e.tagName === 'button');
-  const painel = todos(card).find(e => e.id === 'aprenda-x');
-  assert.equal(painel.hidden, true);
-  botao.events.click();
-  assert.equal(botao.getAttribute('aria-expanded'), 'true');
-  assert.equal(painel.hidden, false);
-  botao.events.click();
-  assert.equal(painel.hidden, true);
 });
 
-test('vídeo aceita apenas ID e usa embed oficial ou aviso', () => {
-  for (const youtubeId of [null, '', '../arquivo', 'https://youtube.com/abc', '"><script>']) {
-    const card = liturgia.renderizarVideo({ youtubeId });
-    assert.equal(todos(card).some(e => e.tagName === 'iframe'), false);
-    assert.ok(card.textContent.includes('disponível em breve'));
-  }
-  const iframe = todos(liturgia.renderizarVideo({ youtubeId: 'Abc_123-XYZ' })).find(e => e.tagName === 'iframe');
-  assert.equal(iframe.src, 'https://www.youtube.com/embed/Abc_123-XYZ');
-});
 
-test('troca remove cards/vídeo/cor e dias/meses ausentes não reaproveitam dados', async () => {
+test('troca remove leituras e cor e dias ausentes não reaproveitam dados', async () => {
   const data = liturgia.obterDataBrasilia(new Date('2026-09-01T15:00:00Z'));
   liturgia.renderizarLiturgia({ celebracao: 'Teste', corLiturgica: 'roxo', primeiraLeitura: { texto: 'Texto teste' }, segundaLeitura: null, video: { youtubeId: 'Abc_123-XYZ' } }, data);
   assert.equal(ids.liturgia.dataset.corLiturgica, 'roxo');
-  assert.equal(todos(ids.liturgiaCards).filter(e => e.tagName === 'iframe').length, 1);
-  await liturgia.carregarLiturgiaDoDia(new Date('2026-09-02T15:00:00Z'));
+  assert.equal(todos(ids.liturgiaCards).filter(e => e.tagName === 'iframe').length, 0);
+  await liturgia.carregarLiturgiaDoDia(new Date('2026-09-02T15:00:00Z'), async () => ({liturgia: null}));
   assert.equal(ids.liturgiaCelebracao.textContent, 'Liturgia ainda não disponível');
   assert.equal(todos(ids.liturgiaCards).filter(e => e.tagName === 'iframe').length, 0);
   assert.equal(ids.liturgia.dataset.corLiturgica, undefined);
-  await liturgia.carregarLiturgiaDoDia(new Date('2030-01-01T15:00:00Z'));
-  assert.equal(ids.liturgiaCards.children.length, 1); // Apenas aviso do vídeo.
+  await liturgia.carregarLiturgiaDoDia(new Date('2030-01-01T15:00:00Z'), async () => ({liturgia: null}));
+  assert.equal(ids.liturgiaCards.children.length, 0);
 });
 
 test('resposta atrasada de outro mês não sobrescreve o dia mais recente', async () => {
   let resolver;
-  mesesDisponiveis['2040-01'] = () => new Promise(resolve => { resolver = resolve; });
-  const pendente = liturgia.carregarLiturgiaDoDia(new Date('2040-01-31T15:00:00Z'));
-  await liturgia.carregarLiturgiaDoDia(new Date('2040-02-01T15:00:00Z'));
-  resolver({ liturgias: { '31': { celebracao: 'Antigo' } } });
+  const consultar = () => new Promise(resolve => { resolver = resolve; });
+  const pendente = liturgia.carregarLiturgiaDoDia(new Date('2040-01-31T15:00:00Z'), consultar);
+  await liturgia.carregarLiturgiaDoDia(new Date('2040-02-01T15:00:00Z'), async () => ({liturgia: null}));
+  resolver({ liturgia: {data: '2040-01-31', celebracao: 'Antigo'} });
   await pendente;
   assert.equal(ids.liturgiaCelebracao.textContent, 'Liturgia ainda não disponível');
   assert.ok(ids.liturgiaData.textContent.includes('fevereiro'));
-  delete mesesDisponiveis['2040-01'];
+
+});
+
+test('prévia destaca o Evangelho e fica vazia sem leitura publicada', () => {
+  ids.liturgiaCards.dataset.preview = 'true';
+  const data = liturgia.obterDataBrasilia(new Date('2026-10-02T15:00:00Z'));
+  try {
+    const dados = { celebracao: 'Celebração de teste', evangelho: { referencia: 'Referência de teste', texto: 'Palavra para meditar.' } };
+    liturgia.renderizarLiturgia(dados, data);
+    assert.equal(todos(ids.liturgiaCards).filter(e => e.tagName === 'blockquote').length, 1);
+    assert.equal(todos(ids.liturgiaCards).some(e => e.tagName === 'iframe'), false);
+    liturgia.renderizarLiturgia(dados, data);
+    assert.ok(ids.liturgiaCards.textContent.includes('Referência de teste'));
+    liturgia.renderizarLiturgia(null, data);
+    assert.equal(ids.liturgiaCards.children.length, 0);
+  } finally { delete ids.liturgiaCards.dataset.preview; }
 });

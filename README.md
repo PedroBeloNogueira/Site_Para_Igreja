@@ -1,34 +1,26 @@
-# Cadastro da liturgia — Emaús
+# Emaús — site da paróquia
 
-O site usa apenas arquivos locais preenchidos pelo responsável. Setembro e outubro de 2026 começam sem conteúdo publicado: nenhum exemplo é apresentado como leitura religiosa real. O santo do topo permanece independente e não foi alterado.
+## Liturgia automática
 
-## Preencher setembro e outubro
+A página inicial e a página de liturgia consultam a API pública Liturgia Diária v2, mantida por Dancrf: https://liturgia.up.railway.app/v2/. Documentação: https://github.com/Dancrf/liturgia-diaria/blob/main/docs/v2/README.md.
 
-1. Abra `data/modelo-31-dias.js`: a entrada `01` mostra todos os campos. Copie as entradas necessárias para `data/2026-09.js`, dentro de `export const liturgias = { ... }`.
-2. Substitua todos os textos `[EXEMPLO]` por conteúdo conferido e autorizado. Remova `exemplo: true` somente quando terminar. `publicado: false` também permite manter um rascunho. Uma entrada `{}` ou sem `celebracao` preenchida não é publicada.
-3. Use chaves com dois dígitos (`'01'`, `'02'`), correspondentes ao dia do arquivo mensal. Setembro vai até 30; outubro até 31. O campo opcional `data: '2026-09-01'`, se informado, deve coincidir com o dia; divergências impedem a exibição.
-4. Para outubro, preencha `data/2026-10.js` da mesma forma. Ambos os meses já estão cadastrados no índice.
-5. Para outro mês/ano, copie o modelo para `data/AAAA-MM.js` e acrescente uma linha de cadastro em `data/indice.js`, por exemplo: `'2026-11': () => import('./2026-11.js'),`. Não é necessário modificar `js/liturgia.js`. Esse índice simples evita pedidos 404 para meses que ainda não existem; mantenha nele apenas arquivos presentes.
+A consulta envia dia, mês e ano no horário de Brasília. A resposta deve corresponder à data solicitada e conter celebração, primeira leitura, salmo e Evangelho. Leituras alternativas e adicionais são preservadas na página completa. Segunda leitura aparece somente quando existe. Textos são exibidos sem executar HTML.
 
-`texto` aceita uma string (separe parágrafos por uma linha em branco) ou uma lista de strings. HTML é exibido literalmente, sem execução. Os campos de `aprendaMais` são opcionais; campos vazios e accordions sem conteúdo não aparecem. Leitura sem texto não gera card. Salmo aparece com texto ou refrão. Use `segundaLeitura: null` quando não houver; homilia vazia também não gera card. Não há player de áudio fictício.
+A API é a fonte principal. Em caso de falha, o site usa a resposta para a mesma data em `data/liturgia-auto.json` ou a última resposta salva no navegador. Nunca mostra a liturgia de ontem como a de hoje. Sem cópia do dia, informa a indisponibilidade. A data é conferida à meia-noite de Brasília, ao retornar à aba e a cada 15 minutos enquanto visível. Bloquear o armazenamento do navegador não impede a consulta à API.
 
-`corLiturgica` aceita `verde`, `roxo`, `branco`, `vermelho` ou `rosa` e colore o ponto e a borda dos cards. A paleta e o tema do restante da página permanecem iguais.
+Não é mais necessário preencher arquivos mensais nem cadastrar novos meses no índice. A API fornece leituras e cor litúrgica; homilias e explicações próprias não são geradas. A prévia mostra um trecho do primeiro Evangelho disponível.
 
-## Vídeo
+### Cópia automática
 
-Preencha `video: { youtubeId: 'ID_DO_VIDEO' }` com o ID real de 11 caracteres (letras, números, `_` ou `-`), não com a URL inteira. `null`, ausência ou formato inválido mostram “Santa Missa de Hoje” e “A celebração em vídeo estará disponível em breve.” O formato válido não garante que o vídeo exista ou permita incorporação; confira isso no YouTube. O iframe usa exclusivamente `https://www.youtube.com/embed/ID`, sem download ou armazenamento do vídeo.
+Execute `node scripts/atualizar-liturgia.mjs` com Node 22 ou posterior para preparar hoje e os próximos seis dias. Respostas são validadas antes de gravar. Falhas parciais preservam as cópias existentes; falha total não altera o arquivo. Foram conferidas respostas reais da API de 2 a 8 de outubro de 2026.
 
-## Executar e atualizar
+O workflow `.github/workflows/noticias.yml` também executa o coletor. Publicar os arquivos e habilitar Actions ativa a manutenção da cópia. A consulta direta à API funciona ao carregar o site por HTTP. Falha em um coletor não impede a publicação dos dados preservados pelos demais. A configuração de GitHub Pages está descrita abaixo.
 
-Abra pelo Live Server do VS Code ou outro servidor HTTP local. Módulos JavaScript não funcionam corretamente ao abrir o HTML diretamente por `file://`. Na hospedagem estática, envie juntos HTML, CSS, `js/` e `data/`, servindo `.js` como JavaScript. Não é necessário backend, API ou build.
+### Executar e testar
 
-A data vem de `Intl.DateTimeFormat` no fuso `America/Sao_Paulo`, independentemente do fuso do computador (o relógio precisa estar correto). Um temporizador agenda a próxima meia-noite; retorno à aba, foco e restauração da página conferem novamente a data após suspensão. Meses, anos e bissextos seguem o calendário do fuso. Dias ausentes nunca reutilizam a leitura anterior.
+Use Live Server ou outro servidor HTTP local; módulos JavaScript não funcionam corretamente por `file://`. Publique todas as páginas, `styles.css`, `assets/`, `js/` e `data/`. Não há build ou dependências a instalar.
 
-Ao editar um ID ou texto já publicado, envie novamente o arquivo mensal e recarregue a página. Módulos ficam em cache na aba: o site não consulta edições a cada segundo nem promete atualização instantânea de conteúdo no mesmo dia. Configure revalidação de cache HTTP (`Cache-Control: no-cache`) para HTML e arquivos de dados/índice na hospedagem; caso haja cache antigo, faça recarga forçada. Novos meses também exigem publicar o índice atualizado. Erros reais de arquivo cadastrado (arquivo faltando, sintaxe ou rede) mantêm o estado indisponível e emitem um aviso no console.
-
-## Validação local
-
-Execute `node --test tests/liturgia.test.mjs` (Node 22 ou posterior). Os testes usam apenas o Node, sem instalar dependências.
+Execute `node --test tests/liturgia.test.mjs tests/liturgia-api.test.mjs tests/santo.test.mjs`. Os testes cobrem a data em Brasília, viradas do calendário, validação da API, cópias em falhas, resposta atrasada e conteúdo seguro.
 
 ## Notícias automáticas — Vatican News
 
@@ -49,3 +41,40 @@ Esta implementação local não habilita configurações no GitHub nem publica a
 ### Testes
 
 Execute `pwsh -File tests/noticias.test.ps1` para verificar RSS, CDATA, remoção de HTML, ordenação, duplicados, URLs e preservação do último arquivo válido em caso de falha. Execute também `node --test tests/liturgia.test.mjs`.
+
+## Páginas do site
+
+A página inicial apresenta chamadas para os conteúdos. Publique também `liturgia.html`, `oracoes.html`, `noticias.html`, junto com os recursos compartilhados.
+
+## Homenagem automática ao santo do dia
+
+O início exibe a imagem e, abaixo, o nome do santo selecionado pelo calendário do A12 (Santuário de Aparecida), com crédito e link para a história. Quando há vários santos, usa a primeira homenagem com imagem do calendário. A imagem é carregada do servidor da fonte.
+
+O arquivo local `data/santos.json` contém as homenagens por data. Já estão cadastrados os dias de 2 a 31 de outubro de 2026. Execute `pwsh -File scripts/atualizar-santos.ps1` para consultar hoje e os próximos sete dias; falhas preservam os cadastros anteriores. O workflow de notícias também executa esse coletor e publica todas as páginas. Para atualização contínua, publique as alterações no branch padrão e habilite Actions e a hospedagem conforme a seção acima.
+
+O navegador troca a homenagem à meia-noite de Brasília, confere a data ao retornar à aba e consulta o JSON a cada 15 minutos enquanto visível. Sem cadastro válido para a data, mostra um aviso e não reutiliza o santo de ontem. Sem imagem acessível, mantém o nome e a história. Não é preciso cadastrar manualmente cada dia.
+
+Validação: `node --test tests/liturgia.test.mjs tests/santo.test.mjs` e `pwsh -File tests/santos.test.ps1`.
+
+
+## Identidade visual da paróquia
+
+A logo original de Nossa Senhora da Assunção (Mazagão–AP) foi convertida de AI para `assets/logo-paroquia.svg`, preservando o desenho vetorial. O cabeçalho e o ícone das quatro páginas usam esse arquivo. A paleta fornecida está nas variáveis do CSS: dourados e bege nos detalhes, fundo claro #F2F2F2 e texto escuro. O tema escuro usa fundos castanhos e dourado claro, com preferência salva no navegador. As cores litúrgicas dos conteúdos continuam independentes da identidade da paróquia.
+
+## Apoio à comunidade por Pix
+
+Os botões de apoio abrem um dialog modal com QR Code estático, chave CNPJ e destinatário informado: PAROQUIA NOSSA SENHA DA ASSUNÇÃO. A cidade do QR é Mazagão. O QR usa valor livre e a chave 07814217002470, com checksum CRC16. O nome no payload é normalizado e limitado aos 25 caracteres previstos no BR Code; a janela mostra o nome completo informado. A conferência do cadastro bancário ocorre no aplicativo de pagamento.
+
+O QR está em `assets/pix-comunidade.svg` e o payload em `assets/pix-comunidade.txt`. A configuração do modal está em `js/apoio.js`. Para a foto futura, coloque a imagem em `assets/igreja.jpg` e preencha `foto` com esse caminho. Até lá, a área mostra a logo da paróquia. Escape, botão de fechar e clique fora fecham a janela; o foco retorna ao botão de origem.
+
+## Dados da paróquia
+
+Paróquia Nossa Senhora da Assunção. Endereço: Trav. Pe. Antônio Valente Flexa, s/n - Bairro Central, Mazagão - AP, 68940-000. CNPJ: 07.814.217/0024-70. Horários informados das Missas: 07h00 e 18h00; dias da semana não informados. Site criado por Pedro Belo Nogueira. Informações exibidas no rodapé das quatro páginas principais.
+
+## Conteúdo e manutenção
+
+A navegação mantém quatro páginas e uma janela de apoio. Foram removidos os cadastros mensais antigos, modelos e índice manual, a antiga página de contribuição, rótulos decorativos, numeração de seções, reflexão genérica e o aviso de vídeo sem integração. As leituras e sua numeração bíblica, a formação, o Pix, créditos e estados de erro permanecem.
+
+## Orações individuais
+
+`oracoes.html` é o catálogo com caixas de acesso. Pai Nosso, Ave Maria, Creio em Deus Pai, Glória ao Pai, Salve Rainha e Ó meu Jesus têm páginas individuais com o texto completo. Os guias do terço e da Missa também têm páginas próprias. Todos os HTML da raiz são incluídos na publicação do GitHub Actions.

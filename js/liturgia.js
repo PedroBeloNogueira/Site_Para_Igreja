@@ -1,4 +1,4 @@
-import { mesesDisponiveis } from '../data/indice.js';
+import { buscarLiturgia } from './liturgia-api.js?v=20261002-mobile-2';
 
 const FUSO = 'America/Sao_Paulo';
 const formato = new Intl.DateTimeFormat('en-CA', {
@@ -10,11 +10,6 @@ const formatoExtenso = new Intl.DateTimeFormat('pt-BR', {
 const texto = valor => typeof valor === 'string' ? valor.trim() : '';
 const paragrafos = valor => (Array.isArray(valor) ? valor : texto(valor).split(/\n\s*\n/))
   .map(texto).filter(Boolean);
-const camposAprenda = {
-  contextoHistorico: 'Contexto histórico', contextoReligioso: 'Contexto religioso',
-  ligacaoComEvangelho: 'Ligação com o Evangelho', mensagemPrincipal: 'Mensagem principal',
-  aplicacaoNaVida: 'Aplicação na vida',
-};
 
 export function obterDataBrasilia(agora = new Date()) {
   const partes = Object.fromEntries(formato.formatToParts(agora).map(p => [p.type, p.value]));
@@ -62,35 +57,6 @@ function criarCard(titulo) {
   return card;
 }
 
-function renderizarAprenda(card, dados, id) {
-  const campos = Object.entries(camposAprenda).filter(([chave]) => paragrafos(dados?.[chave]).length);
-  if (!campos.length) return;
-  const botao = criar('button', 'accordion-toggle');
-  botao.type = 'button';
-  botao.setAttribute('aria-expanded', 'false');
-  botao.setAttribute('aria-controls', `aprenda-${id}`);
-  botao.append(criar('span', 'chevron', '↓'), document.createTextNode(' Aprenda mais'));
-  const painel = criar('div', 'accordion-panel');
-  painel.id = `aprenda-${id}`;
-  painel.hidden = true;
-  const interior = criar('div', 'accordion-inner');
-  for (const [chave, titulo] of campos) {
-    const item = criar('div', 'aprenda-item');
-    item.append(criar('h4', '', titulo));
-    adicionarTexto(item, dados[chave]);
-    interior.append(item);
-  }
-  painel.append(interior);
-  botao.addEventListener('click', () => {
-    const abrir = botao.getAttribute('aria-expanded') !== 'true';
-    botao.setAttribute('aria-expanded', String(abrir));
-    painel.hidden = !abrir;
-    // Sem altura fixa: acompanha mudanças de fonte e largura da tela.
-    painel.style.maxHeight = abrir ? 'none' : '0px';
-  });
-  card.append(botao, painel);
-}
-
 export function renderizarLeitura(dados, titulo, id) {
   if (!paragrafos(dados?.texto).length) return null;
   const card = criarCard(texto(dados.titulo) || titulo);
@@ -99,7 +65,6 @@ export function renderizarLeitura(dados, titulo, id) {
   const corpo = criar('div', 'reading-text');
   adicionarTexto(corpo, dados.texto);
   card.append(corpo);
-  renderizarAprenda(card, dados.aprendaMais, id);
   return card;
 }
 
@@ -112,36 +77,6 @@ export function renderizarSalmo(dados) {
   if (texto(dados.refrao)) corpo.append(criarParagrafo(dados.refrao, 'salmo-refrao'));
   adicionarTexto(corpo, dados.texto);
   card.append(corpo);
-  renderizarAprenda(card, dados.aprendaMais, 'salmo');
-  return card;
-}
-
-export function renderizarHomilia(dados) {
-  if (!paragrafos(dados?.texto).length) return null;
-  const card = criarCard('Homilia');
-  const corpo = criar('div', 'reading-text');
-  adicionarTexto(corpo, dados.texto);
-  card.append(corpo);
-  return card;
-}
-
-export function renderizarVideo(dados) {
-  const card = criarCard('Santa Missa de Hoje');
-  const quadro = criar('div', 'video-frame');
-  const id = texto(dados?.youtubeId);
-  if (/^[A-Za-z0-9_-]{11}$/.test(id)) {
-    const iframe = criar('iframe');
-    iframe.src = `https://www.youtube.com/embed/${id}`;
-    iframe.title = 'Santa Missa de Hoje';
-    iframe.loading = 'lazy';
-    iframe.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share';
-    iframe.allowFullscreen = true;
-    iframe.referrerPolicy = 'strict-origin-when-cross-origin';
-    quadro.append(iframe);
-  } else {
-    quadro.append(criar('p', 'video-aviso', 'A celebração em vídeo estará disponível em breve.'));
-  }
-  card.append(quadro);
   return card;
 }
 
@@ -173,39 +108,64 @@ export function renderizarLiturgia(dados, data = obterDataBrasilia()) {
   tempo.textContent = publicado ? texto(dados.tempoLiturgico) : '';
   tempo.parentElement.hidden = !tempo.textContent;
   const aviso = document.getElementById('liturgiaAviso');
-  aviso.textContent = publicado ? '' : 'O conteúdo deste dia ainda está sendo preparado.';
+  aviso.textContent = publicado ? '' : 'Não foi possível obter as leituras deste dia.';
   aviso.hidden = publicado;
   aplicarCorLiturgica(publicado ? dados.corLiturgica : null);
+  if (cards.dataset?.preview === 'true') {
+    if (publicado) {
+      const leitura = dados.evangelho;
+      const trecho = Array.isArray(leitura?.texto) ? leitura.texto.join(' ') : texto(leitura?.texto);
+      if (trecho) {
+        const previa = criar('article', 'liturgy-preview');
+        previa.append(criar('p', 'reading-heading', 'Evangelho'), criar('h3', '', texto(leitura.referencia)));
+        previa.append(criar('blockquote', 'preview-excerpt', trecho.length > 320 ? trecho.slice(0, 320).replace(/\s+\S*$/, '') + '…' : trecho));
+        cards.append(previa);
+      }
+    }
+    return;
+  }
   if (publicado) {
-    const conteudos = [
+    const grupos = dados.gruposLeituras;
+    const conteudos = grupos ? [
+      ...grupos.primeiraLeitura.map((l, i) => renderizarLeitura(l, 'Primeira Leitura', `primeira-${i}`)),
+      ...grupos.extras.map((l, i) => renderizarLeitura(l, 'Leitura adicional', `extra-${i}`)),
+      ...grupos.salmo.map(l => renderizarSalmo(l)),
+      ...grupos.segundaLeitura.map((l, i) => renderizarLeitura(l, 'Segunda Leitura', `segunda-${i}`)),
+      ...grupos.evangelho.map((l, i) => renderizarLeitura(l, 'Evangelho', `evangelho-${i}`)),
+    ] : [
       renderizarLeitura(dados.primeiraLeitura, 'Primeira Leitura', 'primeira'),
       renderizarSalmo(dados.salmo),
       renderizarLeitura(dados.segundaLeitura, 'Segunda Leitura', 'segunda'),
       renderizarLeitura(dados.evangelho, 'Evangelho', 'evangelho'),
-      renderizarHomilia(dados.homilia),
     ];
     cards.append(...conteudos.filter(Boolean));
   }
-  cards.append(renderizarVideo(publicado ? dados.video : null));
 }
 
 let dataCarregada = null;
 let requisicao = 0;
 let temporizador;
+let ultimaConsulta = 0;
 
-export async function carregarLiturgiaDoDia(agora = new Date()) {
+export async function carregarLiturgiaDoDia(agora = new Date(), consultar = buscarLiturgia) {
   const data = obterDataBrasilia(agora);
   const versao = ++requisicao;
+  const mudou = dataCarregada !== data.iso;
   dataCarregada = data.iso;
-  renderizarLiturgia(null, data);
-  const carregarMes = mesesDisponiveis[`${data.ano}-${data.mes}`];
-  if (!carregarMes) return; // Sem request para meses não cadastrados.
+  ultimaConsulta = Date.now();
+  if (mudou) {
+    renderizarLiturgia(null, data);
+    document.getElementById('liturgiaAviso').textContent = 'Consultando as leituras deste dia…';
+  }
   try {
-    const { liturgias } = await carregarMes();
-    if (versao === requisicao) renderizarLiturgia(liturgias?.[data.dia], data);
+    const { liturgia } = await consultar(data.iso);
+    if (versao !== requisicao) return;
+    renderizarLiturgia(liturgia, data);
   } catch (erro) {
-    // Arquivo inválido/indisponível conserva o estado vazio, nunca o dia anterior.
-    if (versao === requisicao) console.warn('Não foi possível carregar o mês litúrgico.', erro);
+    if (versao === requisicao) {
+      renderizarLiturgia(null, data);
+      console.warn('Não foi possível carregar a liturgia.', erro);
+    }
   }
 }
 
@@ -216,7 +176,7 @@ export function agendarProximaAtualizacao() {
 }
 
 function atualizarSeNecessario() {
-  if (obterDataBrasilia().iso !== dataCarregada) void carregarLiturgiaDoDia();
+  if (obterDataBrasilia().iso !== dataCarregada || Date.now() - ultimaConsulta >= 15 * 60 * 1000) void carregarLiturgiaDoDia();
   agendarProximaAtualizacao();
 }
 
@@ -228,4 +188,5 @@ if (typeof document !== 'undefined' && document.getElementById('liturgiaCards'))
   });
   window.addEventListener('pageshow', atualizarSeNecessario);
   window.addEventListener('focus', atualizarSeNecessario);
+  setInterval(() => { if (!document.hidden) atualizarSeNecessario(); }, 15 * 60 * 1000);
 }

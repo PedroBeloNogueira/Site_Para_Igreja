@@ -1,11 +1,16 @@
-function toggleTheme(){
-    const dark = document.documentElement.dataset.theme !== 'dark';
+function aplicarTema(dark){
     document.documentElement.dataset.theme = dark ? 'dark' : 'light';
     const button = document.getElementById('themeBtn');
     button.textContent = dark ? '☀' : '☾';
     button.setAttribute('aria-pressed', String(dark));
     button.setAttribute('aria-label', dark ? 'Ativar tema claro' : 'Ativar tema escuro');
   }
+  function toggleTheme(){
+    const dark = document.documentElement.dataset.theme !== 'dark';
+    aplicarTema(dark);
+    try { localStorage.setItem('emaus-theme', dark ? 'dark' : 'light'); } catch {}
+  }
+  try { aplicarTema(localStorage.getItem('emaus-theme') === 'dark'); } catch {}
   let fontScale = 1;
   function changeFont(delta){
     fontScale = Math.min(1.25, Math.max(0.9, fontScale + delta));
