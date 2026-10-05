@@ -1,52 +1,6 @@
 {
-  "atualizadoEm": "2026-10-05T01:23:55.149Z",
+  "atualizadoEm": "2026-10-05T18:33:14.255Z",
   "liturgias": {
-    "2026-10-04": {
-      "data": "04/10/2026",
-      "liturgia": "27º Domingo do Tempo Comum",
-      "cor": "Verde",
-      "oracoes": {
-        "coleta": "Deus eterno e todo-poderoso, que no vosso imenso amor de Pai nos concedeis mais do que merecemos e pedimos, infundi em nós vossa misericórdia, para perdoar o que nos pesa na consciência e para nos dar mais do que a oração ousa pedir. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
-        "oferendas": "Acolhei, Senhor, nós vos pedimos, o sacrifício que instituístes; e pelos sagrados mistérios que celebramos em vossa honra dignai-vos completar a santificação daqueles que salvastes. Por Cristo, nosso Senhor.",
-        "comunhao": "Concedei-nos, Deus todo-poderoso, que inebriados e saciados pelo sacramento que recebemos, sejamos transformados naquele que comungamos. Por Cristo, nosso Senhor.",
-        "extras": []
-      },
-      "leituras": {
-        "primeiraLeitura": [
-          {
-            "referencia": "Is 5,1-7",
-            "titulo": "Leitura do livro do profeta Isaías",
-            "texto": "1Vou cantar para o meu amado o cântico da vinha de um amigo meu: um amigo meu possuía uma vinha em fértil encosta. 2Cercou-a, limpou-a de pedras, plantou videiras escolhidas, edificou uma torre no meio e construiu um lagar; esperava que ela produzisse uvas boas, mas produziu uvas selvagens. 3Agora, habitantes de Jerusalém e cidadãos de Judá, julgai a minha situação e a de minha vinha. 4O que poderia eu ter feito a mais por minha vinha e não fiz? Eu contava com uvas de verdade, mas por que produziu ela uvas selvagens? 5Pois agora vou mostrar-vos o que farei com minha vinha: vou desmanchar a cerca, e ela será devastada; vou derrubar o muro, e ela será pisoteada. 6Vou deixá-la inculta e selvagem: ela não será podada nem lavrada, espinhos e sarças tomarão conta dela; não deixarei as nuvens derramar a chuva sobre ela. 7Pois bem, a vinha do Senhor dos exércitos é a casa de Israel, e o povo de Judá, sua dileta plantação; eu esperava deles frutos de justiça – e eis injustiça; esperava obras de bondade – e eis iniquidade."
-          }
-        ],
-        "salmo": [
-          {
-            "referencia": "Sl 79(80)",
-            "refrao": "A vinha do Senhor é a casa de Israel.",
-            "texto": "– Arrancastes do Egito esta videira e expulsastes as nações para plantá-la; até o mar se estenderam seus sarmentos, até o rio os seus rebentos se espalharam.\n– Por que razão vós destruístes sua cerca, para que todos os passantes a vindimem, o javali da mata virgem a devaste e os animais do descampado nela pastem?\n– Voltai-vos para nós, Deus do universo! Olhai dos altos céus e observai. Visitai a vossa vinha e protegei-a! Foi a vossa mão direita que a plantou; protegei-a, e ao rebento que firmastes!\n– E nunca mais vos deixaremos, Senhor Deus! Dai-nos vida, e louvaremos vosso nome! Convertei-nos, ó Senhor Deus do universo, e sobre nós iluminai a vossa face! Se voltardes para nós, seremos salvos!"
-          }
-        ],
-        "segundaLeitura": [
-          {
-            "referencia": "Fl 4,6-9",
-            "titulo": "Leitura da carta de São Paulo aos Filipenses",
-            "texto": "Irmãos, 6não vos inquieteis com coisa alguma, mas apresentai as vossas necessidades a Deus, em orações e súplicas, acompanhadas de ação de graças. 7E a paz de Deus, que ultrapassa todo entendimento, guardará os vossos corações e pensamentos em Cristo Jesus. 8Quanto ao mais, irmãos, ocupai-vos com tudo o que é verdadeiro, respeitável, justo, puro, amável, honroso, tudo o que é virtude ou de qualquer modo mereça louvor. 9Praticai o que aprendestes e recebestes de mim ou que de mim vistes e ouvistes. Assim o Deus da paz estará convosco."
-          }
-        ],
-        "evangelho": [
-          {
-            "referencia": "Mt 21,33-43",
-            "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
-            "texto": "Naquele tempo, Jesus disse aos sumos sacerdotes e aos anciãos do povo: 33“Escutai esta outra parábola: certo proprietário plantou uma vinha, pôs uma cerca em volta, fez nela um lagar para esmagar as uvas e construiu uma torre de guarda. Depois, arrendou-a a vinhateiros e viajou para o estrangeiro. 34Quando chegou o tempo da colheita, o proprietário mandou seus empregados aos vinhateiros para receber seus frutos. 35Os vinhateiros, porém, agarraram os empregados, espancaram a um, mataram a outro e ao terceiro apedrejaram. 36O proprietário mandou de novo outros empregados, em maior número do que os primeiros. Mas eles os trataram da mesma forma. 37Finalmente, o proprietário enviou-lhes o seu filho, pensando: ‘Ao meu filho eles vão respeitar’. 38Os vinhateiros, porém, ao verem o filho, disseram entre si: ‘Este é o herdeiro. Vinde, vamos matá-lo e tomar posse da sua herança!’ 39Então agarraram o filho, jogaram-no para fora da vinha e o mataram. 40Pois bem, quando o dono da vinha voltar, o que fará com esses vinhateiros?” 41Os sumos sacerdotes e os anciãos do povo responderam: “Com certeza mandará matar de modo violento esses perversos e arrendará a vinha a outros vinhateiros, que lhe entregarão os frutos no tempo certo”. 42Então Jesus lhes disse: “Vós nunca lestes nas Escrituras: ‘A pedra que os construtores rejeitaram tornou-se a pedra angular; isso foi feito pelo Senhor e é maravilhoso aos nossos olhos’? 43Por isso eu vos digo, o Reino de Deus vos será tirado e será entregue a um povo que produzirá frutos”."
-          }
-        ],
-        "extras": []
-      },
-      "antifonas": {
-        "entrada": "Ao vosso poder, Senhor, tudo está sujeito, e não há quem possa resistir à vossa vontade, porque sois o criador de todas as coisas, do céu e da terra e de tudo que eles contêm; vós sois o Senhor do universo. (Cf. Est 4, 17)",
-        "comunhao": "O Senhor é bondoso para quem nele confia, para a alma que o procura. (Lm 3, 25)"
-      }
-    },
     "2026-10-05": {
       "data": "05/10/2026",
       "liturgia": "2ª feira da 27ª Semana do Tempo Comum",
@@ -285,6 +239,52 @@
       "antifonas": {
         "entrada": "Ao vosso poder, Senhor, tudo está sujeito, e não há quem possa resistir à vossa vontade, porque sois o criador de todas as coisas, do céu e da terra e de tudo que eles contêm; vós sois o Senhor do universo. (Cf. Est 4, 17)",
         "comunhao": "O Senhor é bondoso para quem nele confia, para a alma que o procura. (Lm 3, 25)"
+      }
+    },
+    "2026-10-11": {
+      "data": "11/10/2026",
+      "liturgia": "28º Domingo do Tempo Comum",
+      "cor": "Verde",
+      "oracoes": {
+        "coleta": "Nós vos pedimos, Senhor, que vossa graça nos preceda e acompanhe e nos torne atentos para perseverar na prática do bem. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+        "oferendas": "Acolhei, Senhor, as preces dos fiéis com a oblação do sacrifício, para que possamos, por este serviço da nossa piedosa devoção, alcançar a glória do céu. Por Cristo, nosso Senhor.",
+        "comunhao": "Deus todo-poderoso, nós vos pedimos humildemente: assim como nos alimentais com o sacramento do Corpo e Sangue de Cristo, fazei-nos participar da natureza divina. Por Cristo, nosso Senhor.",
+        "extras": []
+      },
+      "leituras": {
+        "primeiraLeitura": [
+          {
+            "referencia": "Is 25,6-10",
+            "titulo": "Leitura do livro do profeta Isaías",
+            "texto": "6O Senhor dos exércitos dará neste monte, para todos os povos, um banquete de ricas iguarias, regado com vinho puro, servido de pratos deliciosos e dos mais finos vinhos. 7Ele removerá, neste monte, a ponta da cadeia que ligava todos os povos, a teia em que tinha envolvido todas as nações. 8O Senhor Deus eliminará para sempre a morte, e enxugará as lágrimas de todas as faces, e acabará com a desonra do seu povo em toda a terra; o Senhor o disse. 9Naquele dia se dirá: “Este é o nosso Deus, esperamos nele, até que nos salvou; este é o Senhor, nele temos confiado: vamos alegrar-nos e exultar por nos ter salvo”. 10E a mão do Senhor repousará sobre este monte."
+          }
+        ],
+        "salmo": [
+          {
+            "referencia": "Sl 22(23)",
+            "refrao": "Na casa do Senhor habitarei eternamente.",
+            "texto": "– O Senhor é o pastor que me conduz; não me falta coisa alguma. Pelos prados e campinas verdejantes ele me leva a descansar. Para as águas repousantes me encaminha e restaura as minhas forças.\n– Ele me guia no caminho mais seguro, pela honra do seu nome. Mesmo que eu passe pelo vale tenebroso, nenhum mal eu temerei; estais comigo com bastão e com cajado: eles me dão a segurança!\n– Preparais à minha frente uma mesa, bem à vista do inimigo, e com óleo vós ungis minha cabeça; o meu cálice transborda.\n– Felicidade e todo bem hão de seguir-me por toda a minha vida; e na casa do Senhor habitarei pelos tempos infinitos."
+          }
+        ],
+        "segundaLeitura": [
+          {
+            "referencia": "Fl 4,12-14.19-20",
+            "titulo": "Leitura da carta de são Paulo aos Filipenses",
+            "texto": "Irmãos, 12sei viver na miséria e sei viver na abundância. Eu aprendi o segredo de viver em toda e qualquer situação, estando farto ou passando fome, tendo de sobra ou sofrendo necessidade. 13Tudo posso naquele que me dá força. 14No entanto, fizestes bem em compartilhar as minhas dificuldades. 19O meu Deus proverá esplendidamente, com sua riqueza, a todas as vossas necessidades, em Cristo Jesus. 20Ao nosso Deus e Pai, a glória pelos séculos dos séculos. Amém."
+          }
+        ],
+        "evangelho": [
+          {
+            "referencia": "Mt 22,1-14",
+            "titulo": "Proclamação do evangelho de Jesus Cristo segundo Mateus",
+            "texto": "[Naquele tempo, 1Jesus voltou a falar em parábolas aos sumos sacerdotes e aos anciãos do povo, dizendo: 2“O reino dos céus é como a história do rei que preparou a festa de casamento do seu filho. 3E mandou os seus empregados para chamar os convidados para a festa, mas estes não quiseram ir. 4O rei mandou outros empregados, dizendo: ‘Dizei aos convidados: já preparei o banquete, os bois e os animais cevados já foram abatidos, e tudo está pronto. Vinde para a festa!’ 5Mas os convidados não deram a menor atenção: um foi para o seu campo, outro para os seus negócios, 6outros agarraram os empregados, bateram neles e os mataram. 7O rei ficou indignado e mandou suas tropas para matar aqueles assassinos e incendiar a cidade deles. 8Em seguida, o rei disse aos empregados: ‘A festa de casamento está pronta, mas os convidados não foram dignos dela. 9Portanto, ide até as encruzilhadas dos caminhos e convidai para a festa todos os que encontrardes’. 10Então os empregados saíram pelos caminhos e reuniram todos os que encontraram, maus e bons. E a sala da festa ficou cheia de convidados”.] 11“Quando o rei entrou para ver os convidados, observou aí um homem que não estava usando traje de festa 12e perguntou-lhe: ‘Amigo, como entraste aqui sem o traje de festa?’ Mas o homem nada respondeu. 13Então o rei disse aos que serviam: ‘Amarrai os pés e as mãos desse homem e jogai-o fora, na escuridão! Aí haverá choro e ranger de dentes’. 14Porque muitos são chamados, e poucos são escolhidos”."
+          }
+        ],
+        "extras": []
+      },
+      "antifonas": {
+        "entrada": "Se levardes em conta, Senhor, nossas faltas, quem haverá de subsistir? Mas em vós se encontra o perdão. (Cf. Sl 129, 3-4)",
+        "comunhao": "Os ricos empobrecem e passam fome, mas nada falta aos que procuram o Senhor. (Cf. Sl 33, 11)"
       }
     }
   }
