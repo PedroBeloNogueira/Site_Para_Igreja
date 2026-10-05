@@ -96,7 +96,7 @@ footer{display:flex;align-items:baseline;gap:24px;border-top:1px solid var(--ink
 .back-link { display: inline-block; color: var(--ink-soft); font-size: .85rem; margin-bottom: 32px; }
 .prayers-intro > p:last-child { color: var(--ink-soft); margin: 0; }
 .prayers-layout { display: grid; grid-template-columns: 240px minmax(0, 1fr); gap: 64px; border-top: 2px solid var(--accent); padding: 36px 0 52px; }
-.prayers-index { align-self: start; position: sticky; top: 24px; }
+.prayers-index { align-self: start; position: sticky; top: 24px; max-height: calc(100dvh - 48px); overflow-y: auto; }
 .prayers-index a { display: block; padding: 10px 0; text-decoration: none; border-bottom: 1px solid var(--line); font-size: .94rem; }
 .prayers-index a:hover { text-decoration: underline; }
 .prayers-content { max-width: 700px; min-width: 0; }
@@ -111,7 +111,7 @@ footer{display:flex;align-items:baseline;gap:24px;border-top:1px solid var(--ink
 }
 @media (max-width: 600px) {
   .prayers-layout { grid-template-columns: 1fr; gap: 32px; padding-top: 24px; }
-  .prayers-index { position: static; }
+  .prayers-index { position: static; max-height: none; overflow-y: visible; }
   .prayers-index a { min-height: 44px; }
   .prayers-intro { padding-block: 24px 32px; }
   .prayer-full h2 { font-size: 1.65rem; }
