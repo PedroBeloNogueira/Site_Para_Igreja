@@ -1,46 +1,6 @@
 {
-  "atualizadoEm": "2026-10-07T00:46:44.216Z",
+  "atualizadoEm": "2026-10-07T16:37:11.229Z",
   "liturgias": {
-    "2026-10-06": {
-      "data": "06/10/2026",
-      "liturgia": "3ª feira da 27ª Semana do Tempo Comum",
-      "cor": "Verde",
-      "oracoes": {
-        "coleta": "Deus eterno e todo-poderoso, que no vosso imenso amor de Pai nos concedeis mais do que merecemos e pedimos, infundi em nós vossa misericórdia, para perdoar o que nos pesa na consciência e para nos dar mais do que a oração ousa pedir. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
-        "oferendas": "Acolhei, Senhor, nós vos pedimos, o sacrifício que instituístes; e pelos sagrados mistérios que celebramos em vossa honra dignai-vos completar a santificação daqueles que salvastes. Por Cristo, nosso Senhor.",
-        "comunhao": "Concedei-nos, Deus todo-poderoso, que inebriados e saciados pelo sacramento que recebemos, sejamos transformados naquele que comungamos. Por Cristo, nosso Senhor.",
-        "extras": []
-      },
-      "leituras": {
-        "primeiraLeitura": [
-          {
-            "referencia": "Gl 1,13-24",
-            "titulo": "Leitura da carta de São Paulo aos Gálatas",
-            "texto": "Irmãos, 13certamente ouvistes falar como foi outrora a minha conduta no judaísmo, com que excessos perseguia e devastava a Igreja de Deus 14e como progredia no judaísmo mais do que muitos judeus de minha idade, mostrando-me extremamente zeloso das tradições paternas. 15Quando, porém, aquele que me separou desde o ventre materno e me chamou por sua graça 16se dignou revelar-me o seu Filho, para que eu o pregasse entre os pagãos, não consultei carne nem sangue 17nem subi logo a Jerusalém para estar com os que eram apóstolos antes de mim. Pelo contrário, parti para a Arábia e, depois, voltei ainda a Damasco. 18Três anos mais tarde, fui a Jerusalém para conhecer Cefas e fiquei com ele quinze dias. 19E não estive com nenhum outro apóstolo, a não ser Tiago, o irmão do Senhor. 20Escrevendo estas coisas, afirmo, diante de Deus, que não estou mentindo. 21Depois, fui para as regiões da Síria e da Cilícia. 22Ainda não era pessoalmente conhecido das Igrejas da Judeia que estão em Cristo. 23Apenas tinham ouvido dizer que “aquele que antes nos perseguia está agora pregando a fé que antes procurava destruir”. 24E glorificavam a Deus por minha causa."
-          }
-        ],
-        "salmo": [
-          {
-            "referencia": "Sl 138(139)",
-            "refrao": "Conduzi-me no caminho para a vida, ó Senhor!",
-            "texto": "– Senhor, vós me sondais e conheceis, sabeis quando me sento ou me levanto; de longe penetrais meus pensamentos, percebeis quando me deito e quando eu ando, os meus caminhos vos são todos conhecidos.\n– Fostes vós que me formastes as entranhas, e no seio de minha mãe vós me tecestes. Eu vos louvo e vos dou graças, ó Senhor, porque de modo admirável me formastes! Que prodígio e maravilha as vossas obras!\n– Até o mais íntimo, Senhor, me conheceis; nenhuma sequer de minhas fibras ignoráveis; quando eu era modelado ocultamente, era formado nas entranhas subterrâneas."
-          }
-        ],
-        "segundaLeitura": [],
-        "evangelho": [
-          {
-            "referencia": "Lc 10,38-42",
-            "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
-            "texto": "Naquele tempo, 38Jesus entrou num povoado e certa mulher, de nome Marta, recebeu-o em sua casa. 39Sua irmã, chamada Maria, sentou-se aos pés do Senhor e escutava a sua palavra. 40Marta, porém, estava ocupada com muitos afazeres. Ela aproximou-se e disse: “Senhor, não te importas que minha irmã me deixe sozinha com todo o serviço? Manda que ela me venha ajudar!” 41O Senhor, porém, lhe respondeu: “Marta, Marta! Tu te preocupas e andas agitada por muitas coisas. 42Porém uma só coisa é necessária. Maria escolheu a melhor parte, e esta não lhe será tirada”."
-          }
-        ],
-        "extras": []
-      },
-      "antifonas": {
-        "entrada": "Ao vosso poder, Senhor, tudo está sujeito, e não há quem possa resistir à vossa vontade, porque sois o criador de todas as coisas, do céu e da terra e de tudo que eles contêm; vós sois o Senhor do universo. (Cf. Est 4, 17)",
-        "comunhao": "O Senhor é bondoso para quem nele confia, para a alma que o procura. (Lm 3, 25)"
-      }
-    },
     "2026-10-07": {
       "data": "07/10/2026",
       "liturgia": "Bem-aventurada Virgem Maria do Rosário, Memória",
@@ -291,6 +251,46 @@
       "antifonas": {
         "entrada": "Exulto de alegria no Senhor e minha alma regozija-se em meu Deus; ele me vestiu com as vestes da salvação, envolveu-me com o manto da justiça e adornou-me como uma noiva com suas joias. (Is 61, 10)",
         "comunhao": "Seus filhos se erguem, para proclamá-la Bem-aventurada.Ela se levanta antes da aurora para dar o alimento a cada um. (Cf. Pr 31, 28. 15)"
+      }
+    },
+    "2026-10-13": {
+      "data": "13/10/2026",
+      "liturgia": "3ª feira da 28ª Semana do Tempo Comum",
+      "cor": "Verde",
+      "oracoes": {
+        "coleta": "Nós vos pedimos, Senhor, que vossa graça nos preceda e acompanhe e nos torne atentos para perseverar na prática do bem. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+        "oferendas": "Acolhei, Senhor, as preces dos fiéis com a oblação do sacrifício, para que possamos, por este serviço da nossa piedosa devoção, alcançar a glória do céu. Por Cristo, nosso Senhor.",
+        "comunhao": "Deus todo-poderoso, nós vos pedimos humildemente: assim como nos alimentais com o sacramento do Corpo e Sangue de Cristo, fazei-nos participar da natureza divina. Por Cristo, nosso Senhor.",
+        "extras": []
+      },
+      "leituras": {
+        "primeiraLeitura": [
+          {
+            "referencia": "Gl 5,1-6",
+            "titulo": "Leitura da carta de São Paulo aos Gálatas",
+            "texto": "Irmãos, 1é para a liberdade que Cristo nos libertou. Ficai, pois, firmes e não vos deixeis amarrar de novo ao jugo da escravidão. 2Eis que eu, Paulo, vos digo que Cristo não será de nenhum proveito para vós se vos deixardes circuncidar. 3Mais uma vez, atesto a todo homem circuncidado que ele está obrigado a observar toda a Lei. 4Vós que procurais a vossa justificação na Lei rompestes com Cristo, decaístes da graça. 5Quanto a nós, que nos deixamos conduzir pelo Espírito, é da fé que aguardamos a justificação, objeto de nossa esperança. 6Com efeito, em Jesus Cristo, o que vale é a fé agindo pela caridade; observar ou não a circuncisão não tem valor algum."
+          }
+        ],
+        "salmo": [
+          {
+            "referencia": "Sl 118(119)",
+            "refrao": "Senhor, que desça sobre mim a vossa graça!",
+            "texto": "– Senhor, que desça sobre mim a vossa graça e a vossa salvação que prometestes!\n– Não retireis vossa verdade de meus lábios, pois eu confio em vossos justos julgamentos!\n– Cumprirei constantemente a vossa lei; para sempre, eternamente a cumprirei!\n– É amplo e agradável meu caminho, porque busco e pesquiso as vossas ordens.\n– Muito me alegro com os vossos mandamentos, que eu amo, amo tanto, mais que tudo!\n– Elevarei as minhas mãos para louvar-vos e com prazer meditarei vossa vontade."
+          }
+        ],
+        "segundaLeitura": [],
+        "evangelho": [
+          {
+            "referencia": "Lc 11,37-41",
+            "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+            "texto": "Naquele tempo, 37enquanto Jesus falava, um fariseu convidou-o para jantar com ele. Jesus entrou e pôs-se à mesa. 38O fariseu ficou admirado ao ver que Jesus não tivesse lavado as mãos antes da refeição. 39O Senhor disse ao fariseu: “Vós, fariseus, limpais o copo e o prato por fora, mas o vosso interior está cheio de roubos e maldades. 40Insensatos! Aquele que fez o exterior não fez também o interior? 41Antes, dai esmola do que vós possuís, e tudo ficará puro para vós”."
+          }
+        ],
+        "extras": []
+      },
+      "antifonas": {
+        "entrada": "Se levardes em conta, Senhor, nossas faltas, quem haverá de subsistir? Mas em vós se encontra o perdão. (Cf. Sl 129, 3-4)",
+        "comunhao": "Os ricos empobrecem e passam fome, mas nada falta aos que procuram o Senhor. (Cf. Sl 33, 11)"
       }
     }
   }
