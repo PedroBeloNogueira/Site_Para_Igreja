@@ -1,4 +1,5 @@
 {
+  "fonte": "https://www.a12.com",
   "santos": {
     "2026-10-04": {
       "resumo": "Francisco logo percebeu não ser aquela a vida que almejava. Chegou a lutar numa guerra, mas o coração o chamava à religião.",
@@ -9,12 +10,12 @@
       "data": "2026-10-04"
     },
     "2026-10-06": {
-      "data": "2026-10-06",
-      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=256&day=6&month=10",
-      "resumo": "Respondendo aos apelos vocacionais, Bruno estudou teologia e tornou-se logo um excelente padre.",
-      "imagem": "https://www.a12.com/source/files/originals/Sao_Bruno_Abade-730162.jpg",
+      "nome": "São Bruno Abade",
       "fonte": "A12 · Santuário de Aparecida",
-      "nome": "São Bruno Abade"
+      "data": "2026-10-06",
+      "imagem": "https://www.a12.com/source/files/originals/Sao_Bruno_Abade-730162.jpg",
+      "resumo": "Respondendo aos apelos vocacionais, Bruno estudou teologia e tornou-se logo um excelente padre.",
+      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=256&day=6&month=10"
     },
     "2026-10-05": {
       "resumo": "São Benedito, cuja festa é celebrada no dia 5 de outubro, é uma figura venerada na tradição católica que deixou um profundo…",
@@ -25,60 +26,60 @@
       "data": "2026-10-05"
     },
     "2026-10-07": {
-      "data": "2026-10-07",
-      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=701&day=7&month=10",
-      "resumo": "No dia 7 de outubro, a Igreja Católica comemora a festa de Santa Justina, uma figura venerada por sua notável devoção e…",
-      "imagem": "https://www.a12.com/source/files/originals/7_de_outubro_-_Santa_Justina-543304.jpg",
+      "nome": "Santa Justina de Pádua",
       "fonte": "A12 · Santuário de Aparecida",
-      "nome": "Santa Justina de Pádua"
+      "data": "2026-10-07",
+      "imagem": "https://www.a12.com/source/files/originals/7_de_outubro_-_Santa_Justina-543304.jpg",
+      "resumo": "No dia 7 de outubro, a Igreja Católica comemora a festa de Santa Justina, uma figura venerada por sua notável devoção e…",
+      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=701&day=7&month=10"
     },
     "2026-10-08": {
-      "data": "2026-10-08",
-      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=258&day=8&month=10",
-      "resumo": "Figuras cristãs como Santa Pelágia, recordam profeticamente a Igreja da verdadeira ordem dos valores obscurecidos frequentemente pelos crescentes compromissos temporais.",
-      "imagem": "https://www.a12.com/source/files/originals/8_de_outubro_-__Santa_Pelagia-884935.jpg",
+      "nome": "Santa Pelágia",
       "fonte": "A12 · Santuário de Aparecida",
-      "nome": "Santa Pelágia"
+      "data": "2026-10-08",
+      "imagem": "https://www.a12.com/source/files/originals/8_de_outubro_-__Santa_Pelagia-884935.jpg",
+      "resumo": "Figuras cristãs como Santa Pelágia, recordam profeticamente a Igreja da verdadeira ordem dos valores obscurecidos frequentemente pelos crescentes compromissos temporais.",
+      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=258&day=8&month=10"
     },
     "2026-10-09": {
-      "data": "2026-10-09",
-      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=703&day=9&month=10",
-      "resumo": "O Apóstolo da América Latina, São Luís Beltrán desempenhou um papel crucial na propagação do cristianismo nas colônias espanholas do século XVI.",
-      "imagem": "https://www.a12.com/source/files/originals/9_de_outubro_-_Sao_Luis_Beltran-910289.jpg",
+      "nome": "São Luís Beltrán",
       "fonte": "A12 · Santuário de Aparecida",
-      "nome": "São Luís Beltrán"
+      "data": "2026-10-09",
+      "imagem": "https://www.a12.com/source/files/originals/9_de_outubro_-_Sao_Luis_Beltran-910289.jpg",
+      "resumo": "O Apóstolo da América Latina, São Luís Beltrán desempenhou um papel crucial na propagação do cristianismo nas colônias espanholas do século XVI.",
+      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=703&day=9&month=10"
     },
     "2026-10-10": {
-      "data": "2026-10-10",
-      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=260&day=10&month=10",
-      "resumo": "Daniel Comboni anunciou e testemunhou o Evangelho em tudo aquilo que fez. Antes de mais, ele sente-se discípulo de Cristo.",
-      "imagem": "https://www.a12.com/source/files/originals/10_de_outubro_-_Sao_Daniel_Comboni-788442.jpg",
+      "nome": "São Daniel Comboni",
       "fonte": "A12 · Santuário de Aparecida",
-      "nome": "São Daniel Comboni"
+      "data": "2026-10-10",
+      "imagem": "https://www.a12.com/source/files/originals/10_de_outubro_-_Sao_Daniel_Comboni-788442.jpg",
+      "resumo": "Daniel Comboni anunciou e testemunhou o Evangelho em tudo aquilo que fez. Antes de mais, ele sente-se discípulo de Cristo.",
+      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=260&day=10&month=10"
     },
     "2026-10-11": {
-      "data": "2026-10-11",
-      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=261&day=11&month=10",
-      "resumo": "João XXIII exalava odor de santidade, sendo assim reconhecido pelo seu rebanho que o chamava apenas de Papa Bom.",
-      "imagem": "https://www.a12.com/source/files/originals/11_de_outubro_-_Sao_Joao_XXIII-797781.jpg",
+      "nome": "São João XXIII",
       "fonte": "A12 · Santuário de Aparecida",
-      "nome": "São João XXIII"
+      "data": "2026-10-11",
+      "imagem": "https://www.a12.com/source/files/originals/11_de_outubro_-_Sao_Joao_XXIII-797781.jpg",
+      "resumo": "João XXIII exalava odor de santidade, sendo assim reconhecido pelo seu rebanho que o chamava apenas de Papa Bom.",
+      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=261&day=11&month=10"
     },
     "2026-10-12": {
-      "data": "2026-10-12",
-      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=707&day=12&month=10",
-      "resumo": "Pregou o Evangelho com valente tenacidade e se comprometeu com a causa dos mais necessitados.",
-      "imagem": "https://www.a12.com/source/files/originals/12_de_outubro_-_Sao_Maximiliano_de_Lorch-780365.jpg",
+      "nome": "São Maximiliano de Lorch",
       "fonte": "A12 · Santuário de Aparecida",
-      "nome": "São Maximiliano de Lorch"
+      "data": "2026-10-12",
+      "imagem": "https://www.a12.com/source/files/originals/12_de_outubro_-_Sao_Maximiliano_de_Lorch-780365.jpg",
+      "resumo": "Pregou o Evangelho com valente tenacidade e se comprometeu com a causa dos mais necessitados.",
+      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=707&day=12&month=10"
     },
     "2026-10-13": {
-      "data": "2026-10-13",
-      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=719&day=13&month=10",
-      "resumo": "Em meio à sua vivência cristã, Carlo encontrou na internet uma forma de evangelização. Sua vida, breve, mas repleta de testemunho cristão,…",
-      "imagem": "https://www.a12.com/source/files/originals/Ilustracao_do_Beato_Carlo_Acutis-072779.jpg",
+      "nome": "São Carlo Acutis",
       "fonte": "A12 · Santuário de Aparecida",
-      "nome": "São Carlo Acutis"
+      "data": "2026-10-13",
+      "imagem": "https://www.a12.com/source/files/originals/Ilustracao_do_Beato_Carlo_Acutis-072779.jpg",
+      "resumo": "Em meio à sua vivência cristã, Carlo encontrou na internet uma forma de evangelização. Sua vida, breve, mas repleta de testemunho cristão,…",
+      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=719&day=13&month=10"
     },
     "2026-10-14": {
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=378&day=14&month=10",
@@ -225,6 +226,5 @@
       "imagem": "https://www.a12.com/source/files/originals/31_de_outubro_-_Santo_Afonso_Rodrigues-385680.jpg"
     }
   },
-  "fonte": "https://www.a12.com",
-  "atualizadoEm": "2026-10-06T16:00:15.8560969Z"
+  "atualizadoEm": "2026-10-07T00:47:09.7445816Z"
 }
