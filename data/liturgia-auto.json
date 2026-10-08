@@ -1,46 +1,6 @@
 {
-  "atualizadoEm": "2026-10-08T01:03:20.505Z",
+  "atualizadoEm": "2026-10-08T16:35:09.646Z",
   "liturgias": {
-    "2026-10-07": {
-      "data": "07/10/2026",
-      "liturgia": "Bem-aventurada Virgem Maria do Rosário, Memória",
-      "cor": "Branco",
-      "oracoes": {
-        "coleta": "Infundi, Senhor, pela intercessão da Santa Virgem Maria, a vossa graça em nossos corações para que, conhecendo pela anunciação do anjo a encarnação de Jesus Cristo, vosso Filho, cheguemos, por sua paixão e cruz, à glória da ressurreição. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
-        "oferendas": "Senhor, tornai-nos dignos de vos apresentar estes dons e assim celebrar os mistérios do vosso Filho, para que mereçamos alcançar o que ele nos prometeu. Ele, que vive e reina pelos séculos dos séculos.",
-        "comunhao": "Senhor nosso Deus, anunciamos neste sacramento a morte e a ressurreição do vosso Filho. Nós vos pedimos que, tendo sido associados à sua paixão, mereçamos participar de sua alegria e também de sua glória. Por Cristo, nosso Senhor.",
-        "extras": []
-      },
-      "leituras": {
-        "primeiraLeitura": [
-          {
-            "referencia": "At 1,12-14",
-            "titulo": "Leitura dos Atos dos Apóstolos",
-            "texto": "Depois que Jesus subiu ao céu, 12os apóstolos voltaram para Jerusalém, vindo do monte das Oliveiras, que fica perto de Jerusalém, a mais ou menos um quilômetro. 13Entraram na cidade e subiram para a sala de cima, onde costumavam ficar. Eram Pedro e João, Tiago e André, Filipe e Tomé, Bartolomeu e Mateus, Tiago, filho de Alfeu, Simão Zelota e Judas, filho de Tiago. 14Todos eles perseveravam na oração em comum junto com algumas mulheres, entre as quais Maria, mãe de Jesus, e com os irmãos de Jesus."
-          }
-        ],
-        "salmo": [
-          {
-            "referencia": "Sl Lc 1",
-            "refrao": "O Poderoso fez por mim maravilhas e santo é o seu nome!",
-            "texto": "– A minha alma engrandece ao Senhor, e se alegrou o meu espírito em Deus, meu salvador.\n– Pois ele viu a pequenez de sua serva, desde agora as gerações hão de chamar-me de bendita. O Poderoso fez por mim maravilhas, e santo é o seu nome!\n– Seu amor, de geração em geração, chega a todos que o respeitam. Demonstrou o poder de seu braço, dispersou os orgulhosos.\n– Derrubou os poderosos de seus tronos e os humildes exaltou. De bens saciou os famintos e despediu, sem nada, os ricos.\n– Acolheu Israel, seu servidor, fiel ao seu amor, como havia prometido aos nossos pais, em favor de Abraão e de seus filhos para sempre."
-          }
-        ],
-        "segundaLeitura": [],
-        "evangelho": [
-          {
-            "referencia": "Lc 1,26-38",
-            "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
-            "texto": "Naquele tempo, 26o anjo Gabriel foi enviado por Deus a uma cidade da Galileia, chamada Nazaré, 27a uma virgem, prometida em casamento a um homem chamado José. Ele era descendente de Davi, e o nome da virgem era Maria. 28O anjo entrou onde ela estava e disse: “Alegra-te, cheia de graça, o Senhor está contigo!”29Maria ficou perturbada com essas palavras e começou a pensar qual seria o significado da saudação. 30O anjo, então, disse-lhe: “Não tenhas medo, Maria, porque encontraste graça diante de Deus. 31Eis que conceberás e darás à luz um filho, a quem porás o nome de Jesus. 32Ele será grande, será chamado Filho do Altíssimo, e o Senhor Deus lhe dará o trono de seu pai Davi. 33Ele reinará para sempre sobre os descendentes de Jacó, e o seu reino não terá fim”. 34Maria perguntou ao anjo: “Como acontecerá isso se eu não conheço homem algum?” 35O anjo respondeu: “O Espírito virá sobre ti, e o poder do Altíssimo te cobrirá com sua sombra. Por isso, o menino que vai nascer será chamado santo, Filho de Deus. 36Também Isabel, tua parenta, concebeu um filho na velhice. Este já é o sexto mês daquela que era considerada estéril, 37porque para Deus nada é impossível”. 38Maria, então, disse: “Eis aqui a serva do Senhor; faça-se em mim segundo a tua palavra!” E o anjo retirou-se."
-          }
-        ],
-        "extras": []
-      },
-      "antifonas": {
-        "entrada": "Ave, Maria, cheia de graça, o Senhor é convosco; bendita sois vós entre as mulheres, e bendito é o fruto do vosso ventre. (Cf. Lc 1, 28. 42)",
-        "comunhao": "Eis que conceberás e darás à luz um filho, a quem porás o nome de Jesus. (Cf. Lc 1, 31)"
-      }
-    },
     "2026-10-08": {
       "data": "08/10/2026",
       "liturgia": "5ª feira da 27ª Semana do Tempo Comum",
@@ -284,6 +244,46 @@
             "referencia": "Lc 11,37-41",
             "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
             "texto": "Naquele tempo, 37enquanto Jesus falava, um fariseu convidou-o para jantar com ele. Jesus entrou e pôs-se à mesa. 38O fariseu ficou admirado ao ver que Jesus não tivesse lavado as mãos antes da refeição. 39O Senhor disse ao fariseu: “Vós, fariseus, limpais o copo e o prato por fora, mas o vosso interior está cheio de roubos e maldades. 40Insensatos! Aquele que fez o exterior não fez também o interior? 41Antes, dai esmola do que vós possuís, e tudo ficará puro para vós”."
+          }
+        ],
+        "extras": []
+      },
+      "antifonas": {
+        "entrada": "Se levardes em conta, Senhor, nossas faltas, quem haverá de subsistir? Mas em vós se encontra o perdão. (Cf. Sl 129, 3-4)",
+        "comunhao": "Os ricos empobrecem e passam fome, mas nada falta aos que procuram o Senhor. (Cf. Sl 33, 11)"
+      }
+    },
+    "2026-10-14": {
+      "data": "14/10/2026",
+      "liturgia": "4ª feira da 28ª Semana do Tempo Comum",
+      "cor": "Verde",
+      "oracoes": {
+        "coleta": "Nós vos pedimos, Senhor, que vossa graça nos preceda e acompanhe e nos torne atentos para perseverar na prática do bem. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+        "oferendas": "Acolhei, Senhor, as preces dos fiéis com a oblação do sacrifício, para que possamos, por este serviço da nossa piedosa devoção, alcançar a glória do céu. Por Cristo, nosso Senhor.",
+        "comunhao": "Deus todo-poderoso, nós vos pedimos humildemente: assim como nos alimentais com o sacramento do Corpo e Sangue de Cristo, fazei-nos participar da natureza divina. Por Cristo, nosso Senhor.",
+        "extras": []
+      },
+      "leituras": {
+        "primeiraLeitura": [
+          {
+            "referencia": "Gl 5,18-25",
+            "titulo": "Leitura da carta de São Paulo aos Gálatas",
+            "texto": "Irmãos, 18se sois conduzidos pelo Espírito, então não estais sob o jugo da Lei. 19São bem conhecidas as obras da carne: fornicação, libertinagem, devassidão, 20idolatria, feitiçaria, inimizades, contendas, ciúmes, iras, intrigas, discórdias, facções, 21invejas, bebedeiras, orgias e coisas semelhantes a essas. Eu vos previno, como, aliás, já o fiz: os que praticam essas coisas não herdarão o Reino de Deus. 22Porém, o fruto do Espírito é: caridade, alegria, paz, longanimidade, benignidade, bondade, lealdade, 23mansidão, continência. Contra essas coisas não existe Lei. 24Os que pertencem a Jesus Cristo crucificaram a carne com suas paixões e seus maus desejos. 25Se vivemos pelo Espírito, procedamos também segundo o Espírito, corretamente."
+          }
+        ],
+        "salmo": [
+          {
+            "referencia": "Sl 1",
+            "refrao": "Senhor, quem vos seguir terá a luz da vida!",
+            "texto": "– Feliz é todo aquele que não anda conforme os conselhos dos perversos; que não entra no caminho dos malvados nem junto aos zombadores vai sentar-se; mas encontra seu prazer na lei de Deus e a medita, dia e noite, sem cessar.\n– Eis que ele é semelhante a uma árvore que à beira da torrente está plantada; ela sempre dá seus frutos a seu tempo e jamais as suas folhas vão murchar. Eis que tudo o que ele faz vai prosperar.\n– Mas bem outra é a sorte dos perversos. Ao contrário, são iguais à palha seca espalhada e dispersada pelo vento. Pois Deus vigia o caminho dos eleitos, mas a estrada dos malvados leva à morte."
+          }
+        ],
+        "segundaLeitura": [],
+        "evangelho": [
+          {
+            "referencia": "Lc 11,42-46",
+            "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+            "texto": "Naquele tempo, disse o Senhor: 42“Ai de vós, fariseus, porque pagais o dízimo da hortelã, da arruda e de todas as outras ervas, mas deixais de lado a justiça e o amor de Deus. Vós deveríeis praticar isso sem deixar de lado aquilo. 43Ai de vós, fariseus, porque gostais do lugar de honra nas sinagogas e de serdes cumprimentados nas praças públicas. 44Ai de vós, porque sois como túmulos que não se veem, sobre os quais os homens andam sem saber”. 45Um mestre da Lei tomou a palavra e disse: “Mestre, falando assim, insultas-nos também a nós!” 46Jesus respondeu: “Ai de vós também, mestres da Lei, porque colocais sobre os homens cargas insuportáveis e vós mesmos não tocais nessas cargas nem com um só dedo”."
           }
         ],
         "extras": []
