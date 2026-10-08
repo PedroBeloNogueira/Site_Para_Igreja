@@ -19,17 +19,18 @@
       <button class="tool-btn" id="themeBtn" onclick="toggleTheme()" aria-label="Ativar tema escuro" aria-pressed="false">☾</button>
     </div>
   </div>
-  <nav class="site-nav" aria-label="Navegação principal">
-    <a href="#liturgia">Liturgia do dia</a><a href="oracoes.html">Orações e formação</a><a href="#noticias">Notícias</a><a href="#doacoes">Contribua</a>
-  </nav>
-</header>
-<main>
-  <section class="intro" aria-labelledby="intro-title">
-    <div><p class="eyebrow">Um tempo para a Palavra</p><h1 id="intro-title">A fé no dia a dia.</h1><p>Leia a liturgia, reserve um momento para a oração<br class="desktop-break"> e aprofunde o que você vive na Missa.</p></div>
-    <aside class="devotion" aria-label="Invocação">
-      <div class="saint-photo" id="saintImage" data-saint-image-url="" hidden></div>
-      <span class="devotion-cross" aria-hidden="true">✝</span>
-      <p><span id="saintName">São Francisco de Assis</span>,<br><em>rogai por nós.</em></p>
+  <nav class="site-nav" aria-label="Navegação principal"><a href="index.html" aria-current="page">Início</a><a href="liturgia.html">Liturgia do dia</a><a href="oracoes.html">Orações e formação</a><a href="noticias.html">Notícias</a><button class="nav-support" type="button" data-open-support>Apoiar a comunidade</button></nav>
+</header><main id="conteudo"><nav class="home-shortcuts" aria-label="Explore os conteúdos"><a href="#saintTribute">Santo do dia</a><a href="#liturgia">Evangelho e reflexão</a><a href="#aprenda">Orações e formação</a></nav><section class="intro" aria-labelledby="intro-title">
+    <div class="home-welcome"><h1 id="intro-title">Liturgia e oração</h1><a class="home-primary" href="liturgia.html">Ler a liturgia de hoje →</a></div>
+    <aside class="devotion saint-tribute" id="saintTribute" aria-labelledby="saintName">
+
+      <p class="saint-date" id="saintDate"></p>
+      <figure class="saint-figure">
+        <img class="saint-portrait" id="saintImage" alt="" width="600" height="338" fetchpriority="high" hidden>
+        <figcaption><h2 id="saintName">Homenagem do dia</h2><p id="saintStatus" role="status">Carregando a homenagem de hoje…</p></figcaption>
+      </figure>
+      <small class="saint-credit" id="saintCredit"></small>
+      <a class="saint-source" id="saintSource" target="_blank" rel="noopener noreferrer" hidden>Conheça sua história ↗</a>
     </aside>
   </section><section class="section liturgy-surface" id="liturgia" aria-label="Liturgia do dia">
     <div class="section-margin"><h2>Liturgia do dia</h2></div>
