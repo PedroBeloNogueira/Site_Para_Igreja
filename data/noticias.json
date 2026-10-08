@@ -1,8 +1,15 @@
 {
   "fonte": "Vatican News",
   "feed": "https://www.vaticannews.va/pt.rss.xml",
-  "atualizadoEm": "2026-10-08T16:35:43.1067338+00:00",
+  "atualizadoEm": "2026-10-08T23:59:16.6959647+00:00",
   "noticias": [
+    {
+      "titulo": "Papa: \"A inteligência é determinante para a fé e a missão\"",
+      "resumo": "Ao inaugurar o ano acadêmico das Universidades Pontifícias, o Papa fez uma oportuna observação para ressaltar a importância do estudo: \"Em cada época, não faltam falsos mestres que desviam para os seus próprios interesses o sentimento religioso de muitos…",
+      "url": "https://www.vaticannews.va/pt/papa/news/2026-10/papa-leao-xiv-homilia-inauguracao-ano-academico-universidades.html",
+      "imagem": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/10/08/2026-10-08-celebrazione-eucaristica-per-l-inaugurazione-dell-ann/1791477003267.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "publicadaEm": "2026-10-08T16:35:18.0000000+00:00"
+    },
     {
       "titulo": "Amoris laetitia, as experiências pastorais na Ásia e os desafios do mundo digital",
       "resumo": "No segundo dia de trabalhos do encontro do Papa com os chefes das Igrejas Orientais e os presidentes das Conferências Episcopais, dez anos após a exortação pós-sinodal, o cardeal Neri Ferrão apresentou um testemunho da Índia e de outros locais do…",
@@ -16,13 +23,6 @@
       "url": "https://www.vaticannews.va/pt/mundo/news/2026-10/inteligencia-artificial-divina.html",
       "imagem": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2019/05/14/Robotica%20Intelligenza%20artificiale%204.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "publicadaEm": "2026-10-08T14:18:00.0000000+00:00"
-    },
-    {
-      "titulo": "Primeira Festa de São Carlo Acutis após a canonização é celebrada em São Paulo",
-      "resumo": "Celebração em 13 de outubro, em Santo Amaro, terá Santa Missa Solene presidida por Dom Marcelo Antônio da Silva, dança italiana e festa na praça. Santa Sé concedeu indulgência plenária à paróquia durante todo o mês.",
-      "url": "https://www.vaticannews.va/pt/igreja/news/2026-10/primeira-festa-sao-carlo-acutis-canonizacao-celebrada-sao-paulo.html",
-      "imagem": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2025/agosto/26/PAROQUIA-CARLO-ACUTIS-SAO-PAULO-1.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-      "publicadaEm": "2026-10-08T14:13:00.0000000+00:00"
     }
   ]
 }
