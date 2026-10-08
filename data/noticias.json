@@ -1,8 +1,15 @@
 {
   "fonte": "Vatican News",
   "feed": "https://www.vaticannews.va/pt.rss.xml",
-  "atualizadoEm": "2026-10-07T16:37:42.0665958+00:00",
+  "atualizadoEm": "2026-10-08T01:03:46.7823352+00:00",
   "noticias": [
+    {
+      "titulo": "Ucrânia: novos ataques russos a Kiev. Caso de peste na Sibéria sob observação",
+      "resumo": "O suposto caso de peste pulmonar relatado na região siberiana de Irkutsk continua sob observação, após a morte de uma funcionária de um instituto especializado. Os Estados Unidos solicitaram esclarecimentos a Moscou e o presidente Trump anunciou que…",
+      "url": "https://www.vaticannews.va/pt/mundo/news/2026-10/ucrania-peste-russia-trump-estados-unidos-guerra-europa-moscou.html",
+      "imagem": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/reuters/2026/10/07/08/1791356110069.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "publicadaEm": "2026-10-07T16:55:00.0000000+00:00"
+    },
     {
       "titulo": "Leão XIV: “Temos muito a aprender com as famílias”",
       "resumo": "Na abertura do encontro internacional pelos dez anos da Amoris laetitia, o Papa reafirma a beleza do plano de Deus para o matrimônio e a família, reconhece a “distância crescente” entre a forma como sexualidade e intimidade são vividas e a visão cristã do…",
@@ -16,13 +23,6 @@
       "url": "https://www.vaticannews.va/pt/africa/news/2026-10/coltrane-um-espirito-iluminado-que-escreveu-a-deus.html",
       "imagem": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/ottobre/02/cac.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "publicadaEm": "2026-10-07T13:55:00.0000000+00:00"
-    },
-    {
-      "titulo": "Associação “Mulheres no Vaticano” comemora dez anos de vida",
-      "resumo": "Nesta quinta-feira, 8 de outubro de 2026, por ocasião do seu décimo aniversário, a Associação das Mulheres no Vaticano - D.VA, realiza à tarde um colóquio intitulado, “Mulheres no Vaticano - 10 anos de presença. Uma história que continua\"",
-      "url": "https://www.vaticannews.va/pt/africa/news/2026-10/associacao-mulheres-no-vaticano-comemora-dez-anos-de-vida.html",
-      "imagem": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/ottobre/05/dbdfnertn.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-      "publicadaEm": "2026-10-07T13:18:00.0000000+00:00"
     }
   ]
 }
