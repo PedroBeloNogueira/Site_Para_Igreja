@@ -1,4 +1,4 @@
-# Emaús — site da paróquia
+# Paróquia Nossa Senhora da Assunção — site da paróquia
 
 ## Liturgia automática
 
