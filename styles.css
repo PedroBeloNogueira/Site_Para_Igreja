@@ -317,3 +317,9 @@ html[data-theme="dark"] .parish-logo { box-shadow: 0 0 0 1px var(--line); }
 .prayer-detail .reading-text > p:last-child { margin-bottom: 0; }
 @media(max-width:760px) { .prayer-choice-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
 @media(max-width:480px) { .prayer-choice-grid { grid-template-columns: 1fr; gap: 12px; } .prayer-choice { min-height: 80px; padding: 20px; } .prayer-detail { padding: 24px 18px; } }
+
+/* Leituras de cada mistério do terço. */
+.mystery-list .mystery-reading { border-bottom: 0; }
+.mystery-list .mystery-reading > summary { padding: 10px 0; }
+.mystery-list .mystery-reading > p { margin: 0 0 16px; }
+.mystery-list .mystery-reading > .mystery-reference { color: var(--accent-ink); font-family: var(--sans); font-size: .9rem; font-weight: 600; margin-bottom: 8px; }
