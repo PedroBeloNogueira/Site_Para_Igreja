@@ -1,28 +1,28 @@
 {
   "fonte": "Vatican News",
   "feed": "https://www.vaticannews.va/pt.rss.xml",
-  "atualizadoEm": "2026-10-09T16:18:44.1652416+00:00",
+  "atualizadoEm": "2026-10-09T18:12:29.4792798+00:00",
   "noticias": [
+    {
+      "titulo": "Beato Livatino é declarado padroeiro dos magistrados da Itália",
+      "resumo": "Por meio de um decreto de 7 de outubro, o Dicastério para o Culto Divino e a Disciplina dos Sacramentos aprovou a eleição promovida pelo cardeal presidente da Conferência Episcopal Italiana, Matteo Maria Zuppi. Livatino, assassinado pela máfia em 1990, com…",
+      "url": "https://www.vaticannews.va/pt/vaticano/news/2026-10/igreja-beatos-martires-livatino-padroeiro-magistrados-italia.html",
+      "imagem": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/maggio/21/1000268991.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "publicadaEm": "2026-10-09T17:01:00.0000000+00:00"
+    },
+    {
+      "titulo": "Amoris laetitia, as Igrejas da Índia e da Austrália: experiências e desafios",
+      "resumo": "O terceiro dia de trabalhos do encontro do Papa com os chefes das Igrejas Orientais e os presidentes das Conferências Episcopais, dez anos após a exortação pós-sinodal, é dedicado aos jovens na descoberta da vocação matrimonial. O arcebispo australiano…",
+      "url": "https://www.vaticannews.va/pt/vaticano/news/2026-10/amoris-laetitia-igrejas-india-australia-experiencia.html",
+      "imagem": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/10/07/2026-10-07-incontro-con-i-presidenti-delle-conferenze-episcopali/1791384621708.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "publicadaEm": "2026-10-09T16:00:00.0000000+00:00"
+    },
     {
       "titulo": "O Prêmio Nobel da Paz de 2026 foi concedido à sul-africana Navanethem Pillay",
       "resumo": "O prêmio foi concedido à jurista de origem tamil, juíza do Tribunal Penal Internacional, “que — segundo a justificativa —, com coragem excepcional e integridade, abriu caminho para uma ordem jurídica global mais abrangente”.",
       "url": "https://www.vaticannews.va/pt/mundo/news/2026-10/premio-nobel-paz-2026-concedido-sul-africana-navanethem.html",
       "imagem": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/afp/2026/10/09/11/1791537335651.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "publicadaEm": "2026-10-09T15:10:00.0000000+00:00"
-    },
-    {
-      "titulo": "Festa dos 95 Anos do Cristo Redentor",
-      "resumo": "Está chegando a Festa dos 95 anos do Cristo Redentor, rumo aos 100 anos!",
-      "url": "https://www.vaticannews.va/pt/igreja/news/2026-10/festa-95-anos-cristo-redentor.html",
-      "imagem": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2021/10/11/AdobeStock_109601187AEM.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-      "publicadaEm": "2026-10-09T13:47:00.0000000+00:00"
-    },
-    {
-      "titulo": "Rio de Janeiro celebrará Nossa Senhora Aparecida: 95 anos da padroeira do Brasil",
-      "resumo": "Cardeal Sebastião Leme conduziu a proclamação solene em 31 de maio de 1931, na então capital federal; Cardeal Orani Tempesta destaca a importância histórica e religiosa do acontecimento para a unidade do país",
-      "url": "https://www.vaticannews.va/pt/igreja/news/2026-10/rio-janeiro-celebrara-nossa-senhora-aparecida-95-anos-padroeira.html",
-      "imagem": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2018/10/12/WhatsApp%20Image%202018-09-27%20at%2021.08.31aem.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-      "publicadaEm": "2026-10-09T13:32:00.0000000+00:00"
     }
   ]
 }
