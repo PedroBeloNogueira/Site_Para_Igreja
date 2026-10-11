@@ -1,8 +1,15 @@
 {
   "fonte": "Vatican News",
   "feed": "https://www.vaticannews.va/pt.rss.xml",
-  "atualizadoEm": "2026-10-10T15:26:55.2491164+00:00",
+  "atualizadoEm": "2026-10-11T00:16:07.8185951+00:00",
   "noticias": [
+    {
+      "titulo": "Pizzaballa, a Terra Santa e a necessidade de reencontrar a esperança",
+      "resumo": "Três anos após 7 de outubro, o Patriarca Latino de Jerusalém descreve aos meios de comunicação vaticanos uma Terra Santa marcada pela desconfiança. “Em Israel, já não se fala em processo de paz.” Há preocupação também com a Cisjordânia, onde denuncia “uma…",
+      "url": "https://www.vaticannews.va/pt/igreja/news/2026-10/pizzaballa-a-terra-santa-e-a-necessidade-de-esperanca.html",
+      "imagem": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/ottobre/10/img-6073.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "publicadaEm": "2026-10-10T15:32:00.0000000+00:00"
+    },
     {
       "titulo": "Navanethem “Navi” Pillay - Nobel da Paz 2026",
       "resumo": "O Prémio Nobel da Paz de 2026 foi atribuído a Navanethem “Navi” Pillay, jurista sul-africana de 85 anos, juíza do Tribunal Penal Internacional e Alta Comissária das Nações Unidas para os Direitos Humanos entre 2008 e 2014. O anúncio foi feito na manhã de…",
@@ -16,13 +23,6 @@
       "url": "https://www.vaticannews.va/pt/africa/news/2026-10/angola-diocese-de-viana-celebra-sao-francisco-com-18-ordenacoes.html",
       "imagem": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/ottobre/10/ladainhas.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "publicadaEm": "2026-10-10T13:35:00.0000000+00:00"
-    },
-    {
-      "titulo": "Amoris laetitia: o matrimônio, projeto comum a cultivar todos os dias",
-      "resumo": "O quarto dia de trabalhos do encontro do Papa com os chefes das Igrejas Orientais e os presidentes das Conferências Episcopais, dez anos após a exortação pós-sinodal, foi dedicado aos primeiros anos do matrimônio. O cardeal José Cobo Cano: “É necessária…",
-      "url": "https://www.vaticannews.va/pt/vaticano/news/2026-10/amoris-laetitia-matrimonio-projeto-comum-cultivar-todos-os-dias.html",
-      "imagem": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/10/07/2026-10-07-incontro-con-i-presidenti-delle-conferenze-episcopali/1791386403471.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-      "publicadaEm": "2026-10-10T12:53:00.0000000+00:00"
     }
   ]
 }
