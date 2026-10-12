@@ -1,52 +1,6 @@
 {
-  "atualizadoEm": "2026-10-12T00:36:50.991Z",
+  "atualizadoEm": "2026-10-12T19:07:08.538Z",
   "liturgias": {
-    "2026-10-11": {
-      "data": "11/10/2026",
-      "liturgia": "28º Domingo do Tempo Comum",
-      "cor": "Verde",
-      "oracoes": {
-        "coleta": "Nós vos pedimos, Senhor, que vossa graça nos preceda e acompanhe e nos torne atentos para perseverar na prática do bem. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
-        "oferendas": "Acolhei, Senhor, as preces dos fiéis com a oblação do sacrifício, para que possamos, por este serviço da nossa piedosa devoção, alcançar a glória do céu. Por Cristo, nosso Senhor.",
-        "comunhao": "Deus todo-poderoso, nós vos pedimos humildemente: assim como nos alimentais com o sacramento do Corpo e Sangue de Cristo, fazei-nos participar da natureza divina. Por Cristo, nosso Senhor.",
-        "extras": []
-      },
-      "leituras": {
-        "primeiraLeitura": [
-          {
-            "referencia": "Is 25,6-10",
-            "titulo": "Leitura do livro do profeta Isaías",
-            "texto": "6O Senhor dos exércitos dará neste monte, para todos os povos, um banquete de ricas iguarias, regado com vinho puro, servido de pratos deliciosos e dos mais finos vinhos. 7Ele removerá, neste monte, a ponta da cadeia que ligava todos os povos, a teia em que tinha envolvido todas as nações. 8O Senhor Deus eliminará para sempre a morte, e enxugará as lágrimas de todas as faces, e acabará com a desonra do seu povo em toda a terra; o Senhor o disse. 9Naquele dia se dirá: “Este é o nosso Deus, esperamos nele, até que nos salvou; este é o Senhor, nele temos confiado: vamos alegrar-nos e exultar por nos ter salvo”. 10E a mão do Senhor repousará sobre este monte."
-          }
-        ],
-        "salmo": [
-          {
-            "referencia": "Sl 22(23)",
-            "refrao": "Na casa do Senhor habitarei eternamente.",
-            "texto": "– O Senhor é o pastor que me conduz; não me falta coisa alguma. Pelos prados e campinas verdejantes ele me leva a descansar. Para as águas repousantes me encaminha e restaura as minhas forças.\n– Ele me guia no caminho mais seguro, pela honra do seu nome. Mesmo que eu passe pelo vale tenebroso, nenhum mal eu temerei; estais comigo com bastão e com cajado: eles me dão a segurança!\n– Preparais à minha frente uma mesa, bem à vista do inimigo, e com óleo vós ungis minha cabeça; o meu cálice transborda.\n– Felicidade e todo bem hão de seguir-me por toda a minha vida; e na casa do Senhor habitarei pelos tempos infinitos."
-          }
-        ],
-        "segundaLeitura": [
-          {
-            "referencia": "Fl 4,12-14.19-20",
-            "titulo": "Leitura da carta de são Paulo aos Filipenses",
-            "texto": "Irmãos, 12sei viver na miséria e sei viver na abundância. Eu aprendi o segredo de viver em toda e qualquer situação, estando farto ou passando fome, tendo de sobra ou sofrendo necessidade. 13Tudo posso naquele que me dá força. 14No entanto, fizestes bem em compartilhar as minhas dificuldades. 19O meu Deus proverá esplendidamente, com sua riqueza, a todas as vossas necessidades, em Cristo Jesus. 20Ao nosso Deus e Pai, a glória pelos séculos dos séculos. Amém."
-          }
-        ],
-        "evangelho": [
-          {
-            "referencia": "Mt 22,1-14",
-            "titulo": "Proclamação do evangelho de Jesus Cristo segundo Mateus",
-            "texto": "[Naquele tempo, 1Jesus voltou a falar em parábolas aos sumos sacerdotes e aos anciãos do povo, dizendo: 2“O reino dos céus é como a história do rei que preparou a festa de casamento do seu filho. 3E mandou os seus empregados para chamar os convidados para a festa, mas estes não quiseram ir. 4O rei mandou outros empregados, dizendo: ‘Dizei aos convidados: já preparei o banquete, os bois e os animais cevados já foram abatidos, e tudo está pronto. Vinde para a festa!’ 5Mas os convidados não deram a menor atenção: um foi para o seu campo, outro para os seus negócios, 6outros agarraram os empregados, bateram neles e os mataram. 7O rei ficou indignado e mandou suas tropas para matar aqueles assassinos e incendiar a cidade deles. 8Em seguida, o rei disse aos empregados: ‘A festa de casamento está pronta, mas os convidados não foram dignos dela. 9Portanto, ide até as encruzilhadas dos caminhos e convidai para a festa todos os que encontrardes’. 10Então os empregados saíram pelos caminhos e reuniram todos os que encontraram, maus e bons. E a sala da festa ficou cheia de convidados”.] 11“Quando o rei entrou para ver os convidados, observou aí um homem que não estava usando traje de festa 12e perguntou-lhe: ‘Amigo, como entraste aqui sem o traje de festa?’ Mas o homem nada respondeu. 13Então o rei disse aos que serviam: ‘Amarrai os pés e as mãos desse homem e jogai-o fora, na escuridão! Aí haverá choro e ranger de dentes’. 14Porque muitos são chamados, e poucos são escolhidos”."
-          }
-        ],
-        "extras": []
-      },
-      "antifonas": {
-        "entrada": "Se levardes em conta, Senhor, nossas faltas, quem haverá de subsistir? Mas em vós se encontra o perdão. (Cf. Sl 129, 3-4)",
-        "comunhao": "Os ricos empobrecem e passam fome, mas nada falta aos que procuram o Senhor. (Cf. Sl 33, 11)"
-      }
-    },
     "2026-10-12": {
       "data": "12/10/2026",
       "liturgia": "Bem-Aventurada Virgem Maria da Conceição Aparecida, Padroeira do Brasil, Solenidade",
@@ -291,6 +245,52 @@
       "antifonas": {
         "entrada": "Com Cristo estou pregado na cruz; eu vivo, mas já não sou eu: é Cristo que vive em mim; vivo na fé no Filho de Deus, que me amou e se entregou por mim. (Cf. Gl 2, 19-20)",
         "comunhao": "Eu sou trigo de Cristo, serei moído pelos dentes das feras, para tornar-me um pão sem mistura."
+      }
+    },
+    "2026-10-18": {
+      "data": "18/10/2026",
+      "liturgia": "29º Domingo do Tempo Comum",
+      "cor": "Verde",
+      "oracoes": {
+        "coleta": "Deus eterno e todo-poderoso, tornai-nos dispostos a obedecer sempre à vossa vontade e a vos servir de coração sincero. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+        "oferendas": "Concedei-nos, Senhor, nós vos pedimos, que possamos, com liberdade de coração, servir ao vosso altar para que vossa graça nos purifique e nos renovem estes mistérios que celebramos em vossa honra. Por Cristo, nosso Senhor.",
+        "comunhao": "Concedei-nos, Senhor, colher os frutos da participação da Eucaristia, para que, auxiliados pelos bens temporais, possamos conhecer as riquezas do vosso Reino. Por Cristo, nosso Senhor.",
+        "extras": []
+      },
+      "leituras": {
+        "primeiraLeitura": [
+          {
+            "referencia": "Is 45,1.4-6",
+            "titulo": "Leitura do livro do profeta Isaías",
+            "texto": "1Isto diz o Senhor sobre Ciro, seu ungido: “Tomei-o pela mão para submeter os povos ao seu domínio, dobrar o orgulho dos reis, abrir todas as portas à sua marcha e para não deixar trancar os portões. 4Por causa de meu servo Jacó e de meu eleito Israel, chamei-te pelo nome; reservei-te, e não me reconheceste. 5Eu sou o Senhor, não existe outro: fora de mim não há deus. Armei-te guerreiro, sem me reconheceres, 6para que todos saibam, do oriente ao ocidente, que fora de mim outro não existe. Eu sou o Senhor, não há outro”."
+          }
+        ],
+        "salmo": [
+          {
+            "referencia": "Sl 95(96)",
+            "refrao": "Ó família das nações, dai ao Senhor poder e glória!",
+            "texto": "– Cantai ao Senhor Deus um canto novo, cantai ao Senhor Deus, ó terra inteira! Manifestai a sua glória entre as nações e, entre os povos do universo, seus prodígios!\n– Pois Deus é grande e muito digno de louvor, é mais terrível e maior que os outros deuses, porque um nada são os deuses dos pagãos. Foi o Senhor e nosso Deus quem fez os céus.\n– Ó família das nações, dai ao Senhor, ó nações, dai ao Senhor poder e glória, dai-lhe a glória que é devida ao seu nome! Oferecei um sacrifício nos seus átrios.\n– Adorai-o no esplendor da santidade, terra inteira, estremecei diante dele! Publicai entre as nações: “Reina o Senhor!”, pois os povos ele julga com justiça."
+          }
+        ],
+        "segundaLeitura": [
+          {
+            "referencia": "1Ts 1,1-5",
+            "titulo": "Leitura da primeira carta de São Paulo aos Tessalonicenses",
+            "texto": "1Paulo, Silvano e Timóteo à igreja dos tessalonicenses, reunida em Deus Pai e no Senhor Jesus Cristo: a vós, graça e paz! 2Damos graças a Deus por todos vós, lembrando-vos sempre em nossas orações. 3Diante de Deus, nosso Pai, recordamos sem cessar a atuação da vossa fé, o esforço da vossa caridade e a firmeza da vossa esperança em nosso Senhor Jesus Cristo. 4Sabemos, irmãos amados por Deus, que sois do número dos escolhidos. 5Porque o nosso Evangelho não chegou até vós somente por meio de palavras, mas também mediante a força que é o Espírito Santo; e isso com toda a abundância."
+          }
+        ],
+        "evangelho": [
+          {
+            "referencia": "Mt 22,15-21",
+            "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+            "texto": "Naquele tempo, 15os fariseus fizeram um plano para apanhar Jesus em alguma palavra. 16Então mandaram os seus discípulos, junto com alguns do partido de Herodes, para dizerem a Jesus: “Mestre, sabemos que és verdadeiro e que, de fato, ensinas o caminho de Deus. Não te deixas influenciar pela opinião dos outros, pois não julgas um homem pelas aparências. 17Dize-nos, pois, o que pensas: é lícito ou não pagar imposto a César?” 18Jesus percebeu a maldade deles e disse: “Hipócritas! Por que me preparais uma armadilha? 19Mostrai-me a moeda do imposto!” Levaram-lhe então a moeda. 20E Jesus disse: “De quem é a figura e a inscrição desta moeda?” 21Eles responderam: “De César”. Jesus então lhes disse: “Dai, pois, a César o que é de César e a Deus o que é de Deus”."
+          }
+        ],
+        "extras": []
+      },
+      "antifonas": {
+        "entrada": "Eu vos chamo, ó meu Deus, porque me ouvis, inclinai o vosso ouvido e escutai-me! Protegei-me qual dos olhos a pupila e abrigai-me à sombra de vossas asas. (Cf. SI 16, 6. 8)",
+        "comunhao": "O Senhor pousa o olhar sobre os que o tememe que confiam esperando em seu amor, para da morte libertar as suas vidas e alimentá-los quando é tempo de penúria. (Cf. SI 32, 18-19)"
       }
     }
   }
