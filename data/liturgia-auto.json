@@ -1,46 +1,6 @@
 {
-  "atualizadoEm": "2026-10-14T00:20:37.213Z",
+  "atualizadoEm": "2026-10-14T14:33:20.835Z",
   "liturgias": {
-    "2026-10-13": {
-      "data": "13/10/2026",
-      "liturgia": "3ª feira da 28ª Semana do Tempo Comum",
-      "cor": "Verde",
-      "oracoes": {
-        "coleta": "Nós vos pedimos, Senhor, que vossa graça nos preceda e acompanhe e nos torne atentos para perseverar na prática do bem. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
-        "oferendas": "Acolhei, Senhor, as preces dos fiéis com a oblação do sacrifício, para que possamos, por este serviço da nossa piedosa devoção, alcançar a glória do céu. Por Cristo, nosso Senhor.",
-        "comunhao": "Deus todo-poderoso, nós vos pedimos humildemente: assim como nos alimentais com o sacramento do Corpo e Sangue de Cristo, fazei-nos participar da natureza divina. Por Cristo, nosso Senhor.",
-        "extras": []
-      },
-      "leituras": {
-        "primeiraLeitura": [
-          {
-            "referencia": "Gl 5,1-6",
-            "titulo": "Leitura da carta de São Paulo aos Gálatas",
-            "texto": "Irmãos, 1é para a liberdade que Cristo nos libertou. Ficai, pois, firmes e não vos deixeis amarrar de novo ao jugo da escravidão. 2Eis que eu, Paulo, vos digo que Cristo não será de nenhum proveito para vós se vos deixardes circuncidar. 3Mais uma vez, atesto a todo homem circuncidado que ele está obrigado a observar toda a Lei. 4Vós que procurais a vossa justificação na Lei rompestes com Cristo, decaístes da graça. 5Quanto a nós, que nos deixamos conduzir pelo Espírito, é da fé que aguardamos a justificação, objeto de nossa esperança. 6Com efeito, em Jesus Cristo, o que vale é a fé agindo pela caridade; observar ou não a circuncisão não tem valor algum."
-          }
-        ],
-        "salmo": [
-          {
-            "referencia": "Sl 118(119)",
-            "refrao": "Senhor, que desça sobre mim a vossa graça!",
-            "texto": "– Senhor, que desça sobre mim a vossa graça e a vossa salvação que prometestes!\n– Não retireis vossa verdade de meus lábios, pois eu confio em vossos justos julgamentos!\n– Cumprirei constantemente a vossa lei; para sempre, eternamente a cumprirei!\n– É amplo e agradável meu caminho, porque busco e pesquiso as vossas ordens.\n– Muito me alegro com os vossos mandamentos, que eu amo, amo tanto, mais que tudo!\n– Elevarei as minhas mãos para louvar-vos e com prazer meditarei vossa vontade."
-          }
-        ],
-        "segundaLeitura": [],
-        "evangelho": [
-          {
-            "referencia": "Lc 11,37-41",
-            "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
-            "texto": "Naquele tempo, 37enquanto Jesus falava, um fariseu convidou-o para jantar com ele. Jesus entrou e pôs-se à mesa. 38O fariseu ficou admirado ao ver que Jesus não tivesse lavado as mãos antes da refeição. 39O Senhor disse ao fariseu: “Vós, fariseus, limpais o copo e o prato por fora, mas o vosso interior está cheio de roubos e maldades. 40Insensatos! Aquele que fez o exterior não fez também o interior? 41Antes, dai esmola do que vós possuís, e tudo ficará puro para vós”."
-          }
-        ],
-        "extras": []
-      },
-      "antifonas": {
-        "entrada": "Se levardes em conta, Senhor, nossas faltas, quem haverá de subsistir? Mas em vós se encontra o perdão. (Cf. Sl 129, 3-4)",
-        "comunhao": "Os ricos empobrecem e passam fome, mas nada falta aos que procuram o Senhor. (Cf. Sl 33, 11)"
-      }
-    },
     "2026-10-14": {
       "data": "14/10/2026",
       "liturgia": "4ª feira da 28ª Semana do Tempo Comum",
@@ -278,6 +238,46 @@
             "referencia": "Lc 12,13-21",
             "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
             "texto": "Naquele tempo, 13alguém, do meio da multidão, disse a Jesus: “Mestre, dize ao meu irmão que reparta a herança comigo”. 14Jesus respondeu: “Homem, quem me encarregou de julgar ou de dividir vossos bens?” 15E disse-lhes: “Atenção! Tomai cuidado contra todo tipo de ganância, porque, mesmo que alguém tenha muitas coisas, a vida de um homem não consiste na abundância de bens”. 16E contou-lhes uma parábola: “A terra de um homem rico deu uma grande colheita. 17Ele pensava consigo mesmo: ‘O que vou fazer? Não tenho onde guardar minha colheita’. 18Então resolveu: ‘Já sei o que fazer! Vou derrubar meus celeiros e construir maiores; neles vou guardar todo o meu trigo, junto com os meus bens. 19Então poderei dizer a mim mesmo: Meu caro, tu tens uma boa reserva para muitos anos. Descansa, come, bebe, aproveita!’ 20Mas Deus lhe disse: ‘Louco! Ainda nesta noite, pedirão de volta a tua vida. E para quem ficará o que tu acumulaste?’ 21Assim acontece com quem ajunta tesouros para si mesmo, mas não é rico diante de Deus”."
+          }
+        ],
+        "extras": []
+      },
+      "antifonas": {
+        "entrada": "Eu vos chamo, ó meu Deus, porque me ouvis, inclinai o vosso ouvido e escutai-me! Protegei-me qual dos olhos a pupila e abrigai-me à sombra de vossas asas. (Cf. Sl 16, 6. 8)",
+        "comunhao": "O Senhor pousa o olhar sobre os que o temem e que confiam esperando em seu amor, para da morte libertar as suas vidas e alimentá-los quando é tempo de penúria. (Cf. Sl 32, 18-19)"
+      }
+    },
+    "2026-10-20": {
+      "data": "20/10/2026",
+      "liturgia": "3ª feira da 29ª Semana do Tempo Comum",
+      "cor": "Verde",
+      "oracoes": {
+        "coleta": "Deus eterno e todo-poderoso, tornai-nos dispostos a obedecer sempre à vossa vontade e a vos servir de coração sincero. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+        "oferendas": "Concedei-nos, Senhor, nós vos pedimos, que possamos, com liberdade de coração, servir ao vosso altar para que vossa graça nos purifique e nos renovem estes mistérios que celebramos em vossa honra. Por Cristo, nosso Senhor.",
+        "comunhao": "Concedei-nos, Senhor, colher os frutos da participação da Eucaristia, para que, auxiliados pelos bens temporais, possamos conhecer as riquezas do vosso Reino. Por Cristo, nosso Senhor.",
+        "extras": []
+      },
+      "leituras": {
+        "primeiraLeitura": [
+          {
+            "referencia": "Ef 2,12-22",
+            "titulo": "Leitura da carta de São Paulo aos Efésios",
+            "texto": "Irmãos, 12naquele tempo, éreis sem Messias, privados de cidadania em Israel, estranhos às alianças da promessa, sem esperança e sem Deus no mundo. 13Mas agora, em Jesus Cristo, vós, que outrora estáveis longe, vos tornastes próximos pelo sangue de Cristo. 14Ele, de fato, é a nossa paz: do que era dividido, ele fez uma unidade. Em sua carne ele destruiu o muro de separação: a inimizade. 15Ele aboliu a Lei com seus mandamentos e decretos. Ele quis, assim, a partir do judeu e do pagão, criar em si um só homem novo, estabelecendo a paz. 16Quis reconciliá-los com Deus, ambos em um só corpo, por meio da cruz; assim ele destruiu em si mesmo a inimizade. 17Ele veio anunciar a paz a vós que estáveis longe e a paz aos que estavam próximos. 18É graças a ele que uns e outros, em um só Espírito, temos acesso junto ao Pai. 19Assim, já não sois mais estrangeiros nem migrantes, mas concidadãos dos santos. Sois da família de Deus. 20Vós fostes integrados no edifício que tem como fundamento os apóstolos e os profetas, e o próprio Jesus Cristo como pedra principal. 21É nele que toda construção se ajusta e se eleva para formar um templo santo no Senhor. 22E vós também sois integrados nessa construção, para vos tornardes morada de Deus pelo Espírito."
+          }
+        ],
+        "salmo": [
+          {
+            "referencia": "Sl 84(85)",
+            "refrao": "O Senhor anunciará a paz para o seu povo.",
+            "texto": "– Quero ouvir o que o Senhor irá falar: é a paz que ele vai anunciar; está perto a salvação dos que o temem, e a glória habitará em nossa terra.\n– A verdade e o amor se encontrarão, a justiça e a paz se abraçarão; da terra brotará a fidelidade, e a justiça olhará dos altos céus.\n– O Senhor nos dará tudo o que é bom, e a nossa terra nos dará suas colheitas; a justiça andará na sua frente e a salvação há de seguir os passos seus."
+          }
+        ],
+        "segundaLeitura": [],
+        "evangelho": [
+          {
+            "referencia": "Lc 12,35-38",
+            "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+            "texto": "Naquele tempo, disse Jesus aos seus discípulos: 35“Que vossos rins estejam cingidos e as lâmpadas acesas. 36Sede como homens que estão esperando seu senhor voltar de uma festa de casamento para lhe abrirem imediatamente a porta, logo que ele chegar e bater. 37Felizes os empregados que o senhor encontrar acordados quando chegar. Em verdade eu vos digo, ele mesmo vai cingir-se, fazê-los sentar-se à mesa e, passando, os servirá. 38E caso ele chegue à meia-noite ou às três da madrugada, felizes serão se assim os encontrar!”"
           }
         ],
         "extras": []
