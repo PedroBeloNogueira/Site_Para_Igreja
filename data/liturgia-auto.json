@@ -1,46 +1,6 @@
 {
-  "atualizadoEm": "2026-10-15T23:42:05.866Z",
+  "atualizadoEm": "2026-10-16T14:00:28.085Z",
   "liturgias": {
-    "2026-10-15": {
-      "data": "15/10/2026",
-      "liturgia": "Santa Teresa de Jesus, virgem e doutora da Igreja, Memória",
-      "cor": "Branco",
-      "oracoes": {
-        "coleta": "Deus, pelo vosso Espírito suscitastes Santa Teresa para indicar à Igreja um novo caminho na busca da perfeição;concedei-nos encontrar sempre alimento em sua doutrina espiritual e ser inflamados pelo desejo da verdadeira santidade. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
-        "oferendas": "Senhor, que nossas oferendas agradem à vossa majestade como Santa Teresa soube agradar-vos, consagrando-se inteiramente a vós. Por Cristo, nosso Senhor.",
-        "comunhao": "Senhor nosso Deus, que alimentastes a vossa família com o pão celeste, concedei-lhe, a exemplo de Santa Teresa, a alegria de cantar eternamente as vossas misericórdias. Por Cristo, nosso Senhor.",
-        "extras": []
-      },
-      "leituras": {
-        "primeiraLeitura": [
-          {
-            "referencia": "Ef 1,1-10",
-            "titulo": "Início da carta de São Paulo aos Efésios",
-            "texto": "1Paulo, apóstolo de Cristo Jesus pela vontade de Deus, aos santos e fiéis em Cristo Jesus: 2a vós, graça e paz da parte de Deus, nosso Pai, e do Senhor Jesus Cristo. 3Bendito seja Deus, Pai de nosso Senhor Jesus Cristo. Ele nos abençoou com toda a bênção do seu Espírito em virtude de nossa união com Cristo, no céu. 4Em Cristo, ele nos escolheu, antes da fundação do mundo, para que sejamos santos e irrepreensíveis sob o seu olhar, no amor. 5Ele nos predestinou para sermos seus filhos adotivos por intermédio de Jesus Cristo, conforme a decisão da sua vontade, 6para o louvor da sua glória e da graça com que ele nos cumulou no seu bem-amado. 7Pelo seu sangue, nós somos libertados. Nele, as nossas faltas são perdoadas, segundo a riqueza da sua graça, 8que Deus derramou profusamente sobre nós, abrindo-nos a toda sabedoria e prudência. 9Ele nos fez conhecer o mistério da sua vontade, o desígnio benevolente que de antemão determinou em si mesmo, 10para levar à plenitude o tempo estabelecido e recapitular, em Cristo, o universo inteiro: tudo o que está nos céus e tudo o que está sobre a terra."
-          }
-        ],
-        "salmo": [
-          {
-            "referencia": "Sl 97(98)",
-            "refrao": "O Senhor fez conhecer seu poder salvador perante as nações.",
-            "texto": "– Cantai ao Senhor Deus um canto novo, porque ele fez prodígios! Sua mão e o seu braço forte e santo alcançaram-lhe a vitória.\n– O Senhor fez conhecer a salvação, e às nações, sua justiça; recordou o seu amor sempre fiel pela casa de Israel.\n– Os confins do universo contemplaram a salvação do nosso Deus. Aclamai o Senhor Deus, ó terra inteira, alegrai-vos e exultai!\n– Cantai salmos ao Senhor ao som da harpa e da cítara suave! Aclamai, com os clarins e as trombetas, ao Senhor, o nosso rei!"
-          }
-        ],
-        "segundaLeitura": [],
-        "evangelho": [
-          {
-            "referencia": "Lc 11,47-54",
-            "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
-            "texto": "Naquele tempo, disse o Senhor: 47“Ai de vós, porque construís os túmulos dos profetas; no entanto, foram vossos pais que os mataram. 48Com isso, vós sois testemunhas e aprovais as obras de vossos pais, pois eles mataram os profetas e vós construís os túmulos. 49É por isso que a sabedoria de Deus afirmou: Eu lhes enviarei profetas e apóstolos, e eles matarão e perseguirão alguns deles, 50a fim de que se peçam contas a esta geração do sangue de todos os profetas derramado desde a criação do mundo, 51desde o sangue de Abel até o sangue de Zacarias, que foi morto entre o altar e o santuário. Sim, eu vos digo, serão pedidas contas disso a esta geração. 52Ai de vós, mestres da Lei, porque tomastes a chave da ciência. Vós mesmos não entrastes e ainda impedistes os que queriam entrar”. 53Quando Jesus saiu daí, os mestres da Lei e os fariseus começaram a tratá-lo mal e a provocá-lo sobre muitos pontos. 54Armavam ciladas para pegá-lo de surpresa por qualquer palavra que saísse de sua boca."
-          }
-        ],
-        "extras": []
-      },
-      "antifonas": {
-        "entrada": "Assim como a corça suspira, pelas águas correntes, suspira igualmente minh'alma por vós, ó meu Deus! Minha alma tem sede de Deus, e deseja o Deus vivo. (Cf. Sl 41, 2-3)",
-        "comunhao": "Ó Senhor, eu cantarei eternamente o vosso amor, de geração em geração eu cantarei vossa verdade. (Sl 88, 2)"
-      }
-    },
     "2026-10-16": {
       "data": "16/10/2026",
       "liturgia": "6ª feira da 28ª Semana do Tempo Comum",
@@ -278,6 +238,46 @@
             "referencia": "Lc 12,39-48",
             "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
             "texto": "Naquele tempo, disse Jesus aos seus discípulos: 39“Ficai certos, se o dono da casa soubesse a hora em que o ladrão iria chegar, não deixaria que arrombasse a sua casa. 40Vós também ficai preparados! Porque o Filho do Homem vai chegar na hora em que menos o esperardes”. 41Então Pedro disse: “Senhor, tu contas esta parábola para nós ou para todos?” 42E o Senhor respondeu: ”Quem é o administrador fiel e prudente que o senhor vai colocar à frente do pessoal de sua casa para dar comida a todos na hora certa? 43Feliz o empregado que o patrão, ao chegar, encontrar agindo assim! 44Em verdade eu vos digo, o senhor lhe confiará a administração de todos os seus bens. 45Porém, se aquele empregado pensar: ‘Meu patrão está demorando’, e começar a espancar os criados e as criadas, e a comer, a beber e a embriagar-se, 46o senhor daquele empregado chegará num dia inesperado e numa hora imprevista, ele o partirá ao meio e o fará participar do destino dos infiéis. 47Aquele empregado que, conhecendo a vontade do senhor, nada preparou nem agiu conforme a sua vontade será chicoteado muitas vezes. 48Porém o empregado que não conhecia essa vontade e fez coisas que merecem castigo será chicoteado poucas vezes. A quem muito foi dado, muito será pedido; a quem muito foi confiado, muito mais será exigido!”"
+          }
+        ],
+        "extras": []
+      },
+      "antifonas": {
+        "entrada": "Eu vos chamo, ó meu Deus, porque me ouvis, inclinai o vosso ouvido e escutai-me! Protegei-me qual dos olhos a pupila e abrigai-me à sombra de vossas asas. (Cf. Sl 16, 6. 8)",
+        "comunhao": "O Senhor pousa o olhar sobre os que o temem e que confiam esperando em seu amor, para da morte libertar as suas vidas e alimentá-los quando é tempo de penúria. (Cf. Sl 32, 18-19)"
+      }
+    },
+    "2026-10-22": {
+      "data": "22/10/2026",
+      "liturgia": "5ª feira da 29ª Semana do Tempo Comum",
+      "cor": "Verde",
+      "oracoes": {
+        "coleta": "Deus eterno e todo-poderoso, tornai-nos dispostos a obedecer sempre à vossa vontade e a vos servir de coração sincero. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+        "oferendas": "Concedei-nos, Senhor, nós vos pedimos, que possamos, com liberdade de coração, servir ao vosso altar para que vossa graça nos purifique e nos renovem estes mistérios que celebramos em vossa honra. Por Cristo, nosso Senhor.",
+        "comunhao": "Concedei-nos, Senhor, colher os frutos da participação da Eucaristia, para que, auxiliados pelos bens temporais, possamos conhecer as riquezas do vosso Reino. Por Cristo, nosso Senhor.",
+        "extras": []
+      },
+      "leituras": {
+        "primeiraLeitura": [
+          {
+            "referencia": "Ef 3,14-21",
+            "titulo": "Leitura da carta de São Paulo aos Efésios",
+            "texto": "Irmãos, 14eu dobro os joelhos diante do Pai, 15de quem toda e qualquer família recebe seu nome no céu e sobre a terra. 16Que ele vos conceda, segundo a riqueza da sua glória, serdes robustecidos, por seu Espírito, quanto ao homem interior; 17que ele faça habitar, pela fé, Cristo em vossos corações; que estejais enraizados e fundados no amor. 18Tereis assim a capacidade de compreender, com todos os santos, qual a largura, o comprimento, a altura, a profundidade, 19e de conhecer o amor de Cristo, que ultrapassa todo conhecimento, a fim de que sejais cumulados até receber toda a plenitude de Deus. 20Àquele que tudo pode realizar superabundantemente, e muito mais do que nós pedimos ou concebemos, e cujo poder atua em nós, 21a ele a glória, na Igreja e em Jesus Cristo, por todas as gerações, para sempre. Amém."
+          }
+        ],
+        "salmo": [
+          {
+            "referencia": "Sl 32(33)",
+            "refrao": "Transborda em toda a terra a bondade do Senhor!",
+            "texto": "– Ó justos, alegrai-vos no Senhor! Aos retos fica bem glorificá-lo. Dai graças ao Senhor ao som da harpa, na lira de dez cordas celebrai-o!\n– Pois reta é a Palavra do Senhor, e tudo o que ele faz merece fé. Deus ama o direito e a justiça, transborda em toda a terra a sua graça.\n– Mas os desígnios do Senhor são para sempre, e os pensamentos que ele traz no coração, de geração em geração, vão perdurar. Feliz o povo cujo Deus é o Senhor e a nação que o escolheu por sua herança!\n– Mas o Senhor pousa o olhar sobre os que o temem e que confiam, esperando em seu amor, para da morte libertar as suas vidas e alimentá-los quando é tempo de penúria."
+          }
+        ],
+        "segundaLeitura": [],
+        "evangelho": [
+          {
+            "referencia": "Lc 12,49-53",
+            "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+            "texto": "Naquele tempo, disse Jesus aos seus discípulos: 49“Eu vim para lançar fogo sobre a terra e como gostaria que já estivesse aceso! 50Devo receber um batismo e como estou ansioso até que isso se cumpra! 51Vós pensais que eu vim trazer a paz sobre a terra? Pelo contrário, eu vos digo, vim trazer divisão. 52Pois daqui em diante, numa família de cinco pessoas, três ficarão divididas contra duas e duas contra três; 53ficarão divididos o pai contra o filho e o filho contra o pai, a mãe contra a filha e a filha contra a mãe, a sogra contra a nora e a nora contra a sogra”."
           }
         ],
         "extras": []
