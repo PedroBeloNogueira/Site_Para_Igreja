@@ -1,13 +1,7 @@
 {
+  "atualizadoEm": "2026-10-17T13:01:30.1461699Z",
+  "fonte": "https://www.a12.com",
   "santos": {
-    "2026-10-14": {
-      "fonte": "A12 · Santuário de Aparecida",
-      "imagem": "https://www.a12.com/source/files/originals/14_de_outubro_-_Sao_Calisto-881406.jpg",
-      "resumo": "Calisto nasceu em Roma no século II, ele nasceu num bairro pobre e foi escravo.",
-      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=378&day=14&month=10",
-      "data": "2026-10-14",
-      "nome": "São Calisto"
-    },
     "2026-10-15": {
       "nome": "Santa Teresa D'Ávila",
       "data": "2026-10-15",
@@ -25,68 +19,68 @@
       "resumo": "Santa Margarida Maria Alacoque recebeu a missão de espalhar pelo mundo a devoção ao Sagrado Coração ofendido pela ingratidão dos homens, que…"
     },
     "2026-10-17": {
-      "nome": "Santo Inácio de Antioquia",
+      "resumo": "Inácio nasceu por volta do ano 35 da era cristã e viveu toda vida sendo um portador da vontade de Deus.",
+      "imagem": "https://www.a12.com/source/files/originals/17_de_outubro_-_Santo_Inacio_de_Antioquia-866201.jpg",
       "fonte": "A12 · Santuário de Aparecida",
       "data": "2026-10-17",
-      "imagem": "https://www.a12.com/source/files/originals/17_de_outubro_-_Santo_Inacio_de_Antioquia-866201.jpg",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=267&day=17&month=10",
-      "resumo": "Inácio nasceu por volta do ano 35 da era cristã e viveu toda vida sendo um portador da vontade de Deus."
+      "nome": "Santo Inácio de Antioquia"
     },
     "2026-10-18": {
-      "nome": "São Lucas",
+      "resumo": "O Evangelho de São Lucas se dirige a todos os homens, mostrando-nos que Jesus de Nazaré veio trazer a salvação universal.",
+      "imagem": "https://www.a12.com/source/files/originals/18_de_outubro_-_Sao_Lucas-111842.jpg",
       "fonte": "A12 · Santuário de Aparecida",
       "data": "2026-10-18",
-      "imagem": "https://www.a12.com/source/files/originals/18_de_outubro_-_Sao_Lucas-111842.jpg",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=268&day=18&month=10",
-      "resumo": "O Evangelho de São Lucas se dirige a todos os homens, mostrando-nos que Jesus de Nazaré veio trazer a salvação universal."
+      "nome": "São Lucas"
     },
     "2026-10-19": {
-      "nome": "São Pedro de Alcântara",
+      "resumo": "São Pedro de Alcântara viveu uma espiritualidade marcada pelo amor a Jesus Crucificado",
+      "imagem": "https://www.a12.com/source/files/originals/20_de_outubro_-_Sao_Pedro_de_Alcantara-724092.jpg",
       "fonte": "A12 · Santuário de Aparecida",
       "data": "2026-10-19",
-      "imagem": "https://www.a12.com/source/files/originals/20_de_outubro_-_Sao_Pedro_de_Alcantara-724092.jpg",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=708&day=19&month=10",
-      "resumo": "São Pedro de Alcântara viveu uma espiritualidade marcada pelo amor a Jesus Crucificado"
+      "nome": "São Pedro de Alcântara"
     },
     "2026-10-20": {
-      "nome": "Santa Maria Bertilla Boscardin",
+      "resumo": "Uma simples camponesa pôde demonstrar, com suas atitudes diárias, que mesmo sem êxtases, sem milagres, sem grandes feitos, o ser humano traz…",
+      "imagem": "https://www.a12.com/source/files/originals/Santa_Maria_Bertilla_Boscardin-791698.jpg",
       "fonte": "A12 · Santuário de Aparecida",
       "data": "2026-10-20",
-      "imagem": "https://www.a12.com/source/files/originals/Santa_Maria_Bertilla_Boscardin-791698.jpg",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=270&day=20&month=10",
-      "resumo": "Uma simples camponesa pôde demonstrar, com suas atitudes diárias, que mesmo sem êxtases, sem milagres, sem grandes feitos, o ser humano traz…"
+      "nome": "Santa Maria Bertilla Boscardin"
     },
     "2026-10-21": {
-      "nome": "Santa Úrsula e companheiras",
+      "resumo": "O martírio de Ùrsula e de suas companheiras retrata para nós a perseverança na fé mesmo em condições adversas.",
+      "imagem": "https://www.a12.com/source/files/originals/Santa_Ursula-515310.jpg",
       "fonte": "A12 · Santuário de Aparecida",
       "data": "2026-10-21",
-      "imagem": "https://www.a12.com/source/files/originals/Santa_Ursula-515310.jpg",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=271&day=21&month=10",
-      "resumo": "O martírio de Ùrsula e de suas companheiras retrata para nós a perseverança na fé mesmo em condições adversas."
+      "nome": "Santa Úrsula e companheiras"
     },
     "2026-10-22": {
-      "nome": "São João Paulo II",
+      "resumo": "Seu Pontificado foi marcado por recordes, foram 104 Viagens Apostólicas pelo mundo",
+      "imagem": "https://www.a12.com/source/files/originals/22_outubro_-_Sao_Joao_Paulo_II-772688.jpg",
       "fonte": "A12 · Santuário de Aparecida",
       "data": "2026-10-22",
-      "imagem": "https://www.a12.com/source/files/originals/22_outubro_-_Sao_Joao_Paulo_II-772688.jpg",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=272&day=22&month=10",
-      "resumo": "Seu Pontificado foi marcado por recordes, foram 104 Viagens Apostólicas pelo mundo"
+      "nome": "São João Paulo II"
     },
     "2026-10-23": {
-      "nome": "São João de Capistrano",
+      "resumo": "João chamado de apóstolo da Europa e com espírito inquebrantável, organizou a ordem franciscana, foi conselheiro de papas e em suas viagens…",
+      "imagem": "https://www.a12.com/source/files/originals/23_de_outubro_-_Sao_Joao_de_Capistrano-158775.jpg",
       "fonte": "A12 · Santuário de Aparecida",
       "data": "2026-10-23",
-      "imagem": "https://www.a12.com/source/files/originals/23_de_outubro_-_Sao_Joao_de_Capistrano-158775.jpg",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=273&day=23&month=10",
-      "resumo": "João chamado de apóstolo da Europa e com espírito inquebrantável, organizou a ordem franciscana, foi conselheiro de papas e em suas viagens…"
+      "nome": "São João de Capistrano"
     },
     "2026-10-24": {
-      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=274&day=24&month=10",
       "resumo": "Santo Antonio Maria Claret destaca-se pelo amor a Palavra de Deus, que tratava com familiaridade e respeito.",
-      "nome": "Santo Antônio Maria Claret",
+      "imagem": "https://www.a12.com/source/files/originals/24_de_outubro_-_Santo_Antonio_Maria_Claret-064439.jpg",
       "fonte": "A12 · Santuário de Aparecida",
       "data": "2026-10-24",
-      "imagem": "https://www.a12.com/source/files/originals/24_de_outubro_-_Santo_Antonio_Maria_Claret-064439.jpg"
+      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=274&day=24&month=10",
+      "nome": "Santo Antônio Maria Claret"
     },
     "2026-10-25": {
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=275&day=25&month=10",
@@ -144,7 +138,5 @@
       "data": "2026-10-31",
       "imagem": "https://www.a12.com/source/files/originals/31_de_outubro_-_Santo_Afonso_Rodrigues-385680.jpg"
     }
-  },
-  "atualizadoEm": "2026-10-16T23:40:10.8662607Z",
-  "fonte": "https://www.a12.com"
+  }
 }

@@ -1,46 +1,6 @@
 {
-  "atualizadoEm": "2026-10-16T23:39:37.712Z",
+  "atualizadoEm": "2026-10-17T13:00:33.866Z",
   "liturgias": {
-    "2026-10-16": {
-      "data": "16/10/2026",
-      "liturgia": "6ª feira da 28ª Semana do Tempo Comum",
-      "cor": "Verde",
-      "oracoes": {
-        "coleta": "Nós vos pedimos, Senhor, que vossa graça nos preceda e acompanhe e nos torne atentos para perseverar na prática do bem. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
-        "oferendas": "Acolhei, Senhor, as preces dos fiéis com a oblação do sacrifício, para que possamos, por este serviço da nossa piedosa devoção, alcançar a glória do céu. Por Cristo, nosso Senhor.",
-        "comunhao": "Deus todo-poderoso, nós vos pedimos humildemente: assim como nos alimentais com o sacramento do Corpo e Sangue de Cristo, fazei-nos participar da natureza divina. Por Cristo, nosso Senhor.",
-        "extras": []
-      },
-      "leituras": {
-        "primeiraLeitura": [
-          {
-            "referencia": "Ef 1,11-14",
-            "titulo": "Leitura da carta de São Paulo aos Efésios",
-            "texto": "Irmãos, 11em Cristo nós recebemos a nossa parte. Segundo o projeto daquele que conduz tudo conforme a decisão de sua vontade, nós fomos predestinados 12a ser, para o louvor de sua glória, os que de antemão colocaram a sua esperança em Cristo. 13Nele também vós ouvistes a Palavra da verdade, o Evangelho que vos salva. Nele, ainda, acreditastes e fostes marcados com o selo do Espírito prometido, o Espírito Santo, 14o que é o penhor da nossa herança para a redenção do povo que ele adquiriu para o louvor da sua glória."
-          }
-        ],
-        "salmo": [
-          {
-            "referencia": "Sl 32(33)",
-            "refrao": "Feliz o povo que o Senhor escolheu por sua herança!",
-            "texto": "– Ó justos, alegrai-vos no Senhor! Aos retos fica bem glorificá-lo. Dai graças ao Senhor ao som da harpa, na lira de dez cordas celebrai-o!\n– Pois reta é a Palavra do Senhor, e tudo o que ele faz merece fé. Deus ama o direito e a justiça, transborda em toda a terra a sua graça.\n– Feliz o povo cujo Deus é o Senhor, e a nação que escolheu por sua herança! Dos altos céus o Senhor olha e observa; ele se inclina para olhar todos os homens."
-          }
-        ],
-        "segundaLeitura": [],
-        "evangelho": [
-          {
-            "referencia": "Lc 12,1-7",
-            "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
-            "texto": "Naquele tempo, 1milhares de pessoas se reuniram, a ponto de uns pisarem os outros. Jesus começou a falar, primeiro a seus discípulos: “Tomai cuidado com o fermento dos fariseus, que é a hipocrisia. 2Não há nada de escondido que não venha a ser revelado, e não há nada de oculto que não venha a ser conhecido. 3Portanto, tudo o que tiverdes dito na escuridão será ouvido à luz do dia; e o que tiverdes pronunciado ao pé do ouvido, no quarto, será proclamado sobre os telhados. 4Pois bem, meus amigos, eu vos digo, não tenhais medo daqueles que matam o corpo, não podendo fazer mais do que isso. 5Vou mostrar-vos a quem deveis temer: temei aquele que, depois de tirar a vida, tem o poder de lançar-vos no inferno. Sim, eu vos digo, a esse temei. 6Não se vendem cinco pardais por uma pequena quantia? No entanto, nenhum deles é esquecido por Deus. 7Até mesmo os cabelos de vossa cabeça estão todos contados. Não tenhais medo! Vós valeis mais do que muitos pardais”."
-          }
-        ],
-        "extras": []
-      },
-      "antifonas": {
-        "entrada": "Se levardes em conta, Senhor, nossas faltas, quem haverá de subsistir? Mas em vós se encontra o perdão. (Cf. Sl 129, 3-4)",
-        "comunhao": "Os ricos empobrecem e passam fome, mas nada falta aos que procuram o Senhor. (Cf. Sl 33, 11)"
-      }
-    },
     "2026-10-17": {
       "data": "17/10/2026",
       "liturgia": "Santo Inácio de Antioquia, bispo e mártir, Memória",
@@ -278,6 +238,46 @@
             "referencia": "Lc 12,49-53",
             "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
             "texto": "Naquele tempo, disse Jesus aos seus discípulos: 49“Eu vim para lançar fogo sobre a terra e como gostaria que já estivesse aceso! 50Devo receber um batismo e como estou ansioso até que isso se cumpra! 51Vós pensais que eu vim trazer a paz sobre a terra? Pelo contrário, eu vos digo, vim trazer divisão. 52Pois daqui em diante, numa família de cinco pessoas, três ficarão divididas contra duas e duas contra três; 53ficarão divididos o pai contra o filho e o filho contra o pai, a mãe contra a filha e a filha contra a mãe, a sogra contra a nora e a nora contra a sogra”."
+          }
+        ],
+        "extras": []
+      },
+      "antifonas": {
+        "entrada": "Eu vos chamo, ó meu Deus, porque me ouvis, inclinai o vosso ouvido e escutai-me! Protegei-me qual dos olhos a pupila e abrigai-me à sombra de vossas asas. (Cf. Sl 16, 6. 8)",
+        "comunhao": "O Senhor pousa o olhar sobre os que o temem e que confiam esperando em seu amor, para da morte libertar as suas vidas e alimentá-los quando é tempo de penúria. (Cf. Sl 32, 18-19)"
+      }
+    },
+    "2026-10-23": {
+      "data": "23/10/2026",
+      "liturgia": "6ª feira da 29ª Semana do Tempo Comum",
+      "cor": "Verde",
+      "oracoes": {
+        "coleta": "Deus eterno e todo-poderoso, tornai-nos dispostos a obedecer sempre à vossa vontade e a vos servir de coração sincero. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+        "oferendas": "Concedei-nos, Senhor, nós vos pedimos, que possamos, com liberdade de coração, servir ao vosso altar para que vossa graça nos purifique e nos renovem estes mistérios que celebramos em vossa honra. Por Cristo, nosso Senhor.",
+        "comunhao": "Concedei-nos, Senhor, colher os frutos da participação da Eucaristia, para que, auxiliados pelos bens temporais, possamos conhecer as riquezas do vosso Reino. Por Cristo, nosso Senhor.",
+        "extras": []
+      },
+      "leituras": {
+        "primeiraLeitura": [
+          {
+            "referencia": "Ef 4,1-6",
+            "titulo": "Leitura da carta de São Paulo aos Efésios",
+            "texto": "Irmãos, 1eu, prisioneiro no Senhor, vos exorto a caminhardes de acordo com a vocação que recebestes: 2com toda a humildade e mansidão, suportai-vos uns aos outros com paciência, no amor. 3Aplicai-vos a guardar a unidade do espírito pelo vínculo da paz. 4Há um só corpo e um só Espírito, como também é uma só a esperança à qual fostes chamados. 5Há um só Senhor, uma só fé, um só batismo, 6um só Deus e Pai de todos, que reina sobre todos, age por meio de todos e permanece em todos."
+          }
+        ],
+        "salmo": [
+          {
+            "referencia": "Sl 23(24)",
+            "refrao": "É assim a geração dos que buscam vossa face, ó Senhor, Deus de Israel.",
+            "texto": "– Ao Senhor pertence a terra e o que ela encerra, o mundo inteiro com os seres que o povoam; porque ele a tornou firme sobre os mares e, sobre as águas, a mantém inabalável.\n– “Quem subirá até o monte do Senhor, quem ficará em sua santa habitação?” “Quem tem mãos puras e inocente coração, quem não dirige sua mente para o crime.\n– Sobre este desce a bênção do Senhor e a recompensa de seu Deus e salvador.” “É assim a geração dos que o procuram e do Deus de Israel buscam a face.”"
+          }
+        ],
+        "segundaLeitura": [],
+        "evangelho": [
+          {
+            "referencia": "Lc 12,54-59",
+            "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+            "texto": "Naquele tempo, 54Jesus dizia às multidões: “Quando vedes uma nuvem vinda do ocidente, logo dizeis que vem chuva. E assim acontece. 55Quando sentis soprar o vento do sul, logo dizeis que vai fazer calor. E assim acontece. 56Hipócritas! Vós sabeis interpretar o aspecto da terra e do céu. Como é que não sabeis interpretar o tempo presente? 57Por que não julgais por vós mesmos o que é justo? 58Quando, pois, tu vais com o teu adversário apresentar-te diante do magistrado, procura resolver o caso com ele enquanto estais a caminho. Senão ele te levará ao juiz, o juiz te entregará ao guarda, e o guarda te jogará na cadeia. 59Eu te digo, daí tu não sairás, enquanto não pagares o último centavo”."
           }
         ],
         "extras": []
