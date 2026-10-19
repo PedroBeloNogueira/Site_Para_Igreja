@@ -1,13 +1,7 @@
 {
+  "atualizadoEm": "2026-10-19T16:31:36.3513056Z",
+  "fonte": "https://www.a12.com",
   "santos": {
-    "2026-10-16": {
-      "nome": "Santa Margarida Maria Alacoque",
-      "fonte": "A12 · Santuário de Aparecida",
-      "data": "2026-10-16",
-      "imagem": "https://www.a12.com/source/files/originals/16_de_outubro_-_Santa_Margarida_Maria_Alacoque-772168.jpg",
-      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=266&day=16&month=10",
-      "resumo": "Santa Margarida Maria Alacoque recebeu a missão de espalhar pelo mundo a devoção ao Sagrado Coração ofendido pela ingratidão dos homens, que…"
-    },
     "2026-10-17": {
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=267&day=17&month=10",
       "fonte": "A12 · Santuário de Aparecida",
@@ -28,64 +22,64 @@
       "fonte": "A12 · Santuário de Aparecida",
       "data": "2026-10-19",
       "resumo": "São Pedro de Alcântara viveu uma espiritualidade marcada pelo amor a Jesus Crucificado",
-      "imagem": "https://www.a12.com/source/files/originals/20_de_outubro_-_Sao_Pedro_de_Alcantara-724092.jpg",
+      "nome": "São Pedro de Alcântara",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=708&day=19&month=10",
-      "nome": "São Pedro de Alcântara"
+      "imagem": "https://www.a12.com/source/files/originals/20_de_outubro_-_Sao_Pedro_de_Alcantara-724092.jpg"
     },
     "2026-10-20": {
       "fonte": "A12 · Santuário de Aparecida",
       "data": "2026-10-20",
       "resumo": "Uma simples camponesa pôde demonstrar, com suas atitudes diárias, que mesmo sem êxtases, sem milagres, sem grandes feitos, o ser humano traz…",
-      "imagem": "https://www.a12.com/source/files/originals/Santa_Maria_Bertilla_Boscardin-791698.jpg",
+      "nome": "Santa Maria Bertilla Boscardin",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=270&day=20&month=10",
-      "nome": "Santa Maria Bertilla Boscardin"
+      "imagem": "https://www.a12.com/source/files/originals/Santa_Maria_Bertilla_Boscardin-791698.jpg"
     },
     "2026-10-21": {
       "fonte": "A12 · Santuário de Aparecida",
       "data": "2026-10-21",
       "resumo": "O martírio de Ùrsula e de suas companheiras retrata para nós a perseverança na fé mesmo em condições adversas.",
-      "imagem": "https://www.a12.com/source/files/originals/Santa_Ursula-515310.jpg",
+      "nome": "Santa Úrsula e companheiras",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=271&day=21&month=10",
-      "nome": "Santa Úrsula e companheiras"
+      "imagem": "https://www.a12.com/source/files/originals/Santa_Ursula-515310.jpg"
     },
     "2026-10-22": {
       "fonte": "A12 · Santuário de Aparecida",
       "data": "2026-10-22",
       "resumo": "Seu Pontificado foi marcado por recordes, foram 104 Viagens Apostólicas pelo mundo",
-      "imagem": "https://www.a12.com/source/files/originals/22_outubro_-_Sao_Joao_Paulo_II-772688.jpg",
+      "nome": "São João Paulo II",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=272&day=22&month=10",
-      "nome": "São João Paulo II"
+      "imagem": "https://www.a12.com/source/files/originals/22_outubro_-_Sao_Joao_Paulo_II-772688.jpg"
     },
     "2026-10-23": {
       "fonte": "A12 · Santuário de Aparecida",
       "data": "2026-10-23",
       "resumo": "João chamado de apóstolo da Europa e com espírito inquebrantável, organizou a ordem franciscana, foi conselheiro de papas e em suas viagens…",
-      "imagem": "https://www.a12.com/source/files/originals/23_de_outubro_-_Sao_Joao_de_Capistrano-158775.jpg",
+      "nome": "São João de Capistrano",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=273&day=23&month=10",
-      "nome": "São João de Capistrano"
+      "imagem": "https://www.a12.com/source/files/originals/23_de_outubro_-_Sao_Joao_de_Capistrano-158775.jpg"
     },
     "2026-10-24": {
       "fonte": "A12 · Santuário de Aparecida",
       "data": "2026-10-24",
       "resumo": "Santo Antonio Maria Claret destaca-se pelo amor a Palavra de Deus, que tratava com familiaridade e respeito.",
-      "imagem": "https://www.a12.com/source/files/originals/24_de_outubro_-_Santo_Antonio_Maria_Claret-064439.jpg",
+      "nome": "Santo Antônio Maria Claret",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=274&day=24&month=10",
-      "nome": "Santo Antônio Maria Claret"
+      "imagem": "https://www.a12.com/source/files/originals/24_de_outubro_-_Santo_Antonio_Maria_Claret-064439.jpg"
     },
     "2026-10-25": {
       "fonte": "A12 · Santuário de Aparecida",
       "data": "2026-10-25",
       "resumo": "Frei Galvão foi chamado Bandeirante de Cristo, porque tinha na alma a grandeza, o arrojo e fortaleza de um verdadeiro bandeirante.",
-      "imagem": "https://www.a12.com/source/files/originals/Santo_Antonio_de_SantAnna_Galvao-251142.jpg",
+      "nome": "Santo Antônio de Sant'Anna Galvão",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=275&day=25&month=10",
-      "nome": "Santo Antônio de Sant'Anna Galvão"
+      "imagem": "https://www.a12.com/source/files/originals/Santo_Antonio_de_SantAnna_Galvao-251142.jpg"
     },
     "2026-10-26": {
-      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=276&day=26&month=10",
-      "resumo": "Evaristo destacou-se pelo carinho com que dirigiu as primeiras comunidades cristãs, sendo ele próprio um pastor zeloso e preocupado pessoalmente com a…",
-      "nome": "Santo Evaristo",
       "fonte": "A12 · Santuário de Aparecida",
       "data": "2026-10-26",
+      "resumo": "Evaristo destacou-se pelo carinho com que dirigiu as primeiras comunidades cristãs, sendo ele próprio um pastor zeloso e preocupado pessoalmente com a…",
+      "nome": "Santo Evaristo",
+      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=276&day=26&month=10",
       "imagem": "https://www.a12.com/source/files/originals/Santo_Evaristo-641981.jpg"
     },
     "2026-10-27": {
@@ -128,7 +122,5 @@
       "data": "2026-10-31",
       "imagem": "https://www.a12.com/source/files/originals/31_de_outubro_-_Santo_Afonso_Rodrigues-385680.jpg"
     }
-  },
-  "fonte": "https://www.a12.com",
-  "atualizadoEm": "2026-10-18T23:20:29.6585351Z"
+  }
 }
