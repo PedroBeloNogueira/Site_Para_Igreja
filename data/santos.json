@@ -1,15 +1,7 @@
 {
+  "atualizadoEm": "2026-10-21T14:32:01.3007050Z",
   "fonte": "https://www.a12.com",
-  "atualizadoEm": "2026-10-20T23:57:30.2647586Z",
   "santos": {
-    "2026-10-18": {
-      "fonte": "A12 · Santuário de Aparecida",
-      "data": "2026-10-18",
-      "resumo": "O Evangelho de São Lucas se dirige a todos os homens, mostrando-nos que Jesus de Nazaré veio trazer a salvação universal.",
-      "imagem": "https://www.a12.com/source/files/originals/18_de_outubro_-_Sao_Lucas-111842.jpg",
-      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=268&day=18&month=10",
-      "nome": "São Lucas"
-    },
     "2026-10-19": {
       "resumo": "São Pedro de Alcântara viveu uma espiritualidade marcada pelo amor a Jesus Crucificado",
       "imagem": "https://www.a12.com/source/files/originals/20_de_outubro_-_Sao_Pedro_de_Alcantara-724092.jpg",
@@ -27,68 +19,68 @@
       "imagem": "https://www.a12.com/source/files/originals/Santa_Maria_Bertilla_Boscardin-791698.jpg"
     },
     "2026-10-21": {
-      "nome": "Santa Úrsula e companheiras",
       "fonte": "A12 · Santuário de Aparecida",
       "data": "2026-10-21",
-      "resumo": "O martírio de Ùrsula e de suas companheiras retrata para nós a perseverança na fé mesmo em condições adversas.",
+      "imagem": "https://www.a12.com/source/files/originals/Santa_Ursula-515310.jpg",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=271&day=21&month=10",
-      "imagem": "https://www.a12.com/source/files/originals/Santa_Ursula-515310.jpg"
+      "nome": "Santa Úrsula e companheiras",
+      "resumo": "O martírio de Ùrsula e de suas companheiras retrata para nós a perseverança na fé mesmo em condições adversas."
     },
     "2026-10-22": {
-      "nome": "São João Paulo II",
       "fonte": "A12 · Santuário de Aparecida",
       "data": "2026-10-22",
-      "resumo": "Seu Pontificado foi marcado por recordes, foram 104 Viagens Apostólicas pelo mundo",
+      "imagem": "https://www.a12.com/source/files/originals/22_outubro_-_Sao_Joao_Paulo_II-772688.jpg",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=272&day=22&month=10",
-      "imagem": "https://www.a12.com/source/files/originals/22_outubro_-_Sao_Joao_Paulo_II-772688.jpg"
+      "nome": "São João Paulo II",
+      "resumo": "Seu Pontificado foi marcado por recordes, foram 104 Viagens Apostólicas pelo mundo"
     },
     "2026-10-23": {
-      "nome": "São João de Capistrano",
       "fonte": "A12 · Santuário de Aparecida",
       "data": "2026-10-23",
-      "resumo": "João chamado de apóstolo da Europa e com espírito inquebrantável, organizou a ordem franciscana, foi conselheiro de papas e em suas viagens…",
+      "imagem": "https://www.a12.com/source/files/originals/23_de_outubro_-_Sao_Joao_de_Capistrano-158775.jpg",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=273&day=23&month=10",
-      "imagem": "https://www.a12.com/source/files/originals/23_de_outubro_-_Sao_Joao_de_Capistrano-158775.jpg"
+      "nome": "São João de Capistrano",
+      "resumo": "João chamado de apóstolo da Europa e com espírito inquebrantável, organizou a ordem franciscana, foi conselheiro de papas e em suas viagens…"
     },
     "2026-10-24": {
-      "nome": "Santo Antônio Maria Claret",
       "fonte": "A12 · Santuário de Aparecida",
       "data": "2026-10-24",
-      "resumo": "Santo Antonio Maria Claret destaca-se pelo amor a Palavra de Deus, que tratava com familiaridade e respeito.",
+      "imagem": "https://www.a12.com/source/files/originals/24_de_outubro_-_Santo_Antonio_Maria_Claret-064439.jpg",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=274&day=24&month=10",
-      "imagem": "https://www.a12.com/source/files/originals/24_de_outubro_-_Santo_Antonio_Maria_Claret-064439.jpg"
+      "nome": "Santo Antônio Maria Claret",
+      "resumo": "Santo Antonio Maria Claret destaca-se pelo amor a Palavra de Deus, que tratava com familiaridade e respeito."
     },
     "2026-10-25": {
-      "nome": "Santo Antônio de Sant'Anna Galvão",
       "fonte": "A12 · Santuário de Aparecida",
       "data": "2026-10-25",
-      "resumo": "Frei Galvão foi chamado Bandeirante de Cristo, porque tinha na alma a grandeza, o arrojo e fortaleza de um verdadeiro bandeirante.",
+      "imagem": "https://www.a12.com/source/files/originals/Santo_Antonio_de_SantAnna_Galvao-251142.jpg",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=275&day=25&month=10",
-      "imagem": "https://www.a12.com/source/files/originals/Santo_Antonio_de_SantAnna_Galvao-251142.jpg"
+      "nome": "Santo Antônio de Sant'Anna Galvão",
+      "resumo": "Frei Galvão foi chamado Bandeirante de Cristo, porque tinha na alma a grandeza, o arrojo e fortaleza de um verdadeiro bandeirante."
     },
     "2026-10-26": {
-      "nome": "Santo Evaristo",
       "fonte": "A12 · Santuário de Aparecida",
       "data": "2026-10-26",
-      "resumo": "Evaristo destacou-se pelo carinho com que dirigiu as primeiras comunidades cristãs, sendo ele próprio um pastor zeloso e preocupado pessoalmente com a…",
+      "imagem": "https://www.a12.com/source/files/originals/Santo_Evaristo-641981.jpg",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=276&day=26&month=10",
-      "imagem": "https://www.a12.com/source/files/originals/Santo_Evaristo-641981.jpg"
+      "nome": "Santo Evaristo",
+      "resumo": "Evaristo destacou-se pelo carinho com que dirigiu as primeiras comunidades cristãs, sendo ele próprio um pastor zeloso e preocupado pessoalmente com a…"
     },
     "2026-10-27": {
-      "nome": "São Frumêncio",
       "fonte": "A12 · Santuário de Aparecida",
       "data": "2026-10-27",
-      "resumo": "São Frumêncio destaca-se, por sua sabedoria e perseverança em sonhar com uma vida melhor para o povo da Etiópia.",
+      "imagem": "https://www.a12.com/source/files/originals/27_de_outubro_-_Sao_Frumencio-019650.jpg",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=277&day=27&month=10",
-      "imagem": "https://www.a12.com/source/files/originals/27_de_outubro_-_Sao_Frumencio-019650.jpg"
+      "nome": "São Frumêncio",
+      "resumo": "São Frumêncio destaca-se, por sua sabedoria e perseverança em sonhar com uma vida melhor para o povo da Etiópia."
     },
     "2026-10-28": {
-      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=278&day=28&month=10",
-      "resumo": "O apóstolo Judas Tadeu se tornou um mártir da fé. Os sacerdotes pagãos furiosos mandaram assassinar o apóstolo, a golpes de bastões,…",
-      "nome": "São Judas Tadeu",
       "fonte": "A12 · Santuário de Aparecida",
       "data": "2026-10-28",
-      "imagem": "https://www.a12.com/source/files/originals/28_de_outubro_-_Sao_Judas_Tadeu-838128.jpg"
+      "imagem": "https://www.a12.com/source/files/originals/28_de_outubro_-_Sao_Judas_Tadeu-838128.jpg",
+      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=278&day=28&month=10",
+      "nome": "São Judas Tadeu",
+      "resumo": "O apóstolo Judas Tadeu se tornou um mártir da fé. Os sacerdotes pagãos furiosos mandaram assassinar o apóstolo, a golpes de bastões,…"
     },
     "2026-10-29": {
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=279&day=29&month=10",
