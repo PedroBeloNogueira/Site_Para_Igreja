@@ -1,4 +1,5 @@
 {
+  "fonte": "https://www.a12.com",
   "santos": {
     "2026-10-21": {
       "nome": "Santa Úrsula e companheiras",
@@ -17,68 +18,68 @@
       "nome": "São João Paulo II"
     },
     "2026-10-23": {
-      "data": "2026-10-23",
+      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=273&day=23&month=10",
       "imagem": "https://www.a12.com/source/files/originals/23_de_outubro_-_Sao_Joao_de_Capistrano-158775.jpg",
-      "resumo": "João chamado de apóstolo da Europa e com espírito inquebrantável, organizou a ordem franciscana, foi conselheiro de papas e em suas viagens…",
-      "nome": "São João de Capistrano",
       "fonte": "A12 · Santuário de Aparecida",
-      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=273&day=23&month=10"
+      "nome": "São João de Capistrano",
+      "resumo": "João chamado de apóstolo da Europa e com espírito inquebrantável, organizou a ordem franciscana, foi conselheiro de papas e em suas viagens…",
+      "data": "2026-10-23"
     },
     "2026-10-24": {
-      "data": "2026-10-24",
+      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=274&day=24&month=10",
       "imagem": "https://www.a12.com/source/files/originals/24_de_outubro_-_Santo_Antonio_Maria_Claret-064439.jpg",
-      "resumo": "Santo Antonio Maria Claret destaca-se pelo amor a Palavra de Deus, que tratava com familiaridade e respeito.",
-      "nome": "Santo Antônio Maria Claret",
       "fonte": "A12 · Santuário de Aparecida",
-      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=274&day=24&month=10"
+      "nome": "Santo Antônio Maria Claret",
+      "resumo": "Santo Antonio Maria Claret destaca-se pelo amor a Palavra de Deus, que tratava com familiaridade e respeito.",
+      "data": "2026-10-24"
     },
     "2026-10-25": {
-      "data": "2026-10-25",
+      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=275&day=25&month=10",
       "imagem": "https://www.a12.com/source/files/originals/Santo_Antonio_de_SantAnna_Galvao-251142.jpg",
-      "resumo": "Frei Galvão foi chamado Bandeirante de Cristo, porque tinha na alma a grandeza, o arrojo e fortaleza de um verdadeiro bandeirante.",
-      "nome": "Santo Antônio de Sant'Anna Galvão",
       "fonte": "A12 · Santuário de Aparecida",
-      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=275&day=25&month=10"
+      "nome": "Santo Antônio de Sant'Anna Galvão",
+      "resumo": "Frei Galvão foi chamado Bandeirante de Cristo, porque tinha na alma a grandeza, o arrojo e fortaleza de um verdadeiro bandeirante.",
+      "data": "2026-10-25"
     },
     "2026-10-26": {
-      "data": "2026-10-26",
+      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=276&day=26&month=10",
       "imagem": "https://www.a12.com/source/files/originals/Santo_Evaristo-641981.jpg",
-      "resumo": "Evaristo destacou-se pelo carinho com que dirigiu as primeiras comunidades cristãs, sendo ele próprio um pastor zeloso e preocupado pessoalmente com a…",
-      "nome": "Santo Evaristo",
       "fonte": "A12 · Santuário de Aparecida",
-      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=276&day=26&month=10"
+      "nome": "Santo Evaristo",
+      "resumo": "Evaristo destacou-se pelo carinho com que dirigiu as primeiras comunidades cristãs, sendo ele próprio um pastor zeloso e preocupado pessoalmente com a…",
+      "data": "2026-10-26"
     },
     "2026-10-27": {
-      "data": "2026-10-27",
+      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=277&day=27&month=10",
       "imagem": "https://www.a12.com/source/files/originals/27_de_outubro_-_Sao_Frumencio-019650.jpg",
-      "resumo": "São Frumêncio destaca-se, por sua sabedoria e perseverança em sonhar com uma vida melhor para o povo da Etiópia.",
-      "nome": "São Frumêncio",
       "fonte": "A12 · Santuário de Aparecida",
-      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=277&day=27&month=10"
+      "nome": "São Frumêncio",
+      "resumo": "São Frumêncio destaca-se, por sua sabedoria e perseverança em sonhar com uma vida melhor para o povo da Etiópia.",
+      "data": "2026-10-27"
     },
     "2026-10-28": {
-      "data": "2026-10-28",
+      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=278&day=28&month=10",
       "imagem": "https://www.a12.com/source/files/originals/28_de_outubro_-_Sao_Judas_Tadeu-838128.jpg",
-      "resumo": "O apóstolo Judas Tadeu se tornou um mártir da fé. Os sacerdotes pagãos furiosos mandaram assassinar o apóstolo, a golpes de bastões,…",
-      "nome": "São Judas Tadeu",
       "fonte": "A12 · Santuário de Aparecida",
-      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=278&day=28&month=10"
+      "nome": "São Judas Tadeu",
+      "resumo": "O apóstolo Judas Tadeu se tornou um mártir da fé. Os sacerdotes pagãos furiosos mandaram assassinar o apóstolo, a golpes de bastões,…",
+      "data": "2026-10-28"
     },
     "2026-10-29": {
-      "data": "2026-10-29",
+      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=279&day=29&month=10",
       "imagem": "https://www.a12.com/source/files/originals/29_de_outubro_-_Sao_Narciso-065162.jpg",
-      "resumo": "São Narciso foi eleito bispo com quase cem anos de idade e administrou a diocese de Jerusalém até a idade de 116…",
-      "nome": "São Narciso",
       "fonte": "A12 · Santuário de Aparecida",
-      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=279&day=29&month=10"
+      "nome": "São Narciso",
+      "resumo": "São Narciso foi eleito bispo com quase cem anos de idade e administrou a diocese de Jerusalém até a idade de 116…",
+      "data": "2026-10-29"
     },
     "2026-10-30": {
-      "data": "2026-10-30",
+      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=280&day=30&month=10",
       "imagem": "https://www.a12.com/source/files/originals/30_de_outubro_-_Beata_Maria_Resoluta-846418.jpg",
-      "resumo": "Maria Resoluta pediu para dizer as suas irmãs: Por Cristo eu vivi, por Cristo desejo morrer. Estes gestos de coragem e de…",
-      "nome": "Beata Maria Resoluta",
       "fonte": "A12 · Santuário de Aparecida",
-      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=280&day=30&month=10"
+      "nome": "Beata Maria Resoluta",
+      "resumo": "Maria Resoluta pediu para dizer as suas irmãs: Por Cristo eu vivi, por Cristo desejo morrer. Estes gestos de coragem e de…",
+      "data": "2026-10-30"
     },
     "2026-10-31": {
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=281&day=31&month=10",
@@ -89,6 +90,5 @@
       "imagem": "https://www.a12.com/source/files/originals/31_de_outubro_-_Santo_Afonso_Rodrigues-385680.jpg"
     }
   },
-  "atualizadoEm": "2026-10-23T19:20:00.4203262Z",
-  "fonte": "https://www.a12.com"
+  "atualizadoEm": "2026-10-23T23:52:53.0547566Z"
 }
