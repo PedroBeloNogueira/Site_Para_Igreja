@@ -1,46 +1,6 @@
 {
-  "atualizadoEm": "2026-10-23T23:52:27.501Z",
+  "atualizadoEm": "2026-10-24T13:23:03.535Z",
   "liturgias": {
-    "2026-10-23": {
-      "data": "23/10/2026",
-      "liturgia": "6ª feira da 29ª Semana do Tempo Comum",
-      "cor": "Verde",
-      "oracoes": {
-        "coleta": "Deus eterno e todo-poderoso, tornai-nos dispostos a obedecer sempre à vossa vontade e a vos servir de coração sincero. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
-        "oferendas": "Concedei-nos, Senhor, nós vos pedimos, que possamos, com liberdade de coração, servir ao vosso altar para que vossa graça nos purifique e nos renovem estes mistérios que celebramos em vossa honra. Por Cristo, nosso Senhor.",
-        "comunhao": "Concedei-nos, Senhor, colher os frutos da participação da Eucaristia, para que, auxiliados pelos bens temporais, possamos conhecer as riquezas do vosso Reino. Por Cristo, nosso Senhor.",
-        "extras": []
-      },
-      "leituras": {
-        "primeiraLeitura": [
-          {
-            "referencia": "Ef 4,1-6",
-            "titulo": "Leitura da carta de São Paulo aos Efésios",
-            "texto": "Irmãos, 1eu, prisioneiro no Senhor, vos exorto a caminhardes de acordo com a vocação que recebestes: 2com toda a humildade e mansidão, suportai-vos uns aos outros com paciência, no amor. 3Aplicai-vos a guardar a unidade do espírito pelo vínculo da paz. 4Há um só corpo e um só Espírito, como também é uma só a esperança à qual fostes chamados. 5Há um só Senhor, uma só fé, um só batismo, 6um só Deus e Pai de todos, que reina sobre todos, age por meio de todos e permanece em todos."
-          }
-        ],
-        "salmo": [
-          {
-            "referencia": "Sl 23(24)",
-            "refrao": "É assim a geração dos que buscam vossa face, ó Senhor, Deus de Israel.",
-            "texto": "– Ao Senhor pertence a terra e o que ela encerra, o mundo inteiro com os seres que o povoam; porque ele a tornou firme sobre os mares e, sobre as águas, a mantém inabalável.\n– “Quem subirá até o monte do Senhor, quem ficará em sua santa habitação?” “Quem tem mãos puras e inocente coração, quem não dirige sua mente para o crime.\n– Sobre este desce a bênção do Senhor e a recompensa de seu Deus e salvador.” “É assim a geração dos que o procuram e do Deus de Israel buscam a face.”"
-          }
-        ],
-        "segundaLeitura": [],
-        "evangelho": [
-          {
-            "referencia": "Lc 12,54-59",
-            "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
-            "texto": "Naquele tempo, 54Jesus dizia às multidões: “Quando vedes uma nuvem vinda do ocidente, logo dizeis que vem chuva. E assim acontece. 55Quando sentis soprar o vento do sul, logo dizeis que vai fazer calor. E assim acontece. 56Hipócritas! Vós sabeis interpretar o aspecto da terra e do céu. Como é que não sabeis interpretar o tempo presente? 57Por que não julgais por vós mesmos o que é justo? 58Quando, pois, tu vais com o teu adversário apresentar-te diante do magistrado, procura resolver o caso com ele enquanto estais a caminho. Senão ele te levará ao juiz, o juiz te entregará ao guarda, e o guarda te jogará na cadeia. 59Eu te digo, daí tu não sairás, enquanto não pagares o último centavo”."
-          }
-        ],
-        "extras": []
-      },
-      "antifonas": {
-        "entrada": "Eu vos chamo, ó meu Deus, porque me ouvis, inclinai o vosso ouvido e escutai-me! Protegei-me qual dos olhos a pupila e abrigai-me à sombra de vossas asas. (Cf. Sl 16, 6. 8)",
-        "comunhao": "O Senhor pousa o olhar sobre os que o temem e que confiam esperando em seu amor, para da morte libertar as suas vidas e alimentá-los quando é tempo de penúria. (Cf. Sl 32, 18-19)"
-      }
-    },
     "2026-10-24": {
       "data": "24/10/2026",
       "liturgia": "Sábado da 29ª Semana do Tempo Comum",
@@ -278,6 +238,46 @@
             "referencia": "Lc 13,31-35",
             "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
             "texto": "31Naquela hora, alguns fariseus aproximaram-se e disseram a Jesus: “Tu deves ir embora daqui, porque Herodes quer te matar”. 32Jesus disse: “Ide dizer a essa raposa: eu expulso demônios e faço curas hoje e amanhã; e no terceiro dia terminarei o meu trabalho. 33Entretanto, preciso caminhar hoje, amanhã e depois de amanhã, porque não convém que um profeta morra fora de Jerusalém. 34Jerusalém, Jerusalém! Tu que matas os profetas e apedrejas os que te foram enviados! Quantas vezes eu quis reunir teus filhos como a galinha reúne os pintainhos debaixo das asas, mas tu não quiseste! 35Eis que vossa casa ficará abandonada. Eu vos digo, não me vereis mais, até que chegue o tempo em que vós mesmos direis: ‘Bendito aquele que vem em nome do Senhor'”."
+          }
+        ],
+        "extras": []
+      },
+      "antifonas": {
+        "entrada": "Exulte o coração que busca a Deus! Procurai o Senhor Deus e seu poder, buscai constantemente a sua face. (Cf. SI 104, 3-4)",
+        "comunhao": "Nós nos alegraremos na vossa salvação e no nome do nosso Deus exultaremos. (Cf. Sl 19, 6)"
+      }
+    },
+    "2026-10-30": {
+      "data": "30/10/2026",
+      "liturgia": "6ª feira da 30ª Semana do Tempo Comum",
+      "cor": "Verde",
+      "oracoes": {
+        "coleta": "Deus eterno e todo-poderoso, aumentai em nós a fé, a esperança e a caridade e, para merecermos alcançar o que prometeis, fazei-nos amar o que ordenais. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+        "oferendas": "Olhai benigno, nós vos pedimos, Senhor, os dons que vos apresentamos, e nossa celebração seja, antes de tudo, para a vossa glória. Por Cristo, nosso Senhor.",
+        "comunhao": "Os vossos sacramentos, Senhor, realizem o que significam, a fim de que um dia possamos entrar em plena posse do mistério que agora em ritos celebramos. Por Cristo, nosso Senhor.",
+        "extras": []
+      },
+      "leituras": {
+        "primeiraLeitura": [
+          {
+            "referencia": "Fl 1,1-11",
+            "titulo": "Início da carta de São Paulo aos Filipenses",
+            "texto": "1Paulo e Timóteo, servos de Cristo Jesus, a todos os santos em Cristo Jesus que estão em Filipos, com os seus bispos e diáconos: 2graça e paz a vós da parte de Deus nosso Pai e do Senhor Jesus Cristo. 3Dou graças ao meu Deus todas as vezes que me lembro de vós. 4Sempre, em todas as minhas orações, rezo por vós, com alegria, 5por causa da vossa comunhão conosco na divulgação do Evangelho, desde o primeiro dia até agora. 6Tenho a certeza de que aquele que começou em vós uma boa obra há de levá-la à perfeição até o dia de Cristo Jesus. 7É justo que eu pense assim a respeito de vós todos, pois a todos trago no coração, porque, tanto na minha prisão como na defesa e confirmação do Evangelho, participais na graça que me foi dada. 8Deus é testemunha de que tenho saudade de todos vós, com a ternura de Cristo Jesus. 9E isto eu peço a Deus: que o vosso amor cresça sempre mais, em todo o conhecimento e experiência, 10para discernirdes o que é o melhor. E assim ficareis puros e sem defeito para o dia de Cristo, 11cheios do fruto da justiça que nos vem por Jesus Cristo, para a glória e o louvor de Deus."
+          }
+        ],
+        "salmo": [
+          {
+            "referencia": "Sl 110(111)",
+            "refrao": "Grandiosas são as obras do Senhor!",
+            "texto": "– Eu agradeço a Deus de todo o coração junto com todos os seus justos reunidos! Que grandiosas são as obras do Senhor, elas merecem todo o amor e admiração!\n– Que beleza e esplendor são os seus feitos! Sua justiça permanece eternamente! O Senhor bom e clemente nos deixou a lembrança de suas grandes maravilhas.\n– Ele dá o alimento aos que o temem e jamais esquecerá sua Aliança. Ao seu povo manifesta seu poder, dando a ele a herança das nações."
+          }
+        ],
+        "segundaLeitura": [],
+        "evangelho": [
+          {
+            "referencia": "Lc 14,1-6",
+            "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+            "texto": "1Aconteceu que, num dia de sábado, Jesus foi comer na casa de um dos chefes dos fariseus. E eles o observavam. 2Diante de Jesus, havia um hidrópico. 3Tomando a palavra, Jesus falou aos mestres da Lei e aos fariseus: “A Lei permite curar em dia de sábado ou não?” 4Mas eles ficaram em silêncio. Então Jesus tomou o homem pela mão, curou-o e despediu-o. 5Depois lhes disse: “Se algum de vós tem um filho ou um boi que caiu num poço, não o tira logo, mesmo em dia de sábado?” 6E eles não foram capazes de responder a isso."
           }
         ],
         "extras": []
