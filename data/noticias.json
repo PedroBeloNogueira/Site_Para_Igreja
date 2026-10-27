@@ -1,8 +1,15 @@
 {
   "fonte": "Vatican News",
   "feed": "https://www.vaticannews.va/pt.rss.xml",
-  "atualizadoEm": "2026-10-26T16:11:17.0488837+00:00",
+  "atualizadoEm": "2026-10-27T00:32:53.2531754+00:00",
   "noticias": [
+    {
+      "titulo": "Eles, os Santos!",
+      "resumo": "Uma análise da questão da santidade e dos encontros entre São João Paulo II e uma santa brasileira e candidatos à santificação do nordeste brasileiro.",
+      "url": "https://www.vaticannews.va/pt/igreja/news/2026-10/eles-santos.html",
+      "imagem": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2023/09/21/all-sainsts-1-stained-glassAEM.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "publicadaEm": "2026-10-26T16:06:00.0000000+00:00"
+    },
     {
       "titulo": "Dom Oriolo: é possível evangelizar sem evangelizadores?",
       "resumo": "Jesus Cristo é a própria Boa-Nova, o Evangelho vivo. Ele veio para que “todos tenham vida e a tenham plenamente” (Jo 10,10) e a Igreja continua sua presença e ação no mundo, sempre a serviço da vida.",
@@ -14,15 +21,8 @@
       "titulo": "Viagem confirmada. Papa: estou feliz de voltar para a América Latina",
       "resumo": "Leão XIV: é o “continente no qual vivi tantos momentos da minha vida. Que esta viagem seja uma oportunidade para abrirmos nossos corações uns aos outros, fortalecermos nossa comunhão como irmãos e irmãs e renovarmos nosso compromisso de anunciar o…",
       "url": "https://www.vaticannews.va/pt/papa/news/2026-10/viagem-confirmada-papa-estou-feliz-de-voltar-a-america-latina.html",
-      "imagem": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/10/21/2026-10-21-udienza-generale/1792571098994.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "imagem": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/10/21/2026-10-21-udienza-generale/1792571108940.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "publicadaEm": "2026-10-26T15:51:00.0000000+00:00"
-    },
-    {
-      "titulo": "Cabo Verde: Diocese de Mindelo caminha para o Jubileu dos 25 anos",
-      "resumo": "Enquadrado na celebração dos 25 anos da criação da Diocese de Mindelo a acontecer em 2029, as 17 paróquias já estão empenhadas no início de mais um Ano Pastoral em viver o Triénio onde o tema chapéu é “Celebrar e anunciar” que culmina com o Jubileu.",
-      "url": "https://www.vaticannews.va/pt/africa/news/2026-10/cabo-verde-igreja-jubileu-25-anos-celebrar-formacao-catequese.html",
-      "imagem": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/ottobre/26/mons-ildo-fortes-vescovo-mindelo-capo-verde-1.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-      "publicadaEm": "2026-10-26T15:37:49.0000000+00:00"
     }
   ]
 }
