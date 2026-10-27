@@ -1,15 +1,6 @@
 {
-  "atualizadoEm": "2026-10-27T00:32:51.7027060Z",
   "fonte": "https://www.a12.com",
   "santos": {
-    "2026-10-24": {
-      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=274&day=24&month=10",
-      "resumo": "Santo Antonio Maria Claret destaca-se pelo amor a Palavra de Deus, que tratava com familiaridade e respeito.",
-      "imagem": "https://www.a12.com/source/files/originals/24_de_outubro_-_Santo_Antonio_Maria_Claret-064439.jpg",
-      "data": "2026-10-24",
-      "fonte": "A12 · Santuário de Aparecida",
-      "nome": "Santo Antônio Maria Claret"
-    },
     "2026-10-25": {
       "data": "2026-10-25",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=275&day=25&month=10",
@@ -27,60 +18,69 @@
       "data": "2026-10-26"
     },
     "2026-10-27": {
-      "nome": "São Frumêncio",
-      "imagem": "https://www.a12.com/source/files/originals/27_de_outubro_-_Sao_Frumencio-019650.jpg",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=277&day=27&month=10",
-      "resumo": "São Frumêncio destaca-se, por sua sabedoria e perseverança em sonhar com uma vida melhor para o povo da Etiópia.",
+      "data": "2026-10-27",
       "fonte": "A12 · Santuário de Aparecida",
-      "data": "2026-10-27"
+      "nome": "São Frumêncio",
+      "resumo": "São Frumêncio destaca-se, por sua sabedoria e perseverança em sonhar com uma vida melhor para o povo da Etiópia.",
+      "imagem": "https://www.a12.com/source/files/originals/27_de_outubro_-_Sao_Frumencio-019650.jpg"
     },
     "2026-10-28": {
-      "nome": "São Judas Tadeu",
-      "imagem": "https://www.a12.com/source/files/originals/28_de_outubro_-_Sao_Judas_Tadeu-838128.jpg",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=278&day=28&month=10",
-      "resumo": "O apóstolo Judas Tadeu se tornou um mártir da fé. Os sacerdotes pagãos furiosos mandaram assassinar o apóstolo, a golpes de bastões,…",
+      "data": "2026-10-28",
       "fonte": "A12 · Santuário de Aparecida",
-      "data": "2026-10-28"
+      "nome": "São Judas Tadeu",
+      "resumo": "O apóstolo Judas Tadeu se tornou um mártir da fé. Os sacerdotes pagãos furiosos mandaram assassinar o apóstolo, a golpes de bastões,…",
+      "imagem": "https://www.a12.com/source/files/originals/28_de_outubro_-_Sao_Judas_Tadeu-838128.jpg"
     },
     "2026-10-29": {
-      "nome": "São Narciso",
-      "imagem": "https://www.a12.com/source/files/originals/29_de_outubro_-_Sao_Narciso-065162.jpg",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=279&day=29&month=10",
-      "resumo": "São Narciso foi eleito bispo com quase cem anos de idade e administrou a diocese de Jerusalém até a idade de 116…",
+      "data": "2026-10-29",
       "fonte": "A12 · Santuário de Aparecida",
-      "data": "2026-10-29"
+      "nome": "São Narciso",
+      "resumo": "São Narciso foi eleito bispo com quase cem anos de idade e administrou a diocese de Jerusalém até a idade de 116…",
+      "imagem": "https://www.a12.com/source/files/originals/29_de_outubro_-_Sao_Narciso-065162.jpg"
     },
     "2026-10-30": {
-      "nome": "Beata Maria Resoluta",
-      "imagem": "https://www.a12.com/source/files/originals/30_de_outubro_-_Beata_Maria_Resoluta-846418.jpg",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=280&day=30&month=10",
-      "resumo": "Maria Resoluta pediu para dizer as suas irmãs: Por Cristo eu vivi, por Cristo desejo morrer. Estes gestos de coragem e de…",
+      "data": "2026-10-30",
       "fonte": "A12 · Santuário de Aparecida",
-      "data": "2026-10-30"
+      "nome": "Beata Maria Resoluta",
+      "resumo": "Maria Resoluta pediu para dizer as suas irmãs: Por Cristo eu vivi, por Cristo desejo morrer. Estes gestos de coragem e de…",
+      "imagem": "https://www.a12.com/source/files/originals/30_de_outubro_-_Beata_Maria_Resoluta-846418.jpg"
     },
     "2026-10-31": {
-      "nome": "Santo Afonso Rodrigues",
-      "imagem": "https://www.a12.com/source/files/originals/31_de_outubro_-_Santo_Afonso_Rodrigues-385680.jpg",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=281&day=31&month=10",
-      "resumo": "Afonso entrou então numa profunda crise espiritual. Retirado na própria casa, rezou e meditou muito e resolveu dedicar sua vida completamente à…",
+      "data": "2026-10-31",
       "fonte": "A12 · Santuário de Aparecida",
-      "data": "2026-10-31"
+      "nome": "Santo Afonso Rodrigues",
+      "resumo": "Afonso entrou então numa profunda crise espiritual. Retirado na própria casa, rezou e meditou muito e resolveu dedicar sua vida completamente à…",
+      "imagem": "https://www.a12.com/source/files/originals/31_de_outubro_-_Santo_Afonso_Rodrigues-385680.jpg"
     },
     "2026-11-01": {
-      "nome": "Todos os santos",
-      "imagem": "https://www.a12.com/source/files/originals/Santo_do_Dia_-_Todos_os_Santos-760330.jpg",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=282&day=1&month=11",
-      "resumo": "Na festa de “todos os santos” a Igreja não pretende lembrar somente dos santos conhecidos e oficialmente canonizados, mas de todos aqueles…",
+      "data": "2026-11-01",
       "fonte": "A12 · Santuário de Aparecida",
-      "data": "2026-11-01"
+      "nome": "Todos os santos",
+      "resumo": "Na festa de “todos os santos” a Igreja não pretende lembrar somente dos santos conhecidos e oficialmente canonizados, mas de todos aqueles…",
+      "imagem": "https://www.a12.com/source/files/originals/Santo_do_Dia_-_Todos_os_Santos-760330.jpg"
     },
     "2026-11-02": {
-      "nome": "Fiéis Defuntos",
-      "imagem": "https://www.a12.com/source/files/originals/2_-_Fieis_Defuntos-350679.jpg",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=283&day=2&month=11",
-      "resumo": "A recordação dos fiéis defuntos nos projeta para o futuro. Nossa fé fala-nos de Esperança, a grande palavra chave nesse dia.",
+      "data": "2026-11-02",
       "fonte": "A12 · Santuário de Aparecida",
-      "data": "2026-11-02"
+      "nome": "Fiéis Defuntos",
+      "resumo": "A recordação dos fiéis defuntos nos projeta para o futuro. Nossa fé fala-nos de Esperança, a grande palavra chave nesse dia.",
+      "imagem": "https://www.a12.com/source/files/originals/2_-_Fieis_Defuntos-350679.jpg"
+    },
+    "2026-11-03": {
+      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=653&day=3&month=11",
+      "data": "2026-11-03",
+      "fonte": "A12 · Santuário de Aparecida",
+      "nome": "São Martinho de Lima (ou de Porres)",
+      "resumo": "Homem cheio do Espírito Santo e de obras no Amor, conseguia servir a Cristo no próximo.",
+      "imagem": "https://www.a12.com/source/files/originals/3_-_Sao_Martinho_de_Lima_ou_de_Porres_A12-559551.jpg"
     }
-  }
+  },
+  "atualizadoEm": "2026-10-27T15:25:23.5180914Z"
 }
