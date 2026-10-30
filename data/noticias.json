@@ -1,8 +1,15 @@
 {
   "fonte": "Vatican News",
   "feed": "https://www.vaticannews.va/pt.rss.xml",
-  "atualizadoEm": "2026-10-29T16:14:16.4253992+00:00",
+  "atualizadoEm": "2026-10-30T01:07:36.4590671+00:00",
   "noticias": [
+    {
+      "titulo": "Reaberto o Processo de apelação vaticano, próximas audiências em janeiro de 2027",
+      "resumo": "A sétima audiência da segunda instância do julgamento sobre a gestão dos fundos da Santa Sé durou pouco mais de dez minutos. O presidente do Tribunal de Apelação, dom Arellano Cedillo, marcou as próximas audiências para os dias 26 a 29 de janeiro de 2027:…",
+      "url": "https://www.vaticannews.va/pt/vaticano/news/2026-10/processo-apelacao-fundos-santa-se-audiencias-janeiro-2027.html",
+      "imagem": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/ottobre/19/rome-st-pietro-2.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "publicadaEm": "2026-10-29T16:45:00.0000000+00:00"
+    },
     {
       "titulo": "A coragem da Igreja no Haiti, que permanece apesar da violência",
       "resumo": "O testemunho de Maddalena Boschetti, missionária fidei donum, enquanto El Salvador reforça sua presença militar no país após o desaparecimento de quatro soldados. Quase um milhão e meio de deslocados e uma crise política sem fim. A situação em Porto…",
@@ -16,13 +23,6 @@
       "url": "https://www.vaticannews.va/pt/igreja/news/2026-10/papa-leao-xiv-peru-franciscanas-imaculada-conceicao-preparacao.html",
       "imagem": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2025/maggio/09/25-05-09-at-11.21.08.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "publicadaEm": "2026-10-29T15:09:00.0000000+00:00"
-    },
-    {
-      "titulo": "Leão XIV: contemplar os santos, sinal profético da vida futura",
-      "resumo": "Nas saudações em italiano, na Audiência Geral desta quarta-feira (28/10), o Papa recorda a Solenidade de Todos os Santos, em 1º de novembro, e, em seguida, em alemão, a comemoração dos Fiéis Defuntos, em 2 de novembro, mês em que “a Igreja intercede de…",
-      "url": "https://www.vaticannews.va/pt/papa/news/2026-10/papa-leao-xiv-audiencia-geral-dia-todos-os-santos-1-novembro-26.html",
-      "imagem": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/10/28/2026-10-28-udienza-generale/1793183399505.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-      "publicadaEm": "2026-10-29T14:18:00.0000000+00:00"
     }
   ]
 }
