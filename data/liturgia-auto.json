@@ -1,46 +1,6 @@
 {
-  "atualizadoEm": "2026-10-30T01:07:10.148Z",
+  "atualizadoEm": "2026-10-30T15:59:33.500Z",
   "liturgias": {
-    "2026-10-29": {
-      "data": "29/10/2026",
-      "liturgia": "5ª feira da 30ª Semana do Tempo Comum",
-      "cor": "Verde",
-      "oracoes": {
-        "coleta": "Deus eterno e todo-poderoso, aumentai em nós a fé, a esperança e a caridade e, para merecermos alcançar o que prometeis, fazei-nos amar o que ordenais. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
-        "oferendas": "Olhai benigno, nós vos pedimos, Senhor, os dons que vos apresentamos, e nossa celebração seja, antes de tudo, para a vossa glória. Por Cristo, nosso Senhor.",
-        "comunhao": "Os vossos sacramentos, Senhor, realizem o que significam, a fim de que um dia possamos entrar em plena posse do mistério que agora em ritos celebramos. Por Cristo, nosso Senhor.",
-        "extras": []
-      },
-      "leituras": {
-        "primeiraLeitura": [
-          {
-            "referencia": "Ef 6,10-20",
-            "titulo": "Leitura da carta de São Paulo aos Efésios",
-            "texto": "10Para terminar, irmãos, confortai-vos no Senhor e, no domínio de sua força, 11revesti-vos da armadura de Deus, para estardes em condições de enfrentar as manobras do diabo. 12Pois não é a homens que enfrentamos, mas as autoridades, os poderes, as dominações deste mundo de trevas, os espíritos do mal que estão nos céus. 13Revesti, portanto, a armadura de Deus, a fim de que no dia mau possais resistir e permanecer firmes em tudo. 14De pé, portanto! Cingi os vossos rins com a verdade, revesti-vos com a couraça da justiça 15e calçai os vossos pés com a prontidão em anunciar o Evangelho da paz. 16Tomai o escudo da fé, o qual vos permitirá apagar todas as flechas ardentes do maligno. 17Tomai, enfim, o capacete da salvação e o gládio do espírito, isto é, a Palavra de Deus. 18Com preces e súplicas de vária ordem, orai em todas as circunstâncias, no Espírito, e vigiai com toda a perseverança, intercedendo por todos os santos. 19Orai também por mim, para que a palavra seja colocada em minha boca para anunciar corajosamente o mistério do Evangelho, 20do qual sou embaixador acorrentado. Possa eu, como é minha obrigação, proclamá-lo com toda a ousadia."
-          }
-        ],
-        "salmo": [
-          {
-            "referencia": "Sl 143(144)",
-            "refrao": "Bendito seja o Senhor, meu rochedo!",
-            "texto": "– Bendito seja o Senhor, meu rochedo, que adestrou minhas mãos para a luta e os meus dedos treinou para a guerra!\n– Ele é meu amor, meu refúgio, libertador, fortaleza e abrigo; é meu escudo: é nele que espero, ele submete as nações a meus pés.\n– Um canto novo, meu Deus, vou cantar-vos, nas dez cordas da harpa louvar-vos, a vós que dais a vitória aos reis e salvais vosso servo Davi."
-          }
-        ],
-        "segundaLeitura": [],
-        "evangelho": [
-          {
-            "referencia": "Lc 13,31-35",
-            "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
-            "texto": "31Naquela hora, alguns fariseus aproximaram-se e disseram a Jesus: “Tu deves ir embora daqui, porque Herodes quer te matar”. 32Jesus disse: “Ide dizer a essa raposa: eu expulso demônios e faço curas hoje e amanhã; e no terceiro dia terminarei o meu trabalho. 33Entretanto, preciso caminhar hoje, amanhã e depois de amanhã, porque não convém que um profeta morra fora de Jerusalém. 34Jerusalém, Jerusalém! Tu que matas os profetas e apedrejas os que te foram enviados! Quantas vezes eu quis reunir teus filhos como a galinha reúne os pintainhos debaixo das asas, mas tu não quiseste! 35Eis que vossa casa ficará abandonada. Eu vos digo, não me vereis mais, até que chegue o tempo em que vós mesmos direis: ‘Bendito aquele que vem em nome do Senhor'”."
-          }
-        ],
-        "extras": []
-      },
-      "antifonas": {
-        "entrada": "Exulte o coração que busca a Deus! Procurai o Senhor Deus e seu poder, buscai constantemente a sua face. (Cf. SI 104, 3-4)",
-        "comunhao": "Nós nos alegraremos na vossa salvação e no nome do nosso Deus exultaremos. (Cf. Sl 19, 6)"
-      }
-    },
     "2026-10-30": {
       "data": "30/10/2026",
       "liturgia": "6ª feira da 30ª Semana do Tempo Comum",
@@ -291,6 +251,46 @@
       "antifonas": {
         "entrada": "Visitarei minhas ovelhas, diz o Senhor, e suscitarei um pastor que as apascentará; eu, o Senhor, serei o seu Deus. (Cf. Ez 34, 11. 23-24)",
         "comunhao": "Não fostes vós que me escolhestes, diz o Senhor, fui eu que vos escolhi e vos designei para irdes e produzirdes fruto e para que o vosso fruto permaneça. (Cf. Jo 15, 16)"
+      }
+    },
+    "2026-11-05": {
+      "data": "05/11/2026",
+      "liturgia": "5ª feira da 31ª Semana do Tempo Comum",
+      "cor": "Verde",
+      "oracoes": {
+        "coleta": "Ó Deus de poder e misericórdia, que concedeis a vossos filhos e filhas o dom de vos servir como devem, fazei que corramos livremente ao encontro das vossas promessas. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+        "oferendas": "Seja este sacrifício para vós, Senhor, uma oferenda pura e, para nós, fonte generosa de vossa santa misericórdia. Por Cristo, nosso Senhor.",
+        "comunhao": "Cresça em nós, Senhor, a ação da vossa graça, para que, refeitos pelos vossos sacramentos, sejamos preparados para alcançar o que prometem. Por Cristo, nosso Senhor.",
+        "extras": []
+      },
+      "leituras": {
+        "primeiraLeitura": [
+          {
+            "referencia": "Fl 3,3-8",
+            "titulo": "Leitura da carta de São Paulo aos Filipenses",
+            "texto": "Irmãos, 3os verdadeiros circuncidados somos nós, que prestamos culto pelo Espírito de Deus, colocamos a nossa glória em Cristo Jesus e não pomos confiança na carne. 4Aliás, também eu poderia pôr minha confiança na carne. Pois, se algum outro pensa que pode confiar na carne, eu mais ainda. 5Fui circuncidado no oitavo dia, sou da raça de Israel, da tribo de Benjamim, hebreu filho de hebreus. Em relação à Lei, fariseu; 6pelo zelo, perseguidor da Igreja de Deus; quanto à justiça que vem da Lei, sempre irrepreensível. 7Mas essas coisas, que eram vantagens para mim, considerei-as como perda, por causa de Cristo. 8Na verdade, considero tudo como perda diante da vantagem suprema que consiste em conhecer a Cristo Jesus, meu Senhor."
+          }
+        ],
+        "salmo": [
+          {
+            "referencia": "Sl 104(105)",
+            "refrao": "Exulte o coração dos que buscam o Senhor!",
+            "texto": "– Cantai, entoai salmos para ele, publicai todas as suas maravilhas! Gloriai-vos em seu nome que é santo, exulte o coração que busca a Deus!\n– Procurai o Senhor Deus e seu poder, buscai constantemente a sua face! Lembrai as maravilhas que ele fez, seus prodígios e as palavras de seus lábios!\n– Descendentes de Abraão, seu servidor, e filhos de Jacó, seu escolhido, ele mesmo, o Senhor, é nosso Deus, vigoram suas leis em toda a terra."
+          }
+        ],
+        "segundaLeitura": [],
+        "evangelho": [
+          {
+            "referencia": "Lc 15,1-10",
+            "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+            "texto": "Naquele tempo, 1os publicanos e pecadores aproximavam-se de Jesus para o escutar. 2Os fariseus, porém, e os mestres da Lei criticavam Jesus: “Este homem acolhe os pecadores e faz refeição com eles”. 3Então, Jesus contou-lhes esta parábola: 4“Se um de vós tem cem ovelhas e perde uma, não deixa as noventa e nove no deserto e vai atrás daquela que se perdeu, até encontrá-la? 5Quando a encontra, coloca-a nos ombros com alegria 6e, chegando a casa, reúne os amigos e vizinhos e diz: ‘Alegrai-vos comigo! Encontrei a minha ovelha que estava perdida!’ 7Eu vos digo, assim haverá no céu mais alegria por um só pecador que se converte do que por noventa e nove justos que não precisam de conversão. 8E se uma mulher tem dez moedas de prata e perde uma, não acende uma lâmpada, varre a casa e a procura cuidadosamente, até encontrá-la? 9Quando a encontra, reúne as amigas e vizinhas e diz: ‘Alegrai-vos comigo! Encontrei a moeda que tinha perdido!’ 10Por isso, eu vos digo, haverá alegria entre os anjos de Deus por um só pecador que se converte”."
+          }
+        ],
+        "extras": []
+      },
+      "antifonas": {
+        "entrada": "Não me abandoneis, Senhor, meu Deus, nem fiqueis longe de mim! Vinde em meu auxílio, ó Senhor, força da minha salvação! (Cf. Sl 37, 22-23)",
+        "comunhao": "Vós me ensinastes o caminho para a vida, junto a vós, Senhor, felicidade sem limites. (Cf. Sl 15, 11)"
       }
     }
   }

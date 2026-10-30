@@ -1,15 +1,5 @@
 {
-  "atualizadoEm": "2026-10-30T01:07:32.9430010Z",
-  "fonte": "https://www.a12.com",
   "santos": {
-    "2026-10-27": {
-      "nome": "São Frumêncio",
-      "imagem": "https://www.a12.com/source/files/originals/27_de_outubro_-_Sao_Frumencio-019650.jpg",
-      "resumo": "São Frumêncio destaca-se, por sua sabedoria e perseverança em sonhar com uma vida melhor para o povo da Etiópia.",
-      "fonte": "A12 · Santuário de Aparecida",
-      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=277&day=27&month=10",
-      "data": "2026-10-27"
-    },
     "2026-10-28": {
       "fonte": "A12 · Santuário de Aparecida",
       "imagem": "https://www.a12.com/source/files/originals/28_de_outubro_-_Sao_Judas_Tadeu-838128.jpg",
@@ -27,60 +17,70 @@
       "fonte": "A12 · Santuário de Aparecida"
     },
     "2026-10-30": {
-      "nome": "Beata Maria Resoluta",
-      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=280&day=30&month=10",
-      "resumo": "Maria Resoluta pediu para dizer as suas irmãs: Por Cristo eu vivi, por Cristo desejo morrer. Estes gestos de coragem e de…",
-      "imagem": "https://www.a12.com/source/files/originals/30_de_outubro_-_Beata_Maria_Resoluta-846418.jpg",
       "data": "2026-10-30",
-      "fonte": "A12 · Santuário de Aparecida"
+      "imagem": "https://www.a12.com/source/files/originals/30_de_outubro_-_Beata_Maria_Resoluta-846418.jpg",
+      "resumo": "Maria Resoluta pediu para dizer as suas irmãs: Por Cristo eu vivi, por Cristo desejo morrer. Estes gestos de coragem e de…",
+      "nome": "Beata Maria Resoluta",
+      "fonte": "A12 · Santuário de Aparecida",
+      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=280&day=30&month=10"
     },
     "2026-10-31": {
-      "nome": "Santo Afonso Rodrigues",
-      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=281&day=31&month=10",
-      "resumo": "Afonso entrou então numa profunda crise espiritual. Retirado na própria casa, rezou e meditou muito e resolveu dedicar sua vida completamente à…",
-      "imagem": "https://www.a12.com/source/files/originals/31_de_outubro_-_Santo_Afonso_Rodrigues-385680.jpg",
       "data": "2026-10-31",
-      "fonte": "A12 · Santuário de Aparecida"
+      "imagem": "https://www.a12.com/source/files/originals/31_de_outubro_-_Santo_Afonso_Rodrigues-385680.jpg",
+      "resumo": "Afonso entrou então numa profunda crise espiritual. Retirado na própria casa, rezou e meditou muito e resolveu dedicar sua vida completamente à…",
+      "nome": "Santo Afonso Rodrigues",
+      "fonte": "A12 · Santuário de Aparecida",
+      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=281&day=31&month=10"
     },
     "2026-11-01": {
-      "nome": "Todos os santos",
-      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=282&day=1&month=11",
-      "resumo": "Na festa de “todos os santos” a Igreja não pretende lembrar somente dos santos conhecidos e oficialmente canonizados, mas de todos aqueles…",
-      "imagem": "https://www.a12.com/source/files/originals/Santo_do_Dia_-_Todos_os_Santos-760330.jpg",
       "data": "2026-11-01",
-      "fonte": "A12 · Santuário de Aparecida"
+      "imagem": "https://www.a12.com/source/files/originals/Santo_do_Dia_-_Todos_os_Santos-760330.jpg",
+      "resumo": "Na festa de “todos os santos” a Igreja não pretende lembrar somente dos santos conhecidos e oficialmente canonizados, mas de todos aqueles…",
+      "nome": "Todos os santos",
+      "fonte": "A12 · Santuário de Aparecida",
+      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=282&day=1&month=11"
     },
     "2026-11-02": {
-      "nome": "Fiéis Defuntos",
-      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=283&day=2&month=11",
-      "resumo": "A recordação dos fiéis defuntos nos projeta para o futuro. Nossa fé fala-nos de Esperança, a grande palavra chave nesse dia.",
-      "imagem": "https://www.a12.com/source/files/originals/2_-_Fieis_Defuntos-350679.jpg",
       "data": "2026-11-02",
-      "fonte": "A12 · Santuário de Aparecida"
+      "imagem": "https://www.a12.com/source/files/originals/2_-_Fieis_Defuntos-350679.jpg",
+      "resumo": "A recordação dos fiéis defuntos nos projeta para o futuro. Nossa fé fala-nos de Esperança, a grande palavra chave nesse dia.",
+      "nome": "Fiéis Defuntos",
+      "fonte": "A12 · Santuário de Aparecida",
+      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=283&day=2&month=11"
     },
     "2026-11-03": {
-      "nome": "São Martinho de Lima (ou de Porres)",
-      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=653&day=3&month=11",
-      "resumo": "Homem cheio do Espírito Santo e de obras no Amor, conseguia servir a Cristo no próximo.",
-      "imagem": "https://www.a12.com/source/files/originals/3_-_Sao_Martinho_de_Lima_ou_de_Porres_A12-559551.jpg",
       "data": "2026-11-03",
-      "fonte": "A12 · Santuário de Aparecida"
+      "imagem": "https://www.a12.com/source/files/originals/3_-_Sao_Martinho_de_Lima_ou_de_Porres_A12-559551.jpg",
+      "resumo": "Homem cheio do Espírito Santo e de obras no Amor, conseguia servir a Cristo no próximo.",
+      "nome": "São Martinho de Lima (ou de Porres)",
+      "fonte": "A12 · Santuário de Aparecida",
+      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=653&day=3&month=11"
     },
     "2026-11-04": {
-      "nome": "São Carlos Borromeu",
-      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=654&day=4&month=11",
-      "resumo": "O Santo utilizou a inteligência notável, a cultura e o acesso às altas elites de Roma para velar pela moralidade e formação…",
-      "imagem": "https://www.a12.com/source/files/originals/4_-_Sao_Carlos_Borromeu_A12-271507.jpg",
       "data": "2026-11-04",
-      "fonte": "A12 · Santuário de Aparecida"
+      "imagem": "https://www.a12.com/source/files/originals/4_-_Sao_Carlos_Borromeu_A12-271507.jpg",
+      "resumo": "O Santo utilizou a inteligência notável, a cultura e o acesso às altas elites de Roma para velar pela moralidade e formação…",
+      "nome": "São Carlos Borromeu",
+      "fonte": "A12 · Santuário de Aparecida",
+      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=654&day=4&month=11"
     },
     "2026-11-05": {
-      "nome": "São Zacarias e Santa Isabel",
-      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=655&day=5&month=11",
-      "resumo": "O Martirológio Romano faz hoje memória da veneração aos pais de São João Batista.",
-      "imagem": "https://www.a12.com/source/files/originals/5_-_Sao_Zacarias_e_Santa_Isabel__A12-521724.jpg",
       "data": "2026-11-05",
-      "fonte": "A12 · Santuário de Aparecida"
+      "imagem": "https://www.a12.com/source/files/originals/5_-_Sao_Zacarias_e_Santa_Isabel__A12-521724.jpg",
+      "resumo": "O Martirológio Romano faz hoje memória da veneração aos pais de São João Batista.",
+      "nome": "São Zacarias e Santa Isabel",
+      "fonte": "A12 · Santuário de Aparecida",
+      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=655&day=5&month=11"
+    },
+    "2026-11-06": {
+      "data": "2026-11-06",
+      "imagem": "https://www.a12.com/source/files/originals/6_-_Sao_Leonardo_de_Noblac_A12-787045.jpg",
+      "resumo": "São Leonardo de Noblac é dos santos mais populares na Europa central. De nobre ascendência abraçou a vida solitária e distinguiu-se pela…",
+      "nome": "São Leonardo de Noblac",
+      "fonte": "A12 · Santuário de Aparecida",
+      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=287&day=6&month=11"
     }
-  }
+  },
+  "atualizadoEm": "2026-10-30T16:00:02.1941314Z",
+  "fonte": "https://www.a12.com"
 }
