@@ -1,46 +1,6 @@
 {
-  "atualizadoEm": "2026-10-31T00:51:48.181Z",
+  "atualizadoEm": "2026-10-31T15:23:10.279Z",
   "liturgias": {
-    "2026-10-30": {
-      "data": "30/10/2026",
-      "liturgia": "6ª feira da 30ª Semana do Tempo Comum",
-      "cor": "Verde",
-      "oracoes": {
-        "coleta": "Deus eterno e todo-poderoso, aumentai em nós a fé, a esperança e a caridade e, para merecermos alcançar o que prometeis, fazei-nos amar o que ordenais. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
-        "oferendas": "Olhai benigno, nós vos pedimos, Senhor, os dons que vos apresentamos, e nossa celebração seja, antes de tudo, para a vossa glória. Por Cristo, nosso Senhor.",
-        "comunhao": "Os vossos sacramentos, Senhor, realizem o que significam, a fim de que um dia possamos entrar em plena posse do mistério que agora em ritos celebramos. Por Cristo, nosso Senhor.",
-        "extras": []
-      },
-      "leituras": {
-        "primeiraLeitura": [
-          {
-            "referencia": "Fl 1,1-11",
-            "titulo": "Início da carta de São Paulo aos Filipenses",
-            "texto": "1Paulo e Timóteo, servos de Cristo Jesus, a todos os santos em Cristo Jesus que estão em Filipos, com os seus bispos e diáconos: 2graça e paz a vós da parte de Deus nosso Pai e do Senhor Jesus Cristo. 3Dou graças ao meu Deus todas as vezes que me lembro de vós. 4Sempre, em todas as minhas orações, rezo por vós, com alegria, 5por causa da vossa comunhão conosco na divulgação do Evangelho, desde o primeiro dia até agora. 6Tenho a certeza de que aquele que começou em vós uma boa obra há de levá-la à perfeição até o dia de Cristo Jesus. 7É justo que eu pense assim a respeito de vós todos, pois a todos trago no coração, porque, tanto na minha prisão como na defesa e confirmação do Evangelho, participais na graça que me foi dada. 8Deus é testemunha de que tenho saudade de todos vós, com a ternura de Cristo Jesus. 9E isto eu peço a Deus: que o vosso amor cresça sempre mais, em todo o conhecimento e experiência, 10para discernirdes o que é o melhor. E assim ficareis puros e sem defeito para o dia de Cristo, 11cheios do fruto da justiça que nos vem por Jesus Cristo, para a glória e o louvor de Deus."
-          }
-        ],
-        "salmo": [
-          {
-            "referencia": "Sl 110(111)",
-            "refrao": "Grandiosas são as obras do Senhor!",
-            "texto": "– Eu agradeço a Deus de todo o coração junto com todos os seus justos reunidos! Que grandiosas são as obras do Senhor, elas merecem todo o amor e admiração!\n– Que beleza e esplendor são os seus feitos! Sua justiça permanece eternamente! O Senhor bom e clemente nos deixou a lembrança de suas grandes maravilhas.\n– Ele dá o alimento aos que o temem e jamais esquecerá sua Aliança. Ao seu povo manifesta seu poder, dando a ele a herança das nações."
-          }
-        ],
-        "segundaLeitura": [],
-        "evangelho": [
-          {
-            "referencia": "Lc 14,1-6",
-            "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
-            "texto": "1Aconteceu que, num dia de sábado, Jesus foi comer na casa de um dos chefes dos fariseus. E eles o observavam. 2Diante de Jesus, havia um hidrópico. 3Tomando a palavra, Jesus falou aos mestres da Lei e aos fariseus: “A Lei permite curar em dia de sábado ou não?” 4Mas eles ficaram em silêncio. Então Jesus tomou o homem pela mão, curou-o e despediu-o. 5Depois lhes disse: “Se algum de vós tem um filho ou um boi que caiu num poço, não o tira logo, mesmo em dia de sábado?” 6E eles não foram capazes de responder a isso."
-          }
-        ],
-        "extras": []
-      },
-      "antifonas": {
-        "entrada": "Exulte o coração que busca a Deus! Procurai o Senhor Deus e seu poder, buscai constantemente a sua face. (Cf. SI 104, 3-4)",
-        "comunhao": "Nós nos alegraremos na vossa salvação e no nome do nosso Deus exultaremos. (Cf. Sl 19, 6)"
-      }
-    },
     "2026-10-31": {
       "data": "31/10/2026",
       "liturgia": "Sábado da 30ª Semana do Tempo Comum",
@@ -284,6 +244,46 @@
             "referencia": "Lc 15,1-10",
             "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
             "texto": "Naquele tempo, 1os publicanos e pecadores aproximavam-se de Jesus para o escutar. 2Os fariseus, porém, e os mestres da Lei criticavam Jesus: “Este homem acolhe os pecadores e faz refeição com eles”. 3Então, Jesus contou-lhes esta parábola: 4“Se um de vós tem cem ovelhas e perde uma, não deixa as noventa e nove no deserto e vai atrás daquela que se perdeu, até encontrá-la? 5Quando a encontra, coloca-a nos ombros com alegria 6e, chegando a casa, reúne os amigos e vizinhos e diz: ‘Alegrai-vos comigo! Encontrei a minha ovelha que estava perdida!’ 7Eu vos digo, assim haverá no céu mais alegria por um só pecador que se converte do que por noventa e nove justos que não precisam de conversão. 8E se uma mulher tem dez moedas de prata e perde uma, não acende uma lâmpada, varre a casa e a procura cuidadosamente, até encontrá-la? 9Quando a encontra, reúne as amigas e vizinhas e diz: ‘Alegrai-vos comigo! Encontrei a moeda que tinha perdido!’ 10Por isso, eu vos digo, haverá alegria entre os anjos de Deus por um só pecador que se converte”."
+          }
+        ],
+        "extras": []
+      },
+      "antifonas": {
+        "entrada": "Não me abandoneis, Senhor, meu Deus, nem fiqueis longe de mim! Vinde em meu auxílio, ó Senhor, força da minha salvação! (Cf. Sl 37, 22-23)",
+        "comunhao": "Vós me ensinastes o caminho para a vida, junto a vós, Senhor, felicidade sem limites. (Cf. Sl 15, 11)"
+      }
+    },
+    "2026-11-06": {
+      "data": "06/11/2026",
+      "liturgia": "6ª feira da 31ª Semana do Tempo Comum",
+      "cor": "Verde",
+      "oracoes": {
+        "coleta": "Ó Deus de poder e misericórdia, que concedeis a vossos filhos e filhas o dom de vos servir como devem, fazei que corramos livremente ao encontro das vossas promessas. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+        "oferendas": "Seja este sacrifício para vós, Senhor, uma oferenda pura e, para nós, fonte generosa de vossa santa misericórdia. Por Cristo, nosso Senhor.",
+        "comunhao": "Cresça em nós, Senhor, a ação da vossa graça, para que, refeitos pelos vossos sacramentos, sejamos preparados para alcançar o que prometem. Por Cristo, nosso Senhor.",
+        "extras": []
+      },
+      "leituras": {
+        "primeiraLeitura": [
+          {
+            "referencia": "Fl 3,17-4,1",
+            "titulo": "Leitura da carta de São Paulo aos Filipenses",
+            "texto": "17Sede meus imitadores, irmãos, e observai os que vivem de acordo com o exemplo que nós damos. 18Já vos disse muitas vezes e agora o repito, chorando: há muitos por aí que se comportam como inimigos da cruz de Cristo. 19O fim deles é a perdição, o deus deles é o estômago, a glória deles está no que é vergonhoso e só pensam nas coisas terrenas. 20Nós, porém, somos cidadãos do céu. De lá aguardamos o nosso salvador, o Senhor, Jesus Cristo. 21Ele transformará o nosso corpo humilhado e o tornará semelhante ao seu corpo glorioso, com o poder que tem de sujeitar a si todas as coisas. 4,1Assim, meus irmãos, a quem quero bem e dos quais sinto saudade, minha alegria, minha coroa, meus amigos, continuai firmes no Senhor."
+          }
+        ],
+        "salmo": [
+          {
+            "referencia": "Sl 121(122)",
+            "refrao": "Que alegria quando ouvi que me disseram: Vamos à casa do Senhor!",
+            "texto": "– Que alegria quando ouvi que me disseram: “Vamos à casa do Senhor!” E agora nossos pés já se detêm, Jerusalém, em tuas portas.\n– Jerusalém, cidade bem edificada num conjunto harmonioso; para lá sobem as tribos de Israel, as tribos do Senhor.\n– Para louvar, segundo a lei de Israel, o nome do Senhor. A sede da justiça lá está e o trono de Davi."
+          }
+        ],
+        "segundaLeitura": [],
+        "evangelho": [
+          {
+            "referencia": "Lc 16,1-8",
+            "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+            "texto": "Naquele tempo, 1Jesus disse aos discípulos: “Um homem rico tinha um administrador que foi acusado de esbanjar os seus bens. 2Ele o chamou e lhe disse: ‘Que é isto que ouço a teu respeito? Presta contas da tua administração, pois já não podes mais administrar meus bens’. 3O administrador então começou a refletir: ‘O senhor vai me tirar a administração. Que vou fazer? Para cavar, não tenho forças; de mendigar, tenho vergonha. 4Ah! Já sei o que fazer, para que alguém me receba em sua casa quando eu for afastado da administração’. 5Então ele chamou cada um dos que estavam devendo ao seu patrão. E perguntou ao primeiro: ‘Quanto deves ao meu patrão?’ 6Ele respondeu: ‘Cem barris de óleo!’ O administrador disse: ‘Pega a tua conta, senta-te depressa e escreve cinquenta!’ 7Depois ele perguntou a outro: ‘E tu, quanto deves?’ Ele respondeu: ‘Cem medidas de trigo’. O administrador disse: ‘Pega tua conta e escreve oitenta’. 8E o senhor elogiou o administrador desonesto, porque ele agiu com esperteza. Com efeito, os filhos deste mundo são mais espertos em seus negócios do que os filhos da luz”."
           }
         ],
         "extras": []
