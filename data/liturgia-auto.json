@@ -1,52 +1,6 @@
 {
-  "atualizadoEm": "2026-11-02T00:50:08.929Z",
+  "atualizadoEm": "2026-11-02T19:33:44.393Z",
   "liturgias": {
-    "2026-11-01": {
-      "data": "01/11/2026",
-      "liturgia": "Todos os Santos, Solenidade",
-      "cor": "Branco",
-      "oracoes": {
-        "coleta": "Deus eterno e todo-poderoso, que nos permitis celebrar os méritos de todos os vossos santos numa única festa, concedei-nos, por intercessores tão numerosos, a desejada abundância da vossa misericórdia. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
-        "oferendas": "Senhor, possam agradar-vos as oferendas que apresentamos em honra de todos os santos.Certos de que eles já alcançaram a imortalidade, experimentemos sua solicitude pela nossa salvação. Por Cristo, nosso Senhor.",
-        "comunhao": "Ó Deus, nós vos adoramos e admiramos em todos os santos, porque só vós sois o Santo, e imploramos a vossa graça para que, santificados na plenitude do vosso amor, passemos desta mesa de peregrinos ao banquete da pátria celeste. Por Cristo, nosso Senhor.",
-        "extras": []
-      },
-      "leituras": {
-        "primeiraLeitura": [
-          {
-            "referencia": "Ap 7, 2-4. 9-14",
-            "titulo": "Leitura do Livro do Apocalipse de São João",
-            "texto": "Eu, João, 2vi um outro anjo, que subia do lado onde nasce o sol. Ele trazia a marca do Deus vivo e gritava, em alta voz, aos quatro anjos que tinham recebido o poder de danificar a terra e o mar, dizendo-lhes: 3’Não façais mal à terra, nem ao mar, nem às árvores, até que tenhamos marcado na fronte os servos do nosso Deus’. 4Ouvi então o número dos que tinham sido marcados: eram cento e quarenta e quatro mil, de todas as tribos dos filhos de Israel. 9Depois disso, vi uma multidão imensa de gente de todas as nações, tribos, povos e línguas, e que ninguém podia contar. Estavam de pé diante do trono e do Cordeiro; trajavam vestes brancas e traziam palmas na mão. 10Todos proclamavam com voz forte: “A salvação pertence ao nosso Deus, que está sentado no trono, e ao Cordeiro”. 11Todos os anjos estavam de pé, em volta do trono e dos Anciãos, e dos quatro Seres vivos, e prostravam-se, com o rosto por terra, diante do trono. E adoravam a Deus, dizendo: 12“Amém. O louvor, a glória e a sabedoria, a ação de graças, a honra, o poder e a força pertencem ao nosso Deus para sempre. Amém”. 13E um dos Anciãos falou comigo e perguntou: “Quem são esses vestidos com roupas brancas? De onde vieram?” 14Eu respondi: “Tu é que sabes, meu senhor”. E então ele me disse: “Esses são os que vieram da grande tribulação. Lavaram e alvejaram as suas roupas no sangue do Cordeiro”."
-          }
-        ],
-        "salmo": [
-          {
-            "referencia": "Sl 23(24)",
-            "refrao": "É assim a geração dos que procuram o Senhor!",
-            "texto": "— Ao Senhor pertence a terra e o que ela encerra, o mundo inteiro com os seres que o povoam; porque ele a tornou firme sobre os mares, e sobre as águas a mantém inabalável. \n— “Quem subirá até o monte do Senhor, quem ficará em sua santa habitação?” “Quem tem mãos puras e inocente coração, quem não dirige sua mente para o crime. \n— Sobre este desce a bênção do Senhor e a recompensa de seu Deus e Salvador”. “É assim a geração dos que o procuram, e do Deus de Israel buscam a face”."
-          }
-        ],
-        "segundaLeitura": [
-          {
-            "referencia": "1Jo 3, 1-3",
-            "titulo": "Leitura da Primeira Carta de São João",
-            "texto": "Caríssimos: 1Vede que grande presente de amor o Pai nos deu: de sermos chamados filhos de Deus! E nós o somos! Se o mundo não nos conhece, é porque não conheceu o Pai. 2Caríssimos, desde já somos filhos de Deus, mas nem sequer se manifestou o que seremos! Sabemos que, quando Jesus se manifestar, seremos semelhantes a ele, porque o veremos tal como ele é. 3Todo o que espera nele, purifica-se a si mesmo, como também ele é puro."
-          }
-        ],
-        "evangelho": [
-          {
-            "referencia": "Mt 5, 1-12a",
-            "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Mateus",
-            "texto": "Naquele tempo, 1vendo Jesus as multidões, subiu ao monte e sentou-se. Os discípulos aproximaram-se, 2e Jesus começou a ensiná-los:\n3’Bem-aventurados os pobres em espírito, porque deles é o Reino dos Céus.\n4Bem-aventurados os aflitos, porque serão consolados.\n5Bem-aventurados os mansos, porque possuirão a terra.\n6Bem-aventurados os que têm fome e sede de justiça, porque serão saciados.\n7Bem-aventurados os misericordiosos, porque alcançarão misericórdia.\n8Bem-aventurados os puros de coração, porque verão a Deus.\n9Bem-aventurados os que promovem a paz, porque serão chamados filhos de Deus.\n10Bem-aventurados os que são perseguidos por causa da justiça, porque deles é o Reino dos Céus.\n11Bem-aventurados sois vós, quando vos injuriarem e perseguirem, e, mentindo, disserem todo tipo de mal contra vós, por causa de mim. 12aAlegrai-vos e exultai, porque será grande a vossa recompensa nos céus’."
-          }
-        ],
-        "extras": []
-      },
-      "antifonas": {
-        "entrada": "Alegremo-nos todos no Senhor, celebrando este dia festivo em honra de todos os santos. Nesta solenidade os Anjos se alegram e conosco dão glória ao Filho de Deus.",
-        "comunhao": "Bem-aventurados os puros no coração, porque verão a Deus. Bem-aventurados os que promovem a paz, porque serão chamados filhos de Deus.Bem-aventurados os que são perseguidos por causa da justiça, porque deles é o reino dos céus. (Cf. Mt 5, 8-10)"
-      }
-    },
     "2026-11-02": {
       "data": "02/11/2026",
       "liturgia": "Comemoração de Todos os Fiéis Defuntos",
@@ -291,6 +245,52 @@
       "antifonas": {
         "entrada": "Não me abandoneis, Senhor, meu Deus, nem fiqueis longe de mim! Vinde em meu auxílio, ó Senhor, força da minha salvação! (Cf. Sl 37, 22-23)",
         "comunhao": "Vós me ensinastes o caminho para a vida, junto a vós, Senhor, felicidade sem limites. (Cf. Sl 15, 11)"
+      }
+    },
+    "2026-11-08": {
+      "data": "08/11/2026",
+      "liturgia": "32º Domingo do Tempo Comum",
+      "cor": "Verde",
+      "oracoes": {
+        "coleta": "Deus de poder e misericórdia, dignai-vos afastar de nós toda adversidade, para que, sem impedimento do corpo e do espírito, nos dediquemos com plena disposição ao vosso serviço. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+        "oferendas": "Senhor, olhai com benevolência para o sacrifício que apresentamos, a fim de que participemos com amor do mistério da paixão do vosso Filho. Que vive e reina pelos séculos dos séculos.",
+        "comunhao": "Fortalecidos por este alimento sagrado nós vos damos graças, Senhor, e imploramos vossa clemência para que, pelo dom do Espírito Santo, perdure a graça da santidade naqueles que receberam a força do alto. Por Cristo, nosso Senhor.",
+        "extras": []
+      },
+      "leituras": {
+        "primeiraLeitura": [
+          {
+            "referencia": "Sb 6,12-16",
+            "titulo": "Leitura do livro da Sabedoria",
+            "texto": "12A sabedoria é resplandecente e sempre viçosa. Ela é facilmente contemplada por aqueles que a amam, e é encontrada por aqueles que a procuram. 13Ela até se antecipa, dando-se a conhecer aos que a desejam. 14Quem por ela madruga não se cansará, pois a encontrará sentada à sua porta. 15Meditar sobre ela é a perfeição da prudência; e quem ficar acordado por causa dela em breve há de viver despreocupado. 16Pois ela mesma sai à procura dos que a merecem, cheia de bondade, aparece-lhes nas estradas e vai ao seu encontro em todos os seus projetos."
+          }
+        ],
+        "salmo": [
+          {
+            "referencia": "Sl 62(63)",
+            "refrao": "A minha alma tem sede de vós e vos deseja, ó Senhor.",
+            "texto": "– Sois vós, ó Senhor, o meu Deus! Desde a aurora ansioso vos busco. A minha alma tem sede de vós, minha carne também vos deseja, como terra sedenta e sem água!\n– Venho, assim, contemplar-vos no templo, para ver vossa glória e poder. Vosso amor vale mais do que a vida: e por isso meus lábios vos louvam.\n– Quero, pois, vos louvar pela vida e elevar para vós minhas mãos! A minha alma será saciada, como em grande banquete de festa; cantará a alegria em meus lábios.\n– Penso em vós no meu leito, de noite, nas vigílias suspiro por vós! Para mim fostes sempre um socorro; de vossas asas à sombra eu exulto!"
+          }
+        ],
+        "segundaLeitura": [
+          {
+            "referencia": "1Ts 4,13-18 ou 13-14",
+            "titulo": "",
+            "texto": "[A forma breve está entre colchetes.]\nLeitura da primeira carta de São Paulo aos Tessalonicenses – [13Irmãos, não queremos deixar-vos na incerteza a respeito dos mortos, para que não fiqueis tristes como os outros, que não têm esperança. 14Se Jesus morreu e ressuscitou – e esta é nossa fé -, de modo semelhante Deus trará de volta, com Cristo, os que através dele entraram no sono da morte.] 15Isto vos declaramos, segundo a palavra do Senhor: nós que formos deixados com vida para a vinda do Senhor não levaremos vantagem em relação aos que morreram. 16Pois o Senhor mesmo, quando for dada a ordem, à voz do arcanjo e ao som da trombeta, descerá do céu, e os que morreram em Cristo ressuscitarão primeiro. 17Em seguida, nós que formos deixados com vida seremos arrebatados com eles nas nuvens, para o encontro com o Senhor, nos ares. E assim estaremos sempre com o Senhor. 18Exortai-vos, pois, uns aos outros com essas palavras."
+          }
+        ],
+        "evangelho": [
+          {
+            "referencia": "Mt 25,1-13",
+            "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+            "texto": "Naquele tempo, disse Jesus a seus discípulos esta parábola: 1“O Reino dos céus é como a história das dez jovens que pegaram suas lâmpadas de óleo e saíram ao encontro do noivo. 2Cinco delas eram imprevidentes, e as outras cinco eram previdentes. 3As imprevidentes pegaram as suas lâmpadas, mas não levaram óleo consigo. 4As previdentes, porém, levaram vasilhas com óleo junto com as lâmpadas. 5O noivo estava demorando, e todas elas acabaram cochilando e dormindo. 6No meio da noite, ouviu-se um grito: ‘O noivo está chegando. Ide ao seu encontro!’ 7Então as dez jovens se levantaram e prepararam as lâmpadas. 8As imprevidentes disseram às previdentes: ‘Dai-nos um pouco de óleo, porque nossas lâmpadas estão se apagando’. 9As previdentes responderam: ‘De modo nenhum, porque o óleo pode ser insuficiente para nós e para vós. É melhor irdes comprar aos vendedores’. 10Enquanto elas foram comprar óleo, o noivo chegou, e as que estavam preparadas entraram com ele para a festa de casamento. E a porta se fechou. 11Por fim, chegaram também as outras jovens e disseram: ‘Senhor! Senhor! Abre-nos a porta!’ 12Ele, porém, respondeu: ‘Em verdade eu vos digo, não vos conheço!’ 13Portanto, ficai vigiando, pois não sabeis qual será o dia nem a hora”. -Palavra da salvação."
+          }
+        ],
+        "extras": []
+      },
+      "antifonas": {
+        "entrada": "Chegue à vossa presença, Senhor, a minha oração; inclinai vosso ouvido à minha prece. (Cf. Sl 87, 3)",
+        "comunhao": "O Senhor é o pastor que me conduz; não me falta coisa alguma. Pelos prados e campinas verdejantes ele me leva a descansar. Para as águas repousantes me encaminha. (Cf. Sl 22, 1-2)"
       }
     }
   }
