@@ -1,14 +1,6 @@
 {
-  "fonte": "https://www.a12.com",
+  "atualizadoEm": "2026-11-03T17:08:38.6556272Z",
   "santos": {
-    "2026-10-31": {
-      "resumo": "Afonso entrou então numa profunda crise espiritual. Retirado na própria casa, rezou e meditou muito e resolveu dedicar sua vida completamente à…",
-      "data": "2026-10-31",
-      "imagem": "https://www.a12.com/source/files/originals/31_de_outubro_-_Santo_Afonso_Rodrigues-385680.jpg",
-      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=281&day=31&month=10",
-      "nome": "Santo Afonso Rodrigues",
-      "fonte": "A12 · Santuário de Aparecida"
-    },
     "2026-11-01": {
       "fonte": "A12 · Santuário de Aparecida",
       "resumo": "Na festa de “todos os santos” a Igreja não pretende lembrar somente dos santos conhecidos e oficialmente canonizados, mas de todos aqueles…",
@@ -26,61 +18,69 @@
       "nome": "Fiéis Defuntos"
     },
     "2026-11-03": {
-      "fonte": "A12 · Santuário de Aparecida",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=653&day=3&month=11",
-      "imagem": "https://www.a12.com/source/files/originals/3_-_Sao_Martinho_de_Lima_ou_de_Porres_A12-559551.jpg",
       "data": "2026-11-03",
       "resumo": "Homem cheio do Espírito Santo e de obras no Amor, conseguia servir a Cristo no próximo.",
-      "nome": "São Martinho de Lima (ou de Porres)"
+      "fonte": "A12 · Santuário de Aparecida",
+      "nome": "São Martinho de Lima (ou de Porres)",
+      "imagem": "https://www.a12.com/source/files/originals/3_-_Sao_Martinho_de_Lima_ou_de_Porres_A12-559551.jpg"
     },
     "2026-11-04": {
-      "fonte": "A12 · Santuário de Aparecida",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=654&day=4&month=11",
-      "imagem": "https://www.a12.com/source/files/originals/4_-_Sao_Carlos_Borromeu_A12-271507.jpg",
       "data": "2026-11-04",
       "resumo": "O Santo utilizou a inteligência notável, a cultura e o acesso às altas elites de Roma para velar pela moralidade e formação…",
-      "nome": "São Carlos Borromeu"
+      "fonte": "A12 · Santuário de Aparecida",
+      "nome": "São Carlos Borromeu",
+      "imagem": "https://www.a12.com/source/files/originals/4_-_Sao_Carlos_Borromeu_A12-271507.jpg"
     },
     "2026-11-05": {
-      "fonte": "A12 · Santuário de Aparecida",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=655&day=5&month=11",
-      "imagem": "https://www.a12.com/source/files/originals/5_-_Sao_Zacarias_e_Santa_Isabel__A12-521724.jpg",
       "data": "2026-11-05",
       "resumo": "O Martirológio Romano faz hoje memória da veneração aos pais de São João Batista.",
-      "nome": "São Zacarias e Santa Isabel"
+      "fonte": "A12 · Santuário de Aparecida",
+      "nome": "São Zacarias e Santa Isabel",
+      "imagem": "https://www.a12.com/source/files/originals/5_-_Sao_Zacarias_e_Santa_Isabel__A12-521724.jpg"
     },
     "2026-11-06": {
-      "fonte": "A12 · Santuário de Aparecida",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=287&day=6&month=11",
-      "imagem": "https://www.a12.com/source/files/originals/6_-_Sao_Leonardo_de_Noblac_A12-787045.jpg",
       "data": "2026-11-06",
       "resumo": "São Leonardo de Noblac é dos santos mais populares na Europa central. De nobre ascendência abraçou a vida solitária e distinguiu-se pela…",
-      "nome": "São Leonardo de Noblac"
+      "fonte": "A12 · Santuário de Aparecida",
+      "nome": "São Leonardo de Noblac",
+      "imagem": "https://www.a12.com/source/files/originals/6_-_Sao_Leonardo_de_Noblac_A12-787045.jpg"
     },
     "2026-11-07": {
-      "fonte": "A12 · Santuário de Aparecida",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=288&day=7&month=11",
-      "imagem": "https://www.a12.com/source/files/originals/7_-_Sao_Vilibrardo__A12-045770.jpg",
       "data": "2026-11-07",
       "resumo": "Hoje celebramos a festa de São Wilibrordo, sua coragem e fé o levou enfrentar os desafios da evangelização nas regiões marcadas pelo…",
-      "nome": "São Vilibrardo"
+      "fonte": "A12 · Santuário de Aparecida",
+      "nome": "São Vilibrardo",
+      "imagem": "https://www.a12.com/source/files/originals/7_-_Sao_Vilibrardo__A12-045770.jpg"
     },
     "2026-11-08": {
-      "fonte": "A12 · Santuário de Aparecida",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=289&day=8&month=11",
-      "imagem": "https://www.a12.com/source/files/originals/8_-_Sao_Godofredo__A12-340603.jpg",
       "data": "2026-11-08",
       "resumo": "Godofredo foi um homem do povo. Sua simplicidade cativava homens e mulheres que o procuravam para conselhos espirituais.",
-      "nome": "São Godofredo"
+      "fonte": "A12 · Santuário de Aparecida",
+      "nome": "São Godofredo",
+      "imagem": "https://www.a12.com/source/files/originals/8_-_Sao_Godofredo__A12-340603.jpg"
     },
     "2026-11-09": {
-      "fonte": "A12 · Santuário de Aparecida",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=290&day=9&month=11",
-      "imagem": "https://www.a12.com/source/files/originals/9_-_Santo_Orestes__A12-529989.jpg",
       "data": "2026-11-09",
       "resumo": "Orestes é um nome de origem rude, e significa “o homem da montanha”. No cristianismo tivemos um santo com este nome, que…",
-      "nome": "Santo Orestes"
+      "fonte": "A12 · Santuário de Aparecida",
+      "nome": "Santo Orestes",
+      "imagem": "https://www.a12.com/source/files/originals/9_-_Santo_Orestes__A12-529989.jpg"
+    },
+    "2026-11-10": {
+      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=291&day=10&month=11",
+      "data": "2026-11-10",
+      "resumo": "Leão I foi chamado de Magno pelo fato de ter sido um dos maiores pontífices da história do cristianismo.",
+      "fonte": "A12 · Santuário de Aparecida",
+      "nome": "São Leão Magno",
+      "imagem": "https://www.a12.com/source/files/originals/10_-_Sao_Leao_Magno_A12-387628.jpg"
     }
   },
-  "atualizadoEm": "2026-11-03T02:57:00.1849472Z"
+  "fonte": "https://www.a12.com"
 }
