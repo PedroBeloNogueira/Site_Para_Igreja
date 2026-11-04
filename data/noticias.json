@@ -1,8 +1,15 @@
 {
   "fonte": "Vatican News",
   "feed": "https://www.vaticannews.va/pt.rss.xml",
-  "atualizadoEm": "2026-11-03T17:08:40.5473342+00:00",
+  "atualizadoEm": "2026-11-04T01:27:56.2345375+00:00",
   "noticias": [
+    {
+      "titulo": "Migrantes: nova tragédia no Atlântico",
+      "resumo": "Pelo menos sete pessoas morreram a bordo de um bote inflável no qual viajavam 139 migrantes, resgatado a cerca de 150 quilômetros a nordeste da ilha de Lanzarote, na Espanha, pela lancha Urania do serviço de resgate marítimo local. Os 132 sobreviventes,…",
+      "url": "https://www.vaticannews.va/pt/mundo/news/2026-11/migrantes-atlantico-ilhas-canarias-tragedia-mortos-europa-africa.html",
+      "imagem": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/ansa/2026/11/03/15/1793716237312.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "publicadaEm": "2026-11-03T17:50:00.0000000+00:00"
+    },
     {
       "titulo": "Jordânia, Twal: cidadania compartilhada é antídoto contra o terrorismo e as divisões",
       "resumo": "Após o atentado à Igreja de São Jorge, em Hamoud, o vigário episcopal lança uma mensagem de unidade nacional e esperança: “A violência em nome da religião trai a fé. A dor por esse ataque não foi nem cristã nem muçulmana: foi jordaniana”.",
@@ -16,13 +23,6 @@
       "url": "https://www.vaticannews.va/pt/papa/news/2026-11/uruguai-igreja-catolica-dados-estatisticos.html",
       "imagem": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/afp/2026/11/03/15/1793716528472.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "publicadaEm": "2026-11-03T16:11:00.0000000+00:00"
-    },
-    {
-      "titulo": "Uruguai e o ouro azul do Guarani: irmã Rita destaca que visita do Papa pode impulsionar o cuidado com a Criação",
-      "resumo": "No país onde, em 60 mil quilômetros quadrados de seu subsolo, está localizada parte da maior reserva subterrânea de água doce do mundo, as Franciscanas do Verbo Encarnado participam da Rede Eclesial do Grande Chaco e Aquífero Guarani (REGCHAG), lançada em…",
-      "url": "https://www.vaticannews.va/pt/papa/news/2026-11/uruguai-desigualdades-rio-de-la-plata-religiosas-papa.html",
-      "imagem": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/novembre/02/05.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-      "publicadaEm": "2026-11-03T15:56:00.0000000+00:00"
     }
   ]
 }
