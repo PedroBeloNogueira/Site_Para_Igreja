@@ -1,13 +1,7 @@
 {
+  "atualizadoEm": "2026-11-05T17:28:13.9991163Z",
+  "fonte": "https://www.a12.com",
   "santos": {
-    "2026-11-02": {
-      "fonte": "A12 · Santuário de Aparecida",
-      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=283&day=2&month=11",
-      "imagem": "https://www.a12.com/source/files/originals/2_-_Fieis_Defuntos-350679.jpg",
-      "data": "2026-11-02",
-      "resumo": "A recordação dos fiéis defuntos nos projeta para o futuro. Nossa fé fala-nos de Esperança, a grande palavra chave nesse dia.",
-      "nome": "Fiéis Defuntos"
-    },
     "2026-11-03": {
       "fonte": "A12 · Santuário de Aparecida",
       "resumo": "Homem cheio do Espírito Santo e de obras no Amor, conseguia servir a Cristo no próximo.",
@@ -25,62 +19,68 @@
       "imagem": "https://www.a12.com/source/files/originals/4_-_Sao_Carlos_Borromeu_A12-271507.jpg"
     },
     "2026-11-05": {
-      "resumo": "O Martirológio Romano faz hoje memória da veneração aos pais de São João Batista.",
+      "imagem": "https://www.a12.com/source/files/originals/5_-_Sao_Zacarias_e_Santa_Isabel__A12-521724.jpg",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=655&day=5&month=11",
+      "resumo": "O Martirológio Romano faz hoje memória da veneração aos pais de São João Batista.",
       "fonte": "A12 · Santuário de Aparecida",
-      "data": "2026-11-05",
       "nome": "São Zacarias e Santa Isabel",
-      "imagem": "https://www.a12.com/source/files/originals/5_-_Sao_Zacarias_e_Santa_Isabel__A12-521724.jpg"
+      "data": "2026-11-05"
     },
     "2026-11-06": {
-      "resumo": "São Leonardo de Noblac é dos santos mais populares na Europa central. De nobre ascendência abraçou a vida solitária e distinguiu-se pela…",
+      "imagem": "https://www.a12.com/source/files/originals/6_-_Sao_Leonardo_de_Noblac_A12-787045.jpg",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=287&day=6&month=11",
+      "resumo": "São Leonardo de Noblac é dos santos mais populares na Europa central. De nobre ascendência abraçou a vida solitária e distinguiu-se pela…",
       "fonte": "A12 · Santuário de Aparecida",
-      "data": "2026-11-06",
       "nome": "São Leonardo de Noblac",
-      "imagem": "https://www.a12.com/source/files/originals/6_-_Sao_Leonardo_de_Noblac_A12-787045.jpg"
+      "data": "2026-11-06"
     },
     "2026-11-07": {
-      "resumo": "Hoje celebramos a festa de São Wilibrordo, sua coragem e fé o levou enfrentar os desafios da evangelização nas regiões marcadas pelo…",
+      "imagem": "https://www.a12.com/source/files/originals/7_-_Sao_Vilibrardo__A12-045770.jpg",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=288&day=7&month=11",
+      "resumo": "Hoje celebramos a festa de São Wilibrordo, sua coragem e fé o levou enfrentar os desafios da evangelização nas regiões marcadas pelo…",
       "fonte": "A12 · Santuário de Aparecida",
-      "data": "2026-11-07",
       "nome": "São Vilibrardo",
-      "imagem": "https://www.a12.com/source/files/originals/7_-_Sao_Vilibrardo__A12-045770.jpg"
+      "data": "2026-11-07"
     },
     "2026-11-08": {
-      "resumo": "Godofredo foi um homem do povo. Sua simplicidade cativava homens e mulheres que o procuravam para conselhos espirituais.",
+      "imagem": "https://www.a12.com/source/files/originals/8_-_Sao_Godofredo__A12-340603.jpg",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=289&day=8&month=11",
+      "resumo": "Godofredo foi um homem do povo. Sua simplicidade cativava homens e mulheres que o procuravam para conselhos espirituais.",
       "fonte": "A12 · Santuário de Aparecida",
-      "data": "2026-11-08",
       "nome": "São Godofredo",
-      "imagem": "https://www.a12.com/source/files/originals/8_-_Sao_Godofredo__A12-340603.jpg"
+      "data": "2026-11-08"
     },
     "2026-11-09": {
-      "resumo": "Orestes é um nome de origem rude, e significa “o homem da montanha”. No cristianismo tivemos um santo com este nome, que…",
+      "imagem": "https://www.a12.com/source/files/originals/9_-_Santo_Orestes__A12-529989.jpg",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=290&day=9&month=11",
+      "resumo": "Orestes é um nome de origem rude, e significa “o homem da montanha”. No cristianismo tivemos um santo com este nome, que…",
       "fonte": "A12 · Santuário de Aparecida",
-      "data": "2026-11-09",
       "nome": "Santo Orestes",
-      "imagem": "https://www.a12.com/source/files/originals/9_-_Santo_Orestes__A12-529989.jpg"
+      "data": "2026-11-09"
     },
     "2026-11-10": {
-      "resumo": "Leão I foi chamado de Magno pelo fato de ter sido um dos maiores pontífices da história do cristianismo.",
+      "imagem": "https://www.a12.com/source/files/originals/10_-_Sao_Leao_Magno_A12-387628.jpg",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=291&day=10&month=11",
+      "resumo": "Leão I foi chamado de Magno pelo fato de ter sido um dos maiores pontífices da história do cristianismo.",
       "fonte": "A12 · Santuário de Aparecida",
-      "data": "2026-11-10",
       "nome": "São Leão Magno",
-      "imagem": "https://www.a12.com/source/files/originals/10_-_Sao_Leao_Magno_A12-387628.jpg"
+      "data": "2026-11-10"
     },
     "2026-11-11": {
-      "resumo": "Martinho despertou para a fé quando ainda menino e depois, mesmo soldado da cavalaria do exército romano, jamais abandonou os ensinamentos de…",
+      "imagem": "https://www.a12.com/source/files/originals/11_-_Sao_Martinho_de_Tours_A12-982945.jpg",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=292&day=11&month=11",
+      "resumo": "Martinho despertou para a fé quando ainda menino e depois, mesmo soldado da cavalaria do exército romano, jamais abandonou os ensinamentos de…",
       "fonte": "A12 · Santuário de Aparecida",
-      "data": "2026-11-11",
       "nome": "São Martinho de Tours",
-      "imagem": "https://www.a12.com/source/files/originals/11_-_Sao_Martinho_de_Tours_A12-982945.jpg"
+      "data": "2026-11-11"
+    },
+    "2026-11-12": {
+      "imagem": "https://www.a12.com/source/files/originals/12_-_Sao_Josafa_Kuncewycz_A12-917038.jpg",
+      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=293&day=12&month=11",
+      "resumo": "Josafá defendia com coragem a autoridade do Papa, lutando para evitar o cisma entre ocidente e oriente.",
+      "fonte": "A12 · Santuário de Aparecida",
+      "nome": "São Josafá",
+      "data": "2026-11-12"
     }
-  },
-  "atualizadoEm": "2026-11-05T01:30:01.1565287Z",
-  "fonte": "https://www.a12.com"
+  }
 }
