@@ -1,28 +1,28 @@
 {
   "fonte": "Vatican News",
   "feed": "https://www.vaticannews.va/pt.rss.xml",
-  "atualizadoEm": "2026-11-05T17:28:16.7696776+00:00",
+  "atualizadoEm": "2026-11-06T01:36:41.0214897+00:00",
   "noticias": [
+    {
+      "titulo": "A chegada do Santo Padre: dom Tróccoli, momento de esperança e fé",
+      "resumo": "A expectativa toma conta da Igreja Católica no Uruguai com a iminente chegada do Santo Padre. Numa entrevista exclusiva, o presidente da Conferência Episcopal do Uruguai, Dom Milton Luis Tróccoli Cebedio, partilhou os sentimentos profundos que invadem a…",
+      "url": "https://www.vaticannews.va/pt/papa/news/2026-11/chegada-santo-padre-dom-troccoli-momento-esperanca-fe.html",
+      "imagem": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/novembre/05/mons-milton-troccoli-2.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "publicadaEm": "2026-11-05T16:47:00.0000000+00:00"
+    },
+    {
+      "titulo": "Dom Alfonso Bauer: esperamos que o Papa traga renovação para nossa fé",
+      "resumo": "A poucas horas da chegada do Papa Leão XIV ao Uruguai, a expectativa cresce em torno do ponto alto de sua agenda no país: a Missa solene que será presidida no dia 8 de novembro na cidade de Florida, coincidindo com a festividade de Nossa Senhora dos Trinta…",
+      "url": "https://www.vaticannews.va/pt/papa/news/2026-11/dom-alfonso-bauer-esperamos-papa-traga-renovacao.html",
+      "imagem": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/novembre/05/vescovo-florida-ita-00-06-07-47-immagine003.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "publicadaEm": "2026-11-05T16:27:00.0000000+00:00"
+    },
     {
       "titulo": "Doutorado em Direito Canônico através de Goiânia",
       "resumo": "O referido convênio visa beneficiar aos que tencionam fazer o doutorado em Direito Canônico e está aberto a todos os mestres oriundos das diversas instituições do nosso país.",
       "url": "https://www.vaticannews.va/pt/igreja/news/2026-11/doutorado-em-direito-canonico-atraves-de-goiania.html",
       "imagem": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/novembre/05/63.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "publicadaEm": "2026-11-05T15:20:00.0000000+00:00"
-    },
-    {
-      "titulo": "Médicos de Corpos e Almas: ajudar os jovens a exercer a profissão como dom de Deus",
-      "resumo": "O apostolado MedCAl – Médico de Corpos e Almas é um convite a jovens profissionais viverem o cuidado ao próximo como um ato missionário: \"não estou buscando só uma doença, é um encontro entre pessoas”. Dr. Clerisson, que fundou o movimento em Brasília,…",
-      "url": "https://www.vaticannews.va/pt/igreja/news/2026-11/medcal-medicos-corpos-almas-jovens.html",
-      "imagem": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/novembre/03/medcal-foto-capa.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-      "publicadaEm": "2026-11-05T15:00:00.0000000+00:00"
-    },
-    {
-      "titulo": "Seminaristas exortados à fidelidade no encerramento do ano académico e formativo",
-      "resumo": "O Seminário Filosófico Interdiocesano São Carlos Lwanga, em Nampula, norte de Moçambique, encerrou esta quarta-feira, 04, o ano académico com apelos à fidelidade à vocação, à renúncia e compromisso com a missão da Igreja. Na celebração presidida pelo P.…",
-      "url": "https://www.vaticannews.va/pt/africa/news/2026-11/igreja-nampula-seminario-vocacoes-fidelidade-maturidade-servico.html",
-      "imagem": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/novembre/05/55.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-      "publicadaEm": "2026-11-05T14:50:00.0000000+00:00"
     }
   ]
 }
