@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-06T16:49:31.475Z",
+  "atualizadoEm": "2026-11-07T00:58:01.226Z",
   "liturgias": {
     "2026-11-06": {
       "data": "06/11/2026",
@@ -108,9 +108,14 @@
         ],
         "segundaLeitura": [
           {
-            "referencia": "1Ts 4,13-18 ou 13-14",
-            "titulo": "",
-            "texto": "[A forma breve está entre colchetes.]\nLeitura da primeira carta de São Paulo aos Tessalonicenses – [13Irmãos, não queremos deixar-vos na incerteza a respeito dos mortos, para que não fiqueis tristes como os outros, que não têm esperança. 14Se Jesus morreu e ressuscitou – e esta é nossa fé -, de modo semelhante Deus trará de volta, com Cristo, os que através dele entraram no sono da morte.] 15Isto vos declaramos, segundo a palavra do Senhor: nós que formos deixados com vida para a vinda do Senhor não levaremos vantagem em relação aos que morreram. 16Pois o Senhor mesmo, quando for dada a ordem, à voz do arcanjo e ao som da trombeta, descerá do céu, e os que morreram em Cristo ressuscitarão primeiro. 17Em seguida, nós que formos deixados com vida seremos arrebatados com eles nas nuvens, para o encontro com o Senhor, nos ares. E assim estaremos sempre com o Senhor. 18Exortai-vos, pois, uns aos outros com essas palavras."
+            "referencia": "1Ts 4,13-18 (Forma longa)",
+            "titulo": "Leitura da primeira carta de São Paulo aos Tessalonicenses",
+            "texto": "13Irmãos, não queremos deixar-vos na incerteza a respeito dos mortos, para que não fiqueis tristes como os outros, que não têm esperança. 14Se Jesus morreu e ressuscitou – e esta é nossa fé -, de modo semelhante Deus trará de volta, com Cristo, os que através dele entraram no sono da morte. 15Isto vos declaramos, segundo a palavra do Senhor: nós que formos deixados com vida para a vinda do Senhor não levaremos vantagem em relação aos que morreram. 16Pois o Senhor mesmo, quando for dada a ordem, à voz do arcanjo e ao som da trombeta, descerá do céu, e os que morreram em Cristo ressuscitarão primeiro. 17Em seguida, nós que formos deixados com vida seremos arrebatados com eles nas nuvens, para o encontro com o Senhor, nos ares. E assim estaremos sempre com o Senhor. 18Exortai-vos, pois, uns aos outros com essas palavras."
+          },
+          {
+            "referencia": "1Ts 4,13-14 (Forma breve)",
+            "titulo": "Leitura da primeira carta de São Paulo aos Tessalonicenses",
+            "texto": "13Irmãos, não queremos deixar-vos na incerteza a respeito dos mortos, para que não fiqueis tristes como os outros, que não têm esperança. 14Se Jesus morreu e ressuscitou – e esta é nossa fé -, de modo semelhante Deus trará de volta, com Cristo, os que através dele entraram no sono da morte."
           }
         ],
         "evangelho": [
@@ -142,7 +147,7 @@
           {
             "referencia": "Ez 47,1-2.8-9.12",
             "titulo": "Leitura da profecia de Ezequiel",
-            "texto": "Naqueles dias, 1o homem fez-me voltar até a entrada do templo, e eis que saía água da sua parte subterrânea na direção leste, porque o templo estava voltado para o oriente; a água corria do lado direito do templo, a sul do altar. 2Ele fez-me sair pela porta que dá para o norte e fez-me dar uma volta por fora até a porta que dá para o leste, onde eu vi a água jorrando do lado direito. 8Então ele me disse: “Estas águas correm para a região oriental, descem para o vale do Jordão, desembocam nas águas salgadas do mar, e elas se tornarão saudáveis. 9Aonde o rio chegar, todos os animais que ali se movem poderão viver. Haverá peixes em quantidade, pois ali desembocam as águas que trazem saúde; e haverá vida aonde chegar o rio. 12Nas margens junto ao rio, de ambos os lados, crescerá toda espécie de árvores frutíferas; suas folhas não murcharão, e seus frutos jamais se acabarão: cada mês darão novos frutos, pois as águas que banham as árvores saem do santuário. Seus frutos servirão de alimento, e suas folhas serão remédio”.\nLeitura opcional: 1 Coríntios 3,9-11,16-17."
+            "texto": "Naqueles dias, 1o homem fez-me voltar até a entrada do templo, e eis que saía água da sua parte subterrânea na direção leste, porque o templo estava voltado para o oriente; a água corria do lado direito do templo, a sul do altar. 2Ele fez-me sair pela porta que dá para o norte e fez-me dar uma volta por fora até a porta que dá para o leste, onde eu vi a água jorrando do lado direito. 8Então ele me disse: “Estas águas correm para a região oriental, descem para o vale do Jordão, desembocam nas águas salgadas do mar, e elas se tornarão saudáveis. 9Aonde o rio chegar, todos os animais que ali se movem poderão viver. Haverá peixes em quantidade, pois ali desembocam as águas que trazem saúde; e haverá vida aonde chegar o rio. 12Nas margens junto ao rio, de ambos os lados, crescerá toda espécie de árvores frutíferas; suas folhas não murcharão, e seus frutos jamais se acabarão: cada mês darão novos frutos, pois as águas que banham as árvores saem do santuário. Seus frutos servirão de alimento, e suas folhas serão remédio”."
           }
         ],
         "salmo": [
