@@ -1,46 +1,6 @@
 {
-  "atualizadoEm": "2026-11-07T00:58:01.226Z",
+  "atualizadoEm": "2026-11-07T15:44:09.351Z",
   "liturgias": {
-    "2026-11-06": {
-      "data": "06/11/2026",
-      "liturgia": "6ª feira da 31ª Semana do Tempo Comum",
-      "cor": "Verde",
-      "oracoes": {
-        "coleta": "Ó Deus de poder e misericórdia, que concedeis a vossos filhos e filhas o dom de vos servir como devem, fazei que corramos livremente ao encontro das vossas promessas. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
-        "oferendas": "Seja este sacrifício para vós, Senhor, uma oferenda pura e, para nós, fonte generosa de vossa santa misericórdia. Por Cristo, nosso Senhor.",
-        "comunhao": "Cresça em nós, Senhor, a ação da vossa graça, para que, refeitos pelos vossos sacramentos, sejamos preparados para alcançar o que prometem. Por Cristo, nosso Senhor.",
-        "extras": []
-      },
-      "leituras": {
-        "primeiraLeitura": [
-          {
-            "referencia": "Fl 3,17-4,1",
-            "titulo": "Leitura da carta de São Paulo aos Filipenses",
-            "texto": "17Sede meus imitadores, irmãos, e observai os que vivem de acordo com o exemplo que nós damos. 18Já vos disse muitas vezes e agora o repito, chorando: há muitos por aí que se comportam como inimigos da cruz de Cristo. 19O fim deles é a perdição, o deus deles é o estômago, a glória deles está no que é vergonhoso e só pensam nas coisas terrenas. 20Nós, porém, somos cidadãos do céu. De lá aguardamos o nosso salvador, o Senhor, Jesus Cristo. 21Ele transformará o nosso corpo humilhado e o tornará semelhante ao seu corpo glorioso, com o poder que tem de sujeitar a si todas as coisas. 4,1Assim, meus irmãos, a quem quero bem e dos quais sinto saudade, minha alegria, minha coroa, meus amigos, continuai firmes no Senhor."
-          }
-        ],
-        "salmo": [
-          {
-            "referencia": "Sl 121(122)",
-            "refrao": "Que alegria quando ouvi que me disseram: Vamos à casa do Senhor!",
-            "texto": "– Que alegria quando ouvi que me disseram: “Vamos à casa do Senhor!” E agora nossos pés já se detêm, Jerusalém, em tuas portas.\n– Jerusalém, cidade bem edificada num conjunto harmonioso; para lá sobem as tribos de Israel, as tribos do Senhor.\n– Para louvar, segundo a lei de Israel, o nome do Senhor. A sede da justiça lá está e o trono de Davi."
-          }
-        ],
-        "segundaLeitura": [],
-        "evangelho": [
-          {
-            "referencia": "Lc 16,1-8",
-            "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
-            "texto": "Naquele tempo, 1Jesus disse aos discípulos: “Um homem rico tinha um administrador que foi acusado de esbanjar os seus bens. 2Ele o chamou e lhe disse: ‘Que é isto que ouço a teu respeito? Presta contas da tua administração, pois já não podes mais administrar meus bens’. 3O administrador então começou a refletir: ‘O senhor vai me tirar a administração. Que vou fazer? Para cavar, não tenho forças; de mendigar, tenho vergonha. 4Ah! Já sei o que fazer, para que alguém me receba em sua casa quando eu for afastado da administração’. 5Então ele chamou cada um dos que estavam devendo ao seu patrão. E perguntou ao primeiro: ‘Quanto deves ao meu patrão?’ 6Ele respondeu: ‘Cem barris de óleo!’ O administrador disse: ‘Pega a tua conta, senta-te depressa e escreve cinquenta!’ 7Depois ele perguntou a outro: ‘E tu, quanto deves?’ Ele respondeu: ‘Cem medidas de trigo’. O administrador disse: ‘Pega tua conta e escreve oitenta’. 8E o senhor elogiou o administrador desonesto, porque ele agiu com esperteza. Com efeito, os filhos deste mundo são mais espertos em seus negócios do que os filhos da luz”."
-          }
-        ],
-        "extras": []
-      },
-      "antifonas": {
-        "entrada": "Não me abandoneis, Senhor, meu Deus, nem fiqueis longe de mim! Vinde em meu auxílio, ó Senhor, força da minha salvação! (Cf. Sl 37, 22-23)",
-        "comunhao": "Vós me ensinastes o caminho para a vida, junto a vós, Senhor, felicidade sem limites. (Cf. Sl 15, 11)"
-      }
-    },
     "2026-11-07": {
       "data": "07/11/2026",
       "liturgia": "Sábado da 31ª Semana do Tempo Comum",
@@ -290,6 +250,46 @@
       "antifonas": {
         "entrada": "Fiéis à aliança do Senhor e às leis dos seus pais, os santos de Deus perseveraram no amor fraterno porque permaneceram unidos num só espírito e numa só fé.",
         "comunhao": "Quem perde a sua vida por causa de mim vai encontrá-la, diz o Senhor. (Cf. Mt 10, 39)"
+      }
+    },
+    "2026-11-13": {
+      "data": "13/11/2026",
+      "liturgia": "6ª feira da 32ª Semana do Tempo Comum",
+      "cor": "Verde",
+      "oracoes": {
+        "coleta": "Deus de poder e misericórdia, dignai-vos afastar de nós toda adversidade, para que, sem impedimento do corpo e do espírito, nos dediquemos com plena disposição ao vosso serviço. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+        "oferendas": "Senhor, olhai com benevolência para o sacrifício que apresentamos, a fim de que participemos com amor do mistério da paixão do vosso Filho. Que vive e reina pelos séculos dos séculos.",
+        "comunhao": "Fortalecidos por este alimento sagrado nós vos damos graças, Senhor, e imploramos vossa clemência para que, pelo dom do Espírito Santo, perdure a graça da santidade naqueles que receberam a força do alto. Por Cristo, nosso Senhor.",
+        "extras": []
+      },
+      "leituras": {
+        "primeiraLeitura": [
+          {
+            "referencia": "2Jo 4-9",
+            "titulo": "Leitura da segunda carta de São João",
+            "texto": "4Muito me alegrei, senhora, por ter encontrado alguns dos teus filhos que caminham conforme a verdade, segundo o mandamento que recebemos do Pai. 5E agora, senhora, eu te peço – não que te esteja escrevendo a respeito de um novo mandamento, pois trata-se daquele que temos desde o princípio -, amemo-nos uns aos outros. 6E amar consiste no seguinte: em viver conforme os seus mandamentos. Este é o mandamento que ouvistes desde o início para guiar o vosso proceder. 7Acontece que se espalharam pelo mundo muitos sedutores, que não confessam a Jesus Cristo encarnado. Está aí o sedutor, o anticristo. 8Tomai cuidado, se não quereis perder o fruto do vosso trabalho, mas sim receber a plena recompensa. 9Todo o que não permanece na doutrina de Cristo, mas passa além, não possui a Deus. Aquele que permanece na doutrina é o que possui o Pai e o Filho."
+          }
+        ],
+        "salmo": [
+          {
+            "referencia": "Sl 118(119)",
+            "refrao": "Feliz é quem na lei do Senhor Deus vai progredindo!",
+            "texto": "– Feliz o homem sem pecado em seu caminho, que na lei do Senhor Deus vai progredindo!\n– Feliz o homem que observa seus preceitos e, de todo o coração, procura a Deus!\n– De todo o coração, eu vos procuro, não deixeis que eu abandone a vossa lei!\n– Conservei no coração vossas palavras, a fim de que eu não peque contra vós.\n– Sede bom com vosso servo, e viverei, e guardarei vossa palavra, ó Senhor.\n– Abri meus olhos, e então contemplarei as maravilhas que encerra a vossa lei!"
+          }
+        ],
+        "segundaLeitura": [],
+        "evangelho": [
+          {
+            "referencia": "Lc 17,26-37",
+            "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+            "texto": "Naquele tempo, disse Jesus aos seus discípulos: 26“Como aconteceu nos dias de Noé, assim também acontecerá nos dias do Filho do Homem. 27Eles comiam, bebiam, casavam-se e se davam em casamento, até o dia em que Noé entrou na arca. Então chegou o dilúvio e fez morrer todos eles. 28Acontecerá como nos dias de Ló: comiam e bebiam, compravam e vendiam, plantavam e construíam. 29Mas, no dia em que Ló saiu de Sodoma, Deus fez chover fogo e enxofre do céu e fez morrer todos. 30O mesmo acontecerá no dia em que o Filho do Homem for revelado. 31Nesse dia, quem estiver no terraço não desça para apanhar os bens que estão em sua casa. E quem estiver nos campos não volte para trás. 32Lembrai-vos da mulher de Ló. 33Quem procura ganhar a sua vida vai perdê-la, e quem a perde vai conservá-la. 34Eu vos digo, nessa noite dois estarão numa cama: um será tomado e o outro será deixado. 35Duas mulheres estarão moendo juntas: uma será tomada e a outra será deixada. 36Dois homens estarão no campo: um será levado e o outro será deixado”. 37Os discípulos perguntaram: “Senhor, onde acontecerá isso?” Jesus respondeu: “Onde estiver o cadáver, aí se reunirão os abutres”."
+          }
+        ],
+        "extras": []
+      },
+      "antifonas": {
+        "entrada": "Chegue à vossa presença, Senhor, a minha oração; inclinai vosso ouvido à minha prece. (Cf. SI 87, 3)",
+        "comunhao": "O Senhor é o pastor que me conduz; não me falta coisa alguma. Pelos prados e campinas verdejantes ele me leva a descansar. Para as águas repousantes me encaminha. (Cf. 5l 22, 1-2)"
       }
     }
   }
