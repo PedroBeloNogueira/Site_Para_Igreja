@@ -1,15 +1,6 @@
 {
-  "atualizadoEm": "2026-11-09T00:58:45.3080719Z",
   "fonte": "https://www.a12.com",
   "santos": {
-    "2026-11-06": {
-      "imagem": "https://www.a12.com/source/files/originals/6_-_Sao_Leonardo_de_Noblac_A12-787045.jpg",
-      "nome": "São Leonardo de Noblac",
-      "data": "2026-11-06",
-      "resumo": "São Leonardo de Noblac é dos santos mais populares na Europa central. De nobre ascendência abraçou a vida solitária e distinguiu-se pela…",
-      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=287&day=6&month=11",
-      "fonte": "A12 · Santuário de Aparecida"
-    },
     "2026-11-07": {
       "data": "2026-11-07",
       "nome": "São Vilibrardo",
@@ -27,60 +18,69 @@
       "fonte": "A12 · Santuário de Aparecida"
     },
     "2026-11-09": {
-      "nome": "Santo Orestes",
-      "resumo": "Orestes é um nome de origem rude, e significa “o homem da montanha”. No cristianismo tivemos um santo com este nome, que…",
-      "imagem": "https://www.a12.com/source/files/originals/9_-_Santo_Orestes__A12-529989.jpg",
-      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=290&day=9&month=11",
       "data": "2026-11-09",
-      "fonte": "A12 · Santuário de Aparecida"
+      "imagem": "https://www.a12.com/source/files/originals/9_-_Santo_Orestes__A12-529989.jpg",
+      "nome": "Santo Orestes",
+      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=290&day=9&month=11",
+      "fonte": "A12 · Santuário de Aparecida",
+      "resumo": "Orestes é um nome de origem rude, e significa “o homem da montanha”. No cristianismo tivemos um santo com este nome, que…"
     },
     "2026-11-10": {
-      "nome": "São Leão Magno",
-      "resumo": "Leão I foi chamado de Magno pelo fato de ter sido um dos maiores pontífices da história do cristianismo.",
-      "imagem": "https://www.a12.com/source/files/originals/10_-_Sao_Leao_Magno_A12-387628.jpg",
-      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=291&day=10&month=11",
       "data": "2026-11-10",
-      "fonte": "A12 · Santuário de Aparecida"
+      "imagem": "https://www.a12.com/source/files/originals/10_-_Sao_Leao_Magno_A12-387628.jpg",
+      "nome": "São Leão Magno",
+      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=291&day=10&month=11",
+      "fonte": "A12 · Santuário de Aparecida",
+      "resumo": "Leão I foi chamado de Magno pelo fato de ter sido um dos maiores pontífices da história do cristianismo."
     },
     "2026-11-11": {
-      "nome": "São Martinho de Tours",
-      "resumo": "Martinho despertou para a fé quando ainda menino e depois, mesmo soldado da cavalaria do exército romano, jamais abandonou os ensinamentos de…",
-      "imagem": "https://www.a12.com/source/files/originals/11_-_Sao_Martinho_de_Tours_A12-982945.jpg",
-      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=292&day=11&month=11",
       "data": "2026-11-11",
-      "fonte": "A12 · Santuário de Aparecida"
+      "imagem": "https://www.a12.com/source/files/originals/11_-_Sao_Martinho_de_Tours_A12-982945.jpg",
+      "nome": "São Martinho de Tours",
+      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=292&day=11&month=11",
+      "fonte": "A12 · Santuário de Aparecida",
+      "resumo": "Martinho despertou para a fé quando ainda menino e depois, mesmo soldado da cavalaria do exército romano, jamais abandonou os ensinamentos de…"
     },
     "2026-11-12": {
-      "nome": "São Josafá",
-      "resumo": "Josafá defendia com coragem a autoridade do Papa, lutando para evitar o cisma entre ocidente e oriente.",
-      "imagem": "https://www.a12.com/source/files/originals/12_-_Sao_Josafa_Kuncewycz_A12-917038.jpg",
-      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=293&day=12&month=11",
       "data": "2026-11-12",
-      "fonte": "A12 · Santuário de Aparecida"
+      "imagem": "https://www.a12.com/source/files/originals/12_-_Sao_Josafa_Kuncewycz_A12-917038.jpg",
+      "nome": "São Josafá",
+      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=293&day=12&month=11",
+      "fonte": "A12 · Santuário de Aparecida",
+      "resumo": "Josafá defendia com coragem a autoridade do Papa, lutando para evitar o cisma entre ocidente e oriente."
     },
     "2026-11-13": {
-      "nome": "São Diogo de Alcalá",
-      "resumo": "São Diogo de Alcalá possui dons místicos e inteligência infusa, sua piedade e bondade eram tão reconhecidas que logo ganhou fama de…",
-      "imagem": "https://www.a12.com/source/files/originals/13_-_Sao_Diogo_de_Alcala__A12-380202.jpg",
-      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=294&day=13&month=11",
       "data": "2026-11-13",
-      "fonte": "A12 · Santuário de Aparecida"
+      "imagem": "https://www.a12.com/source/files/originals/13_-_Sao_Diogo_de_Alcala__A12-380202.jpg",
+      "nome": "São Diogo de Alcalá",
+      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=294&day=13&month=11",
+      "fonte": "A12 · Santuário de Aparecida",
+      "resumo": "São Diogo de Alcalá possui dons místicos e inteligência infusa, sua piedade e bondade eram tão reconhecidas que logo ganhou fama de…"
     },
     "2026-11-14": {
-      "nome": "São Serapião",
-      "resumo": "A vida de são Serapião foi uma luta constante. Seu espírito militar não o impediu de lutar também pela fé em Cristo.",
-      "imagem": "https://www.a12.com/source/files/originals/14_-_Sao_Serapiao__A12-294629.jpg",
-      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=295&day=14&month=11",
       "data": "2026-11-14",
-      "fonte": "A12 · Santuário de Aparecida"
+      "imagem": "https://www.a12.com/source/files/originals/14_-_Sao_Serapiao__A12-294629.jpg",
+      "nome": "São Serapião",
+      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=295&day=14&month=11",
+      "fonte": "A12 · Santuário de Aparecida",
+      "resumo": "A vida de são Serapião foi uma luta constante. Seu espírito militar não o impediu de lutar também pela fé em Cristo."
     },
     "2026-11-15": {
-      "nome": "Santo Alberto Magno",
-      "resumo": "Santo Alberto Magno engrandeceu a vossa Igreja e toda a humanidade com a sua ciência humana e divina.",
-      "imagem": "https://www.a12.com/source/files/originals/15_-_Santo_Alberto_Magno__A12-831984.jpg",
-      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=296&day=15&month=11",
       "data": "2026-11-15",
-      "fonte": "A12 · Santuário de Aparecida"
+      "imagem": "https://www.a12.com/source/files/originals/15_-_Santo_Alberto_Magno__A12-831984.jpg",
+      "nome": "Santo Alberto Magno",
+      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=296&day=15&month=11",
+      "fonte": "A12 · Santuário de Aparecida",
+      "resumo": "Santo Alberto Magno engrandeceu a vossa Igreja e toda a humanidade com a sua ciência humana e divina."
+    },
+    "2026-11-16": {
+      "data": "2026-11-16",
+      "imagem": "https://www.a12.com/source/files/originals/16_-_Santa_Gertrudes_A12-159609.jpg",
+      "nome": "Santa Gertrudes",
+      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=297&day=16&month=11",
+      "fonte": "A12 · Santuário de Aparecida",
+      "resumo": "A vida contemplativa foi a forma escolhida por Santa Gertrudes para dedicar-se a Deus."
     }
-  }
+  },
+  "atualizadoEm": "2026-11-09T19:53:44.3045764Z"
 }
