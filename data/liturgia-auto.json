@@ -1,46 +1,6 @@
 {
-  "atualizadoEm": "2026-11-09T19:53:21.554Z",
+  "atualizadoEm": "2026-11-10T03:38:00.539Z",
   "liturgias": {
-    "2026-11-09": {
-      "data": "09/11/2026",
-      "liturgia": "Dedicação da Basílica do Latrão (Catedral de Roma), Festa",
-      "cor": "Branco",
-      "oracoes": {
-        "coleta": "Ó Deus, com pedras vivas e escolhidas preparais um templo eterno para a vossa glória; aumentai na vossa Igreja os dons do Espírito que lhe destes, para que vosso povo fiel cresça sempre mais, edificando a Jerusalém celeste. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
-        "oferendas": "Aceitai, Senhor, as nossas oferendas, e concedei aos que vos suplicam obter a força dos sacramentos e o fruto de suas preces. Por Cristo, nosso Senhor.",
-        "comunhao": "Ó Deus, que nos destes a Igreja neste mundo como imagem da Jerusalém celeste, concedei-nos, pela participação neste sacramento, ser templos da vossa graça e chegar onde habita a vossa glória. Por Cristo, nosso Senhor.",
-        "extras": []
-      },
-      "leituras": {
-        "primeiraLeitura": [
-          {
-            "referencia": "Ez 47,1-2.8-9.12",
-            "titulo": "Leitura da profecia de Ezequiel",
-            "texto": "Naqueles dias, 1o homem fez-me voltar até a entrada do templo, e eis que saía água da sua parte subterrânea na direção leste, porque o templo estava voltado para o oriente; a água corria do lado direito do templo, a sul do altar. 2Ele fez-me sair pela porta que dá para o norte e fez-me dar uma volta por fora até a porta que dá para o leste, onde eu vi a água jorrando do lado direito. 8Então ele me disse: “Estas águas correm para a região oriental, descem para o vale do Jordão, desembocam nas águas salgadas do mar, e elas se tornarão saudáveis. 9Aonde o rio chegar, todos os animais que ali se movem poderão viver. Haverá peixes em quantidade, pois ali desembocam as águas que trazem saúde; e haverá vida aonde chegar o rio. 12Nas margens junto ao rio, de ambos os lados, crescerá toda espécie de árvores frutíferas; suas folhas não murcharão, e seus frutos jamais se acabarão: cada mês darão novos frutos, pois as águas que banham as árvores saem do santuário. Seus frutos servirão de alimento, e suas folhas serão remédio”."
-          }
-        ],
-        "salmo": [
-          {
-            "referencia": "Sl 45(46)",
-            "refrao": "Os braços de um rio vêm trazer alegria à cidade de Deus, à morada do Altíssimo.",
-            "texto": "– O Senhor para nós é refúgio e vigor, sempre pronto, mostrou-se um socorro na angústia; assim não tememos se a terra estremece, se os montes desabam, caindo nos mares.\n– Os braços de um rio vêm trazer alegria à cidade de Deus, à morada do Altíssimo. Quem a pode abalar? Deus está no seu meio! Já bem antes da aurora, ele vem ajudá-la.\n– Conosco está o Senhor do universo! O nosso refúgio é o Deus de Jacó! Vinde ver, contemplai os prodígios de Deus e a obra estupenda que fez no universo: reprime as guerras na face da terra."
-          }
-        ],
-        "segundaLeitura": [],
-        "evangelho": [
-          {
-            "referencia": "Jo 2,13-22",
-            "titulo": "Proclamação do Evangelho de Jesus Cristo segundo João",
-            "texto": "13Estava próxima a Páscoa dos judeus, e Jesus subiu a Jerusalém. 14No templo, encontrou os vendedores de bois, ovelhas e pombas e os cambistas que estavam aí sentados. 15Fez então um chicote de cordas e expulsou todos do templo, junto com as ovelhas e os bois; espalhou as moedas e derrubou as mesas dos cambistas. 16E disse aos que vendiam pombas: “Tirai isto daqui! Não façais da casa de meu Pai uma casa de comércio!” 17Seus discípulos lembraram-se, mais tarde, que a Escritura diz: “O zelo por tua casa me consumirá”. 18Então os judeus perguntaram a Jesus: “Que sinal nos mostras para agir assim?” 19Ele respondeu: “Destruí este templo, e em três dias o levantarei”. 20Os judeus disseram: “Quarenta e seis anos foram precisos para a construção deste santuário, e tu o levantarás em três dias?” 21Mas Jesus estava falando do templo do seu corpo. 22Quando Jesus ressuscitou, os discípulos lembraram-se do que ele tinha dito e acreditaram na Escritura e na palavra dele."
-          }
-        ],
-        "extras": []
-      },
-      "antifonas": {
-        "entrada": "Eu vi a cidade santa, a nova Jerusalém, descendo do céu, de junto de Deus, preparada como esposa adornada para seu esposo. (Cf. Ap 21, 2)",
-        "comunhao": "Como pedras vivas, formai um edifício espiritual, um sacerdócio santo. (Cf. 1Pd 2, 5)"
-      }
-    },
     "2026-11-10": {
       "data": "10/11/2026",
       "liturgia": "São Leão Magno, papa e doutor da Igreja, Memória",
@@ -285,6 +245,46 @@
       "antifonas": {
         "entrada": "Meus pensamentos são de paz e não de aflição, diz o Senhor. Vós me invocareis e hei de escutar-vos, e de todos os lugares reconduzirei vossos cativos. (Cf. Jr 29, 11. 12. 14)",
         "comunhao": "Para mim só há um bem: é estar com Deus é colocar o meu refúgio no Senhor. (Cf. Sl 72, 28)"
+      }
+    },
+    "2026-11-16": {
+      "data": "16/11/2026",
+      "liturgia": "2ª feira da 33ª Semana do Tempo Comum",
+      "cor": "Verde",
+      "oracoes": {
+        "coleta": "Senhor nosso Deus, concedei-nos a graça de sempre nos alegrar em vosso serviço, porque só alcançaremos duradoura e plena felicidade sendo fiéis a vós, criador de todos os bens. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+        "oferendas": "Nós vos pedimos, Senhor, concedei que a oferenda colocada sob vosso divino olhar nos obtenha a graça de vos servir e alcançar um dia a eternidade feliz. Por Cristo, nosso Senhor.",
+        "comunhao": "Alimentados, Senhor, com os dons deste sagrado mistério, nós vos pedimos humildemente que nos faça crescer na caridade a Eucaristia que vosso Filho nos mandou celebrar em sua memória. Por Cristo, nosso Senhor.",
+        "extras": []
+      },
+      "leituras": {
+        "primeiraLeitura": [
+          {
+            "referencia": "Ap 1,1-4; 2,1-5",
+            "titulo": "Início do livro do Apocalipse de São João",
+            "texto": "1Revelação que Deus confiou a Jesus Cristo, para que mostre aos seus servos as coisas que devem acontecer em breve. Jesus as deu a conhecer, através do seu anjo, ao seu servo João. 2Este dá testemunho de que tudo quanto viu é palavra de Deus e testemunho de Jesus Cristo. 3Feliz aquele que lê e aqueles que escutam as palavras desta profecia e também praticam o que nela está escrito. Pois o momento está chegando. 4João às sete Igrejas que estão na região da Ásia: A vós, graça e paz da parte daquele que é, que era e que vem; da parte dos sete espíritos que estão diante do trono de Deus. 2,1Ouvi o Senhor que me dizia: Escreve ao anjo da Igreja que está em Éfeso: Assim fala aquele que tem na mão direita as sete estrelas, aquele que está andando no meio dos sete candelabros de ouro: 2Conheço a tua conduta, o teu esforço e a tua perseverança. Sei que não suportas os maus. Colocaste à prova alguns que se diziam apóstolos e descobriste que não eram apóstolos, mas mentirosos. 3És perseverante. Sofreste por causa do meu nome e não desanimaste. 4Todavia, há uma coisa que eu reprovo: abandonaste o teu primeiro amor. 5Lembra-te de onde caíste! Converte-te e volta à tua prática inicial. Se, pelo contrário, não te converteres, virei depressa e arrancarei o teu candelabro do seu lugar."
+          }
+        ],
+        "salmo": [
+          {
+            "referencia": "Sl 1",
+            "refrao": "Ao vencedor concederei comer da árvore da vida!",
+            "texto": "– Feliz é todo aquele que não anda conforme os conselhos dos perversos; que não entra no caminho dos malvados nem junto aos zombadores vai sentar-se; mas encontra seu prazer na lei de Deus e a medita, dia e noite, sem cessar.\n– Eis que ele é semelhante a uma árvore que à beira da torrente está plantada; ela sempre dá seus frutos a seu tempo, e jamais as suas folhas vão murchar. Eis que tudo o que ele faz vai prosperar.\n– Mas bem outra é a sorte dos perversos. Ao contrário, são iguais à palha seca espalhada e dispersada pelo vento. Pois Deus vigia o caminho dos eleitos, mas a estrada dos malvados leva à morte."
+          }
+        ],
+        "segundaLeitura": [],
+        "evangelho": [
+          {
+            "referencia": "Lc 18,35-43",
+            "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+            "texto": "35Quando Jesus se aproximava de Jericó, um cego estava sentado à beira do caminho, pedindo esmolas. 36Ouvindo a multidão passar, ele perguntou o que estava acontecendo. 37Disseram-lhe que Jesus nazareno estava passando por ali. 38Então o cego gritou: “Jesus, filho de Davi, tem piedade de mim!” 39As pessoas que iam na frente mandavam que ele ficasse calado. Mas ele gritava mais ainda: “Filho de Davi, tem piedade de mim!” 40Jesus parou e mandou que levassem o cego até ele. Quando o cego chegou perto, Jesus perguntou: 41“O que queres que eu faça por ti?” O cego respondeu: “Senhor, eu quero enxergar de novo”. 42Jesus disse: “Enxerga, pois, de novo. A tua fé te salvou”. 43No mesmo instante, o cego começou a ver de novo e seguia Jesus, glorificando a Deus. Vendo isso, todo o povo deu louvores a Deus."
+          }
+        ],
+        "extras": []
+      },
+      "antifonas": {
+        "entrada": "Meus pensamentos são de paz e não de aflição, diz o Senhor. Vós me invocareis e hei de escutar-vos, e de todos os lugares reconduzirei vossos cativos. (Cf. Jr 29, 11. 12. 14)",
+        "comunhao": "Para mim só há um bem: é estar com Deus é colocar o meu refúgio no Senhor. (cf. SI 72, 28)"
       }
     }
   }
