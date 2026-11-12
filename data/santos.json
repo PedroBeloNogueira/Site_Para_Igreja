@@ -1,13 +1,7 @@
 {
+  "atualizadoEm": "2026-11-12T17:38:40.3672070Z",
+  "fonte": "https://www.a12.com",
   "santos": {
-    "2026-11-09": {
-      "data": "2026-11-09",
-      "imagem": "https://www.a12.com/source/files/originals/9_-_Santo_Orestes__A12-529989.jpg",
-      "nome": "Santo Orestes",
-      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=290&day=9&month=11",
-      "fonte": "A12 · Santuário de Aparecida",
-      "resumo": "Orestes é um nome de origem rude, e significa “o homem da montanha”. No cristianismo tivemos um santo com este nome, que…"
-    },
     "2026-11-10": {
       "data": "2026-11-10",
       "resumo": "Leão I foi chamado de Magno pelo fato de ter sido um dos maiores pontífices da história do cristianismo.",
@@ -25,62 +19,68 @@
       "fonte": "A12 · Santuário de Aparecida"
     },
     "2026-11-12": {
+      "fonte": "A12 · Santuário de Aparecida",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=293&day=12&month=11",
-      "resumo": "Josafá defendia com coragem a autoridade do Papa, lutando para evitar o cisma entre ocidente e oriente.",
+      "nome": "São Josafá",
       "data": "2026-11-12",
       "imagem": "https://www.a12.com/source/files/originals/12_-_Sao_Josafa_Kuncewycz_A12-917038.jpg",
-      "nome": "São Josafá",
-      "fonte": "A12 · Santuário de Aparecida"
+      "resumo": "Josafá defendia com coragem a autoridade do Papa, lutando para evitar o cisma entre ocidente e oriente."
     },
     "2026-11-13": {
+      "fonte": "A12 · Santuário de Aparecida",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=294&day=13&month=11",
-      "resumo": "São Diogo de Alcalá possui dons místicos e inteligência infusa, sua piedade e bondade eram tão reconhecidas que logo ganhou fama de…",
+      "nome": "São Diogo de Alcalá",
       "data": "2026-11-13",
       "imagem": "https://www.a12.com/source/files/originals/13_-_Sao_Diogo_de_Alcala__A12-380202.jpg",
-      "nome": "São Diogo de Alcalá",
-      "fonte": "A12 · Santuário de Aparecida"
+      "resumo": "São Diogo de Alcalá possui dons místicos e inteligência infusa, sua piedade e bondade eram tão reconhecidas que logo ganhou fama de…"
     },
     "2026-11-14": {
+      "fonte": "A12 · Santuário de Aparecida",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=295&day=14&month=11",
-      "resumo": "A vida de são Serapião foi uma luta constante. Seu espírito militar não o impediu de lutar também pela fé em Cristo.",
+      "nome": "São Serapião",
       "data": "2026-11-14",
       "imagem": "https://www.a12.com/source/files/originals/14_-_Sao_Serapiao__A12-294629.jpg",
-      "nome": "São Serapião",
-      "fonte": "A12 · Santuário de Aparecida"
+      "resumo": "A vida de são Serapião foi uma luta constante. Seu espírito militar não o impediu de lutar também pela fé em Cristo."
     },
     "2026-11-15": {
+      "fonte": "A12 · Santuário de Aparecida",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=296&day=15&month=11",
-      "resumo": "Santo Alberto Magno engrandeceu a vossa Igreja e toda a humanidade com a sua ciência humana e divina.",
+      "nome": "Santo Alberto Magno",
       "data": "2026-11-15",
       "imagem": "https://www.a12.com/source/files/originals/15_-_Santo_Alberto_Magno__A12-831984.jpg",
-      "nome": "Santo Alberto Magno",
-      "fonte": "A12 · Santuário de Aparecida"
+      "resumo": "Santo Alberto Magno engrandeceu a vossa Igreja e toda a humanidade com a sua ciência humana e divina."
     },
     "2026-11-16": {
+      "fonte": "A12 · Santuário de Aparecida",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=297&day=16&month=11",
-      "resumo": "A vida contemplativa foi a forma escolhida por Santa Gertrudes para dedicar-se a Deus.",
+      "nome": "Santa Gertrudes",
       "data": "2026-11-16",
       "imagem": "https://www.a12.com/source/files/originals/16_-_Santa_Gertrudes_A12-159609.jpg",
-      "nome": "Santa Gertrudes",
-      "fonte": "A12 · Santuário de Aparecida"
+      "resumo": "A vida contemplativa foi a forma escolhida por Santa Gertrudes para dedicar-se a Deus."
     },
     "2026-11-17": {
+      "fonte": "A12 · Santuário de Aparecida",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=298&day=17&month=11",
-      "resumo": "O zelo dos pobres, nos quais Isabel sempre via a imagem transfigurada de Cristo, foi espiritualizando cada vez mais a sua vida.",
+      "nome": "Santa Isabel da Hungria",
       "data": "2026-11-17",
       "imagem": "https://www.a12.com/source/files/originals/17_-_Santa_Isabel_da_Hungria_A12-206496.jpg",
-      "nome": "Santa Isabel da Hungria",
-      "fonte": "A12 · Santuário de Aparecida"
+      "resumo": "O zelo dos pobres, nos quais Isabel sempre via a imagem transfigurada de Cristo, foi espiritualizando cada vez mais a sua vida."
     },
     "2026-11-18": {
+      "fonte": "A12 · Santuário de Aparecida",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=299&day=18&month=11",
-      "resumo": "Cristão e monge, o jovem saiu de sua terra natal como peregrino e estudante, com destino à Roma, onde viveu como ermitão.",
+      "nome": "São Frediano",
       "data": "2026-11-18",
       "imagem": "https://www.a12.com/source/files/originals/18_-_Sao_Frediano_A12-898302.jpg",
-      "nome": "São Frediano",
-      "fonte": "A12 · Santuário de Aparecida"
+      "resumo": "Cristão e monge, o jovem saiu de sua terra natal como peregrino e estudante, com destino à Roma, onde viveu como ermitão."
+    },
+    "2026-11-19": {
+      "fonte": "A12 · Santuário de Aparecida",
+      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=300&day=19&month=11",
+      "nome": "São Rafael de São José",
+      "data": "2026-11-19",
+      "imagem": "https://www.a12.com/source/files/originals/Sao_Rafael_de_Sao_Jose-143246.jpg",
+      "resumo": "São Rafael de São José foi um homem de Deus, vivendo em profunda união com ele. Foi definido como uma oração vivente,…"
     }
-  },
-  "fonte": "https://www.a12.com",
-  "atualizadoEm": "2026-11-12T02:18:06.6218702Z"
+  }
 }
