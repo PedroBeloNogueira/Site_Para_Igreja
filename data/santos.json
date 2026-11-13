@@ -1,15 +1,5 @@
 {
-  "fonte": "https://www.a12.com",
-  "atualizadoEm": "2026-11-13T01:54:39.7029325Z",
   "santos": {
-    "2026-11-10": {
-      "data": "2026-11-10",
-      "resumo": "Leão I foi chamado de Magno pelo fato de ter sido um dos maiores pontífices da história do cristianismo.",
-      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=291&day=10&month=11",
-      "imagem": "https://www.a12.com/source/files/originals/10_-_Sao_Leao_Magno_A12-387628.jpg",
-      "fonte": "A12 · Santuário de Aparecida",
-      "nome": "São Leão Magno"
-    },
     "2026-11-11": {
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=292&day=11&month=11",
       "resumo": "Martinho despertou para a fé quando ainda menino e depois, mesmo soldado da cavalaria do exército romano, jamais abandonou os ensinamentos de…",
@@ -28,59 +18,69 @@
     },
     "2026-11-13": {
       "imagem": "https://www.a12.com/source/files/originals/13_-_Sao_Diogo_de_Alcala__A12-380202.jpg",
-      "nome": "São Diogo de Alcalá",
       "fonte": "A12 · Santuário de Aparecida",
-      "resumo": "São Diogo de Alcalá possui dons místicos e inteligência infusa, sua piedade e bondade eram tão reconhecidas que logo ganhou fama de…",
       "data": "2026-11-13",
-      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=294&day=13&month=11"
+      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=294&day=13&month=11",
+      "nome": "São Diogo de Alcalá",
+      "resumo": "São Diogo de Alcalá possui dons místicos e inteligência infusa, sua piedade e bondade eram tão reconhecidas que logo ganhou fama de…"
     },
     "2026-11-14": {
       "imagem": "https://www.a12.com/source/files/originals/14_-_Sao_Serapiao__A12-294629.jpg",
-      "nome": "São Serapião",
       "fonte": "A12 · Santuário de Aparecida",
-      "resumo": "A vida de são Serapião foi uma luta constante. Seu espírito militar não o impediu de lutar também pela fé em Cristo.",
       "data": "2026-11-14",
-      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=295&day=14&month=11"
+      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=295&day=14&month=11",
+      "nome": "São Serapião",
+      "resumo": "A vida de são Serapião foi uma luta constante. Seu espírito militar não o impediu de lutar também pela fé em Cristo."
     },
     "2026-11-15": {
       "imagem": "https://www.a12.com/source/files/originals/15_-_Santo_Alberto_Magno__A12-831984.jpg",
-      "nome": "Santo Alberto Magno",
       "fonte": "A12 · Santuário de Aparecida",
-      "resumo": "Santo Alberto Magno engrandeceu a vossa Igreja e toda a humanidade com a sua ciência humana e divina.",
       "data": "2026-11-15",
-      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=296&day=15&month=11"
+      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=296&day=15&month=11",
+      "nome": "Santo Alberto Magno",
+      "resumo": "Santo Alberto Magno engrandeceu a vossa Igreja e toda a humanidade com a sua ciência humana e divina."
     },
     "2026-11-16": {
       "imagem": "https://www.a12.com/source/files/originals/16_-_Santa_Gertrudes_A12-159609.jpg",
-      "nome": "Santa Gertrudes",
       "fonte": "A12 · Santuário de Aparecida",
-      "resumo": "A vida contemplativa foi a forma escolhida por Santa Gertrudes para dedicar-se a Deus.",
       "data": "2026-11-16",
-      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=297&day=16&month=11"
+      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=297&day=16&month=11",
+      "nome": "Santa Gertrudes",
+      "resumo": "A vida contemplativa foi a forma escolhida por Santa Gertrudes para dedicar-se a Deus."
     },
     "2026-11-17": {
       "imagem": "https://www.a12.com/source/files/originals/17_-_Santa_Isabel_da_Hungria_A12-206496.jpg",
-      "nome": "Santa Isabel da Hungria",
       "fonte": "A12 · Santuário de Aparecida",
-      "resumo": "O zelo dos pobres, nos quais Isabel sempre via a imagem transfigurada de Cristo, foi espiritualizando cada vez mais a sua vida.",
       "data": "2026-11-17",
-      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=298&day=17&month=11"
+      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=298&day=17&month=11",
+      "nome": "Santa Isabel da Hungria",
+      "resumo": "O zelo dos pobres, nos quais Isabel sempre via a imagem transfigurada de Cristo, foi espiritualizando cada vez mais a sua vida."
     },
     "2026-11-18": {
       "imagem": "https://www.a12.com/source/files/originals/18_-_Sao_Frediano_A12-898302.jpg",
-      "nome": "São Frediano",
       "fonte": "A12 · Santuário de Aparecida",
-      "resumo": "Cristão e monge, o jovem saiu de sua terra natal como peregrino e estudante, com destino à Roma, onde viveu como ermitão.",
       "data": "2026-11-18",
-      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=299&day=18&month=11"
+      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=299&day=18&month=11",
+      "nome": "São Frediano",
+      "resumo": "Cristão e monge, o jovem saiu de sua terra natal como peregrino e estudante, com destino à Roma, onde viveu como ermitão."
     },
     "2026-11-19": {
       "imagem": "https://www.a12.com/source/files/originals/Sao_Rafael_de_Sao_Jose-143246.jpg",
-      "nome": "São Rafael de São José",
       "fonte": "A12 · Santuário de Aparecida",
-      "resumo": "São Rafael de São José foi um homem de Deus, vivendo em profunda união com ele. Foi definido como uma oração vivente,…",
       "data": "2026-11-19",
-      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=300&day=19&month=11"
+      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=300&day=19&month=11",
+      "nome": "São Rafael de São José",
+      "resumo": "São Rafael de São José foi um homem de Deus, vivendo em profunda união com ele. Foi definido como uma oração vivente,…"
+    },
+    "2026-11-20": {
+      "imagem": "https://www.a12.com/source/files/originals/20_-_Santo_Edmundo_A12-531067.jpg",
+      "fonte": "A12 · Santuário de Aparecida",
+      "data": "2026-11-20",
+      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=301&day=20&month=11",
+      "nome": "Santo Edmundo",
+      "resumo": "Edmundo é um santo mais vivo na memória do povo da Inglaterra do que nos documentos históricos."
     }
-  }
+  },
+  "atualizadoEm": "2026-11-13T17:16:04.9188188Z",
+  "fonte": "https://www.a12.com"
 }

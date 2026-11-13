@@ -1,46 +1,6 @@
 {
-  "atualizadoEm": "2026-11-13T01:54:15.043Z",
+  "atualizadoEm": "2026-11-13T17:15:38.792Z",
   "liturgias": {
-    "2026-11-12": {
-      "data": "12/11/2026",
-      "liturgia": "São Josafá, bispo e mártir, Memória",
-      "cor": "Vermelho",
-      "oracoes": {
-        "coleta": "Senhor, suscitai em vossa Igreja o Espírito que impeliu São Josafá a dar a vida por suas ovelhas; fortalecidos pelo mesmo Espírito, também nós, por sua intercessão, não hesitemos em dar a vida pelos irmãos. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
-        "oferendas": "Clementíssimo Deus, envolvei com vossa bênção estas oferendas e confirmai-nos na fé que São Josafá proclamou ao derramar o próprio sangue. Por Cristo, nosso Senhor.",
-        "comunhao": "Senhor, esta mesa celeste nos conceda o espírito de fortaleza e de paz, para que, a exemplo de São Josafá, de bom grado consagremos nossa vida à honra e à unidade da Igreja. Por Cristo, nosso Senhor.",
-        "extras": []
-      },
-      "leituras": {
-        "primeiraLeitura": [
-          {
-            "referencia": "Fm 7-20",
-            "titulo": "Leitura da carta de São Paulo a Filêmon",
-            "texto": "Caríssimo, 7grande alegria e consolo tive por causa de tua caridade. Os corações dos santos foram reanimados por ti, irmão. 8Por esse motivo, se bem que tenha plena autoridade em Cristo para prescrever-te tua obrigação, 9prefiro fazer apenas um apelo à tua caridade. Eu, Paulo, velho como estou e agora também prisioneiro de Cristo Jesus, 10faço-te um pedido em favor do meu filho que fiz nascer para Cristo na prisão, Onésimo. 11Antes, ele era inútil para ti; agora, ele é valioso para ti e para mim. 12Eu o estou mandando de volta para ti. Ele é como se fosse o meu próprio coração. 13Gostaria de tê-lo comigo, a fim de que fosse teu representante para cuidar de mim nesta prisão, que eu devo ao Evangelho. 14Mas eu não quis fazer nada sem o teu parecer, para que a tua bondade não seja forçada, mas espontânea. 15Se ele te foi retirado por algum tempo, talvez seja para que o tenhas de volta para sempre, 16já não como escravo, mas, muito mais do que isso, como um irmão querido, muitíssimo querido para mim quanto mais ele o for para ti, tanto como pessoa humana quanto como irmão no Senhor. 17Assim, se estás em comunhão de fé comigo, recebe-o como se fosse a mim mesmo. 18Se em alguma coisa te prejudicou ou se alguma coisa te deve, põe em minha conta. 19Eu, Paulo, de meu punho o escrevo: eu o pagarei; para não dizer que tu mesmo me deves a própria vida. 20Sim, irmão, deixa que eu te explore no Senhor. Conforta em Cristo meu coração."
-          }
-        ],
-        "salmo": [
-          {
-            "referencia": "Sl 145(146)",
-            "refrao": "Feliz quem se apoia no Deus de Jacó!",
-            "texto": "– O Senhor faz justiça aos que são oprimidos; ele dá alimento aos famintos, é o Senhor quem liberta os cativos.\n– O Senhor abre os olhos aos cegos, o Senhor faz erguer-se o caído, o Senhor ama aquele que é justo. É o Senhor quem protege o estrangeiro.\n– Quem ampara a viúva e o órfão, mas confunde os caminhos dos maus. O Senhor reinará para sempre! Ó Sião, o teu Deus reinará para sempre e por todos os séculos!"
-          }
-        ],
-        "segundaLeitura": [],
-        "evangelho": [
-          {
-            "referencia": "Lc 17,20-25",
-            "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
-            "texto": "Naquele tempo, 20os fariseus perguntaram a Jesus sobre o momento em que chegaria o Reino de Deus. Jesus respondeu: “O Reino de Deus não vem ostensivamente. 21Nem se poderá dizer: ‘Está aqui’ ou ‘está ali’, porque o Reino de Deus está entre vós”. 22E Jesus disse aos discípulos: “Dias virão em que desejareis ver um só dia do Filho do Homem e não podereis ver. 23As pessoas vos dirão: ‘Ele está ali’ ou ‘ele está aqui’. Não deveis ir nem correr atrás. 24Pois, como o relâmpago brilha de um lado até o outro do céu, assim também será o Filho do Homem no seu dia. 25Antes, porém, ele deverá sofrer muito e ser rejeitado por esta geração”."
-          }
-        ],
-        "extras": []
-      },
-      "antifonas": {
-        "entrada": "Fiéis à aliança do Senhor e às leis dos seus pais, os santos de Deus perseveraram no amor fraterno porque permaneceram unidos num só espírito e numa só fé.",
-        "comunhao": "Quem perde a sua vida por causa de mim vai encontrá-la, diz o Senhor. (Cf. Mt 10, 39)"
-      }
-    },
     "2026-11-13": {
       "data": "13/11/2026",
       "liturgia": "6ª feira da 32ª Semana do Tempo Comum",
@@ -285,6 +245,46 @@
       "antifonas": {
         "entrada": "Meus pensamentos são de paz e não de aflição, diz o Senhor. Vós me invocareis e hei de escutar-vos, e de todos os lugares reconduzirei vossos cativos. (Cf. Jr 29, 11. 12. 14)",
         "comunhao": "Para mim só há um bem: é estar com Deus é colocar o meu refúgio no Senhor. (cf. SI 72, 28)"
+      }
+    },
+    "2026-11-19": {
+      "data": "19/11/2026",
+      "liturgia": "Santos Roque González, Afonso Rodríguez e João de Castillo, presbíteros e mártires, Memória",
+      "cor": "Vermelho",
+      "oracoes": {
+        "coleta": "Senhor, que a vossa palavra cresça nas terras onde os vossos mártires a semearam e seja multiplicada em frutos de justiça e de paz. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+        "oferendas": "Senhor, com alegria, vos trazemos os frutos da terra, a fim de que, pelo sacrifício que vosso Filho ofereceu por todos, nos concedais a bênção e a santidade. Por Cristo, nosso Senhor.",
+        "comunhao": "Senhor, que os vossos fiéis vivam na fé e na caridade, repartindo com os irmãos o pão da vida e bebendo o cálice da salvação até a vossa vinda. Por Cristo, nosso Senhor.",
+        "extras": []
+      },
+      "leituras": {
+        "primeiraLeitura": [
+          {
+            "referencia": "Ap 5,1-10",
+            "titulo": "Leitura do livro do Apocalipse de São João",
+            "texto": "Eu, João, 1vi um livro na mão direita daquele que estava sentado no trono. Era um rolo escrito por dentro e por fora, e estava lacrado com sete selos. 2Vi então um anjo forte, que proclamava em voz alta: “Quem é digno de romper os selos e abrir o livro?” 3Ninguém no céu, nem na terra, nem debaixo da terra era digno de abrir o livro ou de ler o que nele estava escrito. 4Eu chorava muito, porque ninguém foi considerado digno de abrir ou de ler o livro. 5Um dos anciãos me consolou: “Não chores! Eis que o Leão da tribo de Judá, o Rebento de Davi, saiu vencedor. Ele pode romper os selos e abrir o livro”. 6De fato, vi um Cordeiro. Estava no centro do trono e dos quatro seres vivos, no meio dos anciãos. Estava de pé, como que imolado. O Cordeiro tinha sete chifres e sete olhos, que são os sete Espíritos de Deus, enviados por toda a terra. 7Então, o Cordeiro veio receber o livro da mão direita daquele que está sentado no trono. 8Quando ele recebeu o livro, os quatro seres vivos e os vinte e quatro anciãos prostraram-se diante do Cordeiro. Todos tinham harpas e taças de ouro cheias de incenso, que são as orações dos santos. 9E entoaram um cântico novo: “Tu és digno de receber o livro e abrir seus selos, porque foste imolado e, com teu sangue, adquiriste para Deus homens de toda tribo, língua, povo e nação. 10Deles fizeste para o nosso Deus um reino de sacerdotes. E eles reinarão sobre a terra”."
+          }
+        ],
+        "salmo": [
+          {
+            "referencia": "Sl 149",
+            "refrao": "Fizestes de nós, para Deus, sacerdotes e povo de reis.",
+            "texto": "– Cantai ao Senhor Deus um canto novo e o seu louvor na assembleia dos fiéis! Alegre-se Israel em quem o fez, e Sião se rejubile no seu rei!\n– Com danças glorifiquem o seu nome, toquem harpa e tambor em sua honra! Porque, de fato, o Senhor ama seu povo e coroa com vitória os seus humildes.\n– Exultem os fiéis por sua glória e, cantando, se levantem de seus leitos, com louvores do Senhor em sua boca. Eis a glória para todos os seus santos."
+          }
+        ],
+        "segundaLeitura": [],
+        "evangelho": [
+          {
+            "referencia": "Lc 19,41-44",
+            "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+            "texto": "Naquele tempo, 41quando Jesus se aproximou de Jerusalém e viu a cidade, começou a chorar. E disse: 42“Se tu também compreendesses hoje o que te pode trazer a paz! Agora, porém, isso está escondido aos teus olhos! 43Dias virão em que os inimigos farão trincheiras contra ti e te cercarão de todos os lados. 44Eles esmagarão a ti e a teus filhos. E não deixarão em ti pedra sobre pedra. Porque tu não reconheceste o tempo em que foste visitada”."
+          }
+        ],
+        "extras": []
+      },
+      "antifonas": {
+        "entrada": "Por amor de Cristo, o sangue dos mártires foi derramado na terra; por isso, eles alcançaram a recompensa eterna.",
+        "comunhao": "Vós ficastes comigo em minhas provações. Por isso vos confio o reino. Vós havereis de comer e beber à minha mesa no meu reino, diz o Senhor. (Cf. Lc 22, 28-30)"
       }
     }
   }
