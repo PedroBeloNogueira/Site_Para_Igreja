@@ -1,46 +1,6 @@
 {
-  "atualizadoEm": "2026-11-14T01:28:50.272Z",
+  "atualizadoEm": "2026-11-14T15:52:04.988Z",
   "liturgias": {
-    "2026-11-13": {
-      "data": "13/11/2026",
-      "liturgia": "6ª feira da 32ª Semana do Tempo Comum",
-      "cor": "Verde",
-      "oracoes": {
-        "coleta": "Deus de poder e misericórdia, dignai-vos afastar de nós toda adversidade, para que, sem impedimento do corpo e do espírito, nos dediquemos com plena disposição ao vosso serviço. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
-        "oferendas": "Senhor, olhai com benevolência para o sacrifício que apresentamos, a fim de que participemos com amor do mistério da paixão do vosso Filho. Que vive e reina pelos séculos dos séculos.",
-        "comunhao": "Fortalecidos por este alimento sagrado nós vos damos graças, Senhor, e imploramos vossa clemência para que, pelo dom do Espírito Santo, perdure a graça da santidade naqueles que receberam a força do alto. Por Cristo, nosso Senhor.",
-        "extras": []
-      },
-      "leituras": {
-        "primeiraLeitura": [
-          {
-            "referencia": "2Jo 4-9",
-            "titulo": "Leitura da segunda carta de São João",
-            "texto": "4Muito me alegrei, senhora, por ter encontrado alguns dos teus filhos que caminham conforme a verdade, segundo o mandamento que recebemos do Pai. 5E agora, senhora, eu te peço – não que te esteja escrevendo a respeito de um novo mandamento, pois trata-se daquele que temos desde o princípio -, amemo-nos uns aos outros. 6E amar consiste no seguinte: em viver conforme os seus mandamentos. Este é o mandamento que ouvistes desde o início para guiar o vosso proceder. 7Acontece que se espalharam pelo mundo muitos sedutores, que não confessam a Jesus Cristo encarnado. Está aí o sedutor, o anticristo. 8Tomai cuidado, se não quereis perder o fruto do vosso trabalho, mas sim receber a plena recompensa. 9Todo o que não permanece na doutrina de Cristo, mas passa além, não possui a Deus. Aquele que permanece na doutrina é o que possui o Pai e o Filho."
-          }
-        ],
-        "salmo": [
-          {
-            "referencia": "Sl 118(119)",
-            "refrao": "Feliz é quem na lei do Senhor Deus vai progredindo!",
-            "texto": "– Feliz o homem sem pecado em seu caminho, que na lei do Senhor Deus vai progredindo!\n– Feliz o homem que observa seus preceitos e, de todo o coração, procura a Deus!\n– De todo o coração, eu vos procuro, não deixeis que eu abandone a vossa lei!\n– Conservei no coração vossas palavras, a fim de que eu não peque contra vós.\n– Sede bom com vosso servo, e viverei, e guardarei vossa palavra, ó Senhor.\n– Abri meus olhos, e então contemplarei as maravilhas que encerra a vossa lei!"
-          }
-        ],
-        "segundaLeitura": [],
-        "evangelho": [
-          {
-            "referencia": "Lc 17,26-37",
-            "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
-            "texto": "Naquele tempo, disse Jesus aos seus discípulos: 26“Como aconteceu nos dias de Noé, assim também acontecerá nos dias do Filho do Homem. 27Eles comiam, bebiam, casavam-se e se davam em casamento, até o dia em que Noé entrou na arca. Então chegou o dilúvio e fez morrer todos eles. 28Acontecerá como nos dias de Ló: comiam e bebiam, compravam e vendiam, plantavam e construíam. 29Mas, no dia em que Ló saiu de Sodoma, Deus fez chover fogo e enxofre do céu e fez morrer todos. 30O mesmo acontecerá no dia em que o Filho do Homem for revelado. 31Nesse dia, quem estiver no terraço não desça para apanhar os bens que estão em sua casa. E quem estiver nos campos não volte para trás. 32Lembrai-vos da mulher de Ló. 33Quem procura ganhar a sua vida vai perdê-la, e quem a perde vai conservá-la. 34Eu vos digo, nessa noite dois estarão numa cama: um será tomado e o outro será deixado. 35Duas mulheres estarão moendo juntas: uma será tomada e a outra será deixada. 36Dois homens estarão no campo: um será levado e o outro será deixado”. 37Os discípulos perguntaram: “Senhor, onde acontecerá isso?” Jesus respondeu: “Onde estiver o cadáver, aí se reunirão os abutres”."
-          }
-        ],
-        "extras": []
-      },
-      "antifonas": {
-        "entrada": "Chegue à vossa presença, Senhor, a minha oração; inclinai vosso ouvido à minha prece. (Cf. SI 87, 3)",
-        "comunhao": "O Senhor é o pastor que me conduz; não me falta coisa alguma. Pelos prados e campinas verdejantes ele me leva a descansar. Para as águas repousantes me encaminha. (Cf. 5l 22, 1-2)"
-      }
-    },
     "2026-11-14": {
       "data": "14/11/2026",
       "liturgia": "Sábado da 32ª Semana do Tempo Comum",
@@ -285,6 +245,46 @@
       "antifonas": {
         "entrada": "Por amor de Cristo, o sangue dos mártires foi derramado na terra; por isso, eles alcançaram a recompensa eterna.",
         "comunhao": "Vós ficastes comigo em minhas provações. Por isso vos confio o reino. Vós havereis de comer e beber à minha mesa no meu reino, diz o Senhor. (Cf. Lc 22, 28-30)"
+      }
+    },
+    "2026-11-20": {
+      "data": "20/11/2026",
+      "liturgia": "6ª feira da 33ª Semana do Tempo Comum",
+      "cor": "Verde",
+      "oracoes": {
+        "coleta": "Senhor nosso Deus, concedei-nos a graça de sempre nos alegrar em vosso serviço, porque só alcançaremos duradoura e plena felicidade sendo fiéis a vós, criador de todos os bens. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+        "oferendas": "Nós vos pedimos, Senhor, concedei que a oferenda colocada sob vosso divino olhar nos obtenha a graça de vos servir e alcançar um dia a eternidade feliz. Por Cristo, nosso Senhor.",
+        "comunhao": "Alimentados, Senhor, com os dons deste sagrado mistério, nós vos pedimos humildemente que nos faça crescer na caridade a Eucaristia que vosso Filho nos mandou celebrar em sua memória. Por Cristo, nosso Senhor.",
+        "extras": []
+      },
+      "leituras": {
+        "primeiraLeitura": [
+          {
+            "referencia": "Ap 10,8-11",
+            "titulo": "Leitura do livro do Apocalipse de São João",
+            "texto": "8Aquela mesma voz do céu que eu, João, já tinha ouvido tornou a falar comigo: “Vai, pega o livrinho aberto da mão do anjo que está de pé sobre o mar e a terra”. 9Eu fui até o anjo e pedi que me entregasse o livrinho. Ele me falou: “Pega e come. Será amargo no estômago, mas na tua boca será doce como mel”. 10Peguei da mão do anjo o livrinho e comi-o. Na boca era doce como mel, mas, quando o engoli, meu estômago tornou-se amargo. 11Então ele me disse: “Deves profetizar ainda contra outros povos e nações, línguas e reis”."
+          }
+        ],
+        "salmo": [
+          {
+            "referencia": "Sl 118(119)",
+            "refrao": "Como é doce ao paladar vossa Palavra, ó Senhor.",
+            "texto": "– Seguindo vossa lei, me rejubilo muito mais do que em todas as riquezas.\n– Minha alegria é a vossa Aliança, meus conselheiros são os vossos mandamentos.\n– A lei de vossa boca, para mim, vale mais do que milhões em ouro e prata.\n– Como é doce ao paladar vossa Palavra, muito mais doce do que o mel na minha boca!\n– Vossa Palavra é minha herança para sempre, porque ela é que me alegra o coração!\n– Abro a boca e aspiro largamente, pois estou ávido de vossos mandamentos."
+          }
+        ],
+        "segundaLeitura": [],
+        "evangelho": [
+          {
+            "referencia": "Lc 19,45-48",
+            "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+            "texto": "Naquele tempo, 45Jesus entrou no templo e começou a expulsar os vendedores. 46E disse: “Está escrito: ‘Minha casa será casa de oração’. No entanto, vós fizestes dela um antro de ladrões”. 47Jesus ensinava todos os dias no templo. Os sumos sacerdotes, os mestres da Lei e os notáveis do povo procuravam modo de matá-lo. 48Mas não sabiam o que fazer, porque o povo todo ficava fascinado quando ouvia Jesus falar."
+          }
+        ],
+        "extras": []
+      },
+      "antifonas": {
+        "entrada": "Meus pensamentos são de paz e não de aflição, diz o Senhor. Vós me invocareis e hei de escutar-vos, e de todos os lugares reconduzirei vossos cativos. (Cf. Jr 29, 11. 12. 14)",
+        "comunhao": "Para mim só há um bem: é estar com Deus é colocar o meu refúgio no Senhor. (Cf. Sl 72, 28)"
       }
     }
   }
