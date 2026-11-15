@@ -1,46 +1,6 @@
 {
-  "atualizadoEm": "2026-11-15T01:05:34.717Z",
+  "atualizadoEm": "2026-11-15T16:25:56.627Z",
   "liturgias": {
-    "2026-11-14": {
-      "data": "14/11/2026",
-      "liturgia": "Sábado da 32ª Semana do Tempo Comum",
-      "cor": "Verde",
-      "oracoes": {
-        "coleta": "Deus de poder e misericórdia, dignai-vos afastar de nós toda adversidade, para que, sem impedimento do corpo e do espírito, nos dediquemos com plena disposição ao vosso serviço. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
-        "oferendas": "Senhor, olhai com benevolência para o sacrifício que apresentamos, a fim de que participemos com amor do mistério da paixão do vosso Filho. Que vive e reina pelos séculos dos séculos.",
-        "comunhao": "Fortalecidos por este alimento sagrado nós vos damos graças, Senhor, e imploramos vossa clemência para que, pelo dom do Espírito Santo, perdure a graça da santidade naqueles que receberam a força do alto. Por Cristo, nosso Senhor.",
-        "extras": []
-      },
-      "leituras": {
-        "primeiraLeitura": [
-          {
-            "referencia": "3Jo 5-8",
-            "titulo": "Leitura da terceira carta de são João",
-            "texto": "5Caríssimo Gaio, é muito leal o teu proceder, agindo assim com teus irmãos, ainda que estrangeiros. 6Eles deram testemunho da tua caridade diante da Igreja. Farás bem em provê-los para a viagem de um modo digno de Deus. 7Pois, por amor do Nome, eles empreenderam a viagem sem aceitar nada da parte dos pagãos. 8A nós, portanto, cabe acolhê-los, para sermos cooperadores da verdade."
-          }
-        ],
-        "salmo": [
-          {
-            "referencia": "Sl 111(112)",
-            "refrao": "Feliz aquele que respeita o Senhor!",
-            "texto": "– Feliz o homem que respeita o Senhor e que ama com carinho a sua lei! Sua descendência será forte sobre a terra, abençoada a geração dos homens retos!\n– Haverá glória e riqueza em sua casa, e permanece para sempre o bem que fez. Ele é correto, generoso e compassivo, como luz brilha nas trevas para os justos.\n– Feliz o homem caridoso e prestativo, que resolve seus negócios com justiça. Porque jamais vacilará o homem reto, sua lembrança permanece eternamente!"
-          }
-        ],
-        "segundaLeitura": [],
-        "evangelho": [
-          {
-            "referencia": "Lc 18,1-8",
-            "titulo": "Proclamação do evangelho de Jesus Cristo segundo Lucas",
-            "texto": "Naquele tempo, 1Jesus contou aos discípulos uma parábola, para mostrar-lhes a necessidade de rezar sempre e nunca desistir, dizendo: 2“Numa cidade havia um juiz que não temia a Deus e não respeitava homem algum. 3Na mesma cidade havia uma viúva, que vinha à procura do juiz, pedindo: ‘Faze-me justiça contra o meu adversário!’ 4Durante muito tempo, o juiz se recusou. Por fim, ele pensou: ‘Eu não temo a Deus e não respeito homem algum. 5Mas essa viúva já me está aborrecendo. Vou fazer-lhe justiça, para que ela não venha agredir-me!'” 6E o Senhor acrescentou: “Escutai o que diz esse juiz injusto. 7E Deus não fará justiça aos seus escolhidos, que dia e noite gritam por ele? Será que vai fazê-los esperar? 8Eu vos digo que Deus lhes fará justiça bem depressa. Mas o Filho do homem, quando vier, será que ainda vai encontrar fé sobre a terra?”"
-          }
-        ],
-        "extras": []
-      },
-      "antifonas": {
-        "entrada": "Chegue à vossa presença, Senhor, a minha oração; inclinai vosso ouvido à minha prece. (Cf. SI 87, 3)",
-        "comunhao": "O Senhor é o pastor que me conduz; não me falta coisa alguma. Pelos prados e campinas verdejantes ele me leva a descansar. Para as águas repousantes me encaminha. (Cf. 5l 22, 1-2)"
-      }
-    },
     "2026-11-15": {
       "data": "15/11/2026",
       "liturgia": "33º Domingo do Tempo Comum",
@@ -285,6 +245,46 @@
       "antifonas": {
         "entrada": "Meus pensamentos são de paz e não de aflição, diz o Senhor. Vós me invocareis e hei de escutar-vos, e de todos os lugares reconduzirei vossos cativos. (Cf. Jr 29, 11. 12. 14)",
         "comunhao": "Para mim só há um bem: é estar com Deus é colocar o meu refúgio no Senhor. (Cf. Sl 72, 28)"
+      }
+    },
+    "2026-11-21": {
+      "data": "21/11/2026",
+      "liturgia": "Apresentação da Bem-aventurada Virgem Maria, Memória",
+      "cor": "Branco",
+      "oracoes": {
+        "coleta": "Ao celebrarmos a gloriosa memória da Santíssima Virgem Maria, nós vos pedimos, Senhor, que, por sua intercessão, também nós mereçamos receber a plenitude da vossa graça. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+        "oferendas": "Acolhei, Senhor, as orações do vosso povo com a oblação deste sacrifício, para que, por intercessão da Bem-aventurada Virgem Maria, Mãe do vosso Filho, todos sejam atendidos em suas preces e confirmados em suas súplicas. Por Cristo, nosso Senhor.",
+        "comunhao": "Senhor, ao receber os sacramentos celestes, pedimos vossa clemência para que, alegrando-nos com a comemoração da Bem-aventurada Virgem Maria, imitemos as suas virtudes e colaboremos generosamente no mistério da nossa redenção. Por Cristo, nosso Senhor.",
+        "extras": []
+      },
+      "leituras": {
+        "primeiraLeitura": [
+          {
+            "referencia": "Zc 2, 14-17",
+            "titulo": "Leitura da Profecia de Zacarias",
+            "texto": "14“Rejubila, alegra-te, cidade de Sião, eis que venho para habitar no meio de ti, diz o Senhor. 15Muitas nações se aproximarão do Senhor, naquele dia, e serão o seu povo. Habitarei no meio de ti, e saberás que o Senhor dos exércitos me enviou a ti. 16O Senhor entrará em posse de Judá, como sua porção na terra santa, e escolherá de novo Jerusalém. 17Emudeça todo mortal diante do Senhor, ele acaba de levantar-se de sua santa habitação.”"
+          }
+        ],
+        "salmo": [
+          {
+            "referencia": "Lc 1, 46-55",
+            "refrao": "O Poderoso fez por mim maravilhas, e Santo é o seu nome.",
+            "texto": "— A minh’alma engrandece ao Senhor, e se alegrou o meu espírito em Deus, meu Salvador, \n— pois ele viu a pequenez de sua serva, desde agora as gerações hão de chamar-me de bendita. O Poderoso fez por mim maravilhas e Santo é o seu nome. \n— Seu amor, de geração em geração, chega a todos que o respeitam. Demonstrou o poder de seu braço, dispersou os orgulhosos. \n— Derrubou os poderosos de seus tronos e os humildes exaltou. De bens saciou os famintos e despediu, sem nada, os ricos. \n— Acolheu Israel, seu servidor, fiel ao seu amor, como havia prometido aos nossos pais, em favor de Abraão e de seus filhos, para sempre"
+          }
+        ],
+        "segundaLeitura": [],
+        "evangelho": [
+          {
+            "referencia": "Mt 12, 46-50",
+            "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Mateus",
+            "texto": "Naquele tempo, 46enquanto Jesus estava falando às multidões, sua mãe e seus irmãos ficaram do lado de fora, procurando falar com ele. 47Alguém disse a Jesus: “Olha! Tua mãe e teus irmãos estão aí fora, e querem falar contigo”. 48Jesus perguntou àquele que tinha falado: “Quem é minha mãe, e quem são meus irmãos?” 49E, estendendo a mão para os discípulos, Jesus disse: “Eis minha mãe e meus irmãos. 50Pois todo aquele que faz a vontade do meu Pai, que está nos céus, esse é meu irmão, minha irmã e minha mãe”."
+          }
+        ],
+        "extras": []
+      },
+      "antifonas": {
+        "entrada": "Salve, santa Mãe, vós destes à luz o Rei que governa o céu e a terra pelos séculos eternos.",
+        "comunhao": "Feliz o ventre da Virgem Maria que trouxe o Filho do Pai eterno. (Cf. Lc 11, 27)"
       }
     }
   }
