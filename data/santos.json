@@ -1,14 +1,6 @@
 {
-  "fonte": "https://www.a12.com",
+  "atualizadoEm": "2026-11-21T16:50:18.2781499Z",
   "santos": {
-    "2026-11-18": {
-      "resumo": "Cristão e monge, o jovem saiu de sua terra natal como peregrino e estudante, com destino à Roma, onde viveu como ermitão.",
-      "data": "2026-11-18",
-      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=299&day=18&month=11",
-      "nome": "São Frediano",
-      "imagem": "https://www.a12.com/source/files/originals/18_-_Sao_Frediano_A12-898302.jpg",
-      "fonte": "A12 · Santuário de Aparecida"
-    },
     "2026-11-19": {
       "nome": "São Rafael de São José",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=300&day=19&month=11",
@@ -26,61 +18,69 @@
       "data": "2026-11-20"
     },
     "2026-11-21": {
-      "fonte": "A12 · Santuário de Aparecida",
-      "nome": "São Gelásio I",
-      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=302&day=21&month=11",
       "imagem": "https://www.a12.com/source/files/originals/21_-_Sao_Gelasio_I_A12-515412.jpg",
+      "fonte": "A12 · Santuário de Aparecida",
       "resumo": "São Gelásio foi um defensor da fé e um amigo dos pobres. Sua alegria era fazer o nome de Jesus conhecido e…",
-      "data": "2026-11-21"
+      "data": "2026-11-21",
+      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=302&day=21&month=11",
+      "nome": "São Gelásio I"
     },
     "2026-11-22": {
-      "fonte": "A12 · Santuário de Aparecida",
-      "nome": "Santa Cecília",
-      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=303&day=22&month=11",
       "imagem": "https://www.a12.com/source/files/originals/22_-_Santa_Cecilia_A12-253839.jpg",
+      "fonte": "A12 · Santuário de Aparecida",
       "resumo": "Santa Cecília é a padroeira dos músicos e dos cantores sagrados. A sua simplicidade e fidelidade ao Cristo marcaram seu nome na…",
-      "data": "2026-11-22"
+      "data": "2026-11-22",
+      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=303&day=22&month=11",
+      "nome": "Santa Cecília"
     },
     "2026-11-23": {
-      "fonte": "A12 · Santuário de Aparecida",
-      "nome": "São Clemente I",
-      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=304&day=23&month=11",
       "imagem": "https://www.a12.com/source/files/originals/23_-_Sao_Clemente_I_A12-356928.jpg",
+      "fonte": "A12 · Santuário de Aparecida",
       "resumo": "Clemente foi o quarto Papa da Igreja de Roma, ainda no primeiro século. Vivia em Roma e foi contemporâneo de São João…",
-      "data": "2026-11-23"
+      "data": "2026-11-23",
+      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=304&day=23&month=11",
+      "nome": "São Clemente I"
     },
     "2026-11-24": {
-      "fonte": "A12 · Santuário de Aparecida",
-      "nome": "Santos André Dung-Lac e Companheiros (mártires do Vietnã)",
-      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=305&day=24&month=11",
       "imagem": "https://www.a12.com/source/files/originals/24_-_Santos_Andre_Dung-Lac_e_Companheiros_martires_do_Vietna_A12-794263.jpg",
+      "fonte": "A12 · Santuário de Aparecida",
       "resumo": "Hoje homenageamos um grupo de cento e dezessete mártires vietnamitas. A maioria viveu e pregou entre os anos 1830 e 1870.",
-      "data": "2026-11-24"
+      "data": "2026-11-24",
+      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=305&day=24&month=11",
+      "nome": "Santos André Dung-Lac e Companheiros (mártires do Vietnã)"
     },
     "2026-11-25": {
-      "fonte": "A12 · Santuário de Aparecida",
-      "nome": "Santa Catarina de Alexandria",
-      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=306&day=25&month=11",
       "imagem": "https://www.a12.com/source/files/originals/25_-_Santa_Catarina_de_Alexandria_A12-159765.jpg",
+      "fonte": "A12 · Santuário de Aparecida",
       "resumo": "Santa Catarina de Alexandria é invocada como protetora pelos estudantes, intelectuais e filósofos.",
-      "data": "2026-11-25"
+      "data": "2026-11-25",
+      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=306&day=25&month=11",
+      "nome": "Santa Catarina de Alexandria"
     },
     "2026-11-26": {
-      "fonte": "A12 · Santuário de Aparecida",
-      "nome": "São Leonardo de Porto Maurício",
-      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=307&day=26&month=11",
       "imagem": "https://www.a12.com/source/files/originals/26_-_Sao_Leonardo_de_Porto_Mauricio_A12-510269.jpg",
+      "fonte": "A12 · Santuário de Aparecida",
       "resumo": "São Leonardo de Porto Maurício era devoto do Sagrado Coração Jesus na forma da adoração ao Jesus Eucarístico e devoto da Virgem…",
-      "data": "2026-11-26"
+      "data": "2026-11-26",
+      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=307&day=26&month=11",
+      "nome": "São Leonardo de Porto Maurício"
     },
     "2026-11-27": {
-      "fonte": "A12 · Santuário de Aparecida",
-      "nome": "São Virgílio",
-      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=308&day=27&month=11",
       "imagem": "https://www.a12.com/source/files/originals/27_-_Sao_Virgilio_A12-040792.jpg",
+      "fonte": "A12 · Santuário de Aparecida",
       "resumo": "Virgílio era homem de fé fortalecida e de vasta cultura, dominava como poucos as ciências matemáticas.",
-      "data": "2026-11-27"
+      "data": "2026-11-27",
+      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=308&day=27&month=11",
+      "nome": "São Virgílio"
+    },
+    "2026-11-28": {
+      "imagem": "https://www.a12.com/source/files/originals/28_-_Santa_Catarina_Laboure_A12-690533.jpg",
+      "fonte": "A12 · Santuário de Aparecida",
+      "resumo": "Nossa Senhora das Graças apareceu para Catarina e mandou que ela produzisse a medalha milagrosa",
+      "data": "2026-11-28",
+      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=657&day=28&month=11",
+      "nome": "Santa Catarina Labouré"
     }
   },
-  "atualizadoEm": "2026-11-21T02:26:03.3394705Z"
+  "fonte": "https://www.a12.com"
 }
