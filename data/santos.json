@@ -1,13 +1,7 @@
 {
+  "atualizadoEm": "2026-11-22T17:13:10.1427666Z",
+  "fonte": "https://www.a12.com",
   "santos": {
-    "2026-11-19": {
-      "nome": "São Rafael de São José",
-      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=300&day=19&month=11",
-      "fonte": "A12 · Santuário de Aparecida",
-      "data": "2026-11-19",
-      "resumo": "São Rafael de São José foi um homem de Deus, vivendo em profunda união com ele. Foi definido como uma oração vivente,…",
-      "imagem": "https://www.a12.com/source/files/originals/Sao_Rafael_de_Sao_Jose-143246.jpg"
-    },
     "2026-11-20": {
       "fonte": "A12 · Santuário de Aparecida",
       "nome": "Santo Edmundo",
@@ -25,62 +19,68 @@
       "imagem": "https://www.a12.com/source/files/originals/21_-_Sao_Gelasio_I_A12-515412.jpg"
     },
     "2026-11-22": {
+      "imagem": "https://www.a12.com/source/files/originals/22_-_Santa_Cecilia_A12-253839.jpg",
       "data": "2026-11-22",
-      "resumo": "Santa Cecília é a padroeira dos músicos e dos cantores sagrados. A sua simplicidade e fidelidade ao Cristo marcaram seu nome na…",
-      "fonte": "A12 · Santuário de Aparecida",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=303&day=22&month=11",
       "nome": "Santa Cecília",
-      "imagem": "https://www.a12.com/source/files/originals/22_-_Santa_Cecilia_A12-253839.jpg"
+      "resumo": "Santa Cecília é a padroeira dos músicos e dos cantores sagrados. A sua simplicidade e fidelidade ao Cristo marcaram seu nome na…",
+      "fonte": "A12 · Santuário de Aparecida"
     },
     "2026-11-23": {
+      "imagem": "https://www.a12.com/source/files/originals/23_-_Sao_Clemente_I_A12-356928.jpg",
       "data": "2026-11-23",
-      "resumo": "Clemente foi o quarto Papa da Igreja de Roma, ainda no primeiro século. Vivia em Roma e foi contemporâneo de São João…",
-      "fonte": "A12 · Santuário de Aparecida",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=304&day=23&month=11",
       "nome": "São Clemente I",
-      "imagem": "https://www.a12.com/source/files/originals/23_-_Sao_Clemente_I_A12-356928.jpg"
+      "resumo": "Clemente foi o quarto Papa da Igreja de Roma, ainda no primeiro século. Vivia em Roma e foi contemporâneo de São João…",
+      "fonte": "A12 · Santuário de Aparecida"
     },
     "2026-11-24": {
+      "imagem": "https://www.a12.com/source/files/originals/24_-_Santos_Andre_Dung-Lac_e_Companheiros_martires_do_Vietna_A12-794263.jpg",
       "data": "2026-11-24",
-      "resumo": "Hoje homenageamos um grupo de cento e dezessete mártires vietnamitas. A maioria viveu e pregou entre os anos 1830 e 1870.",
-      "fonte": "A12 · Santuário de Aparecida",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=305&day=24&month=11",
       "nome": "Santos André Dung-Lac e Companheiros (mártires do Vietnã)",
-      "imagem": "https://www.a12.com/source/files/originals/24_-_Santos_Andre_Dung-Lac_e_Companheiros_martires_do_Vietna_A12-794263.jpg"
+      "resumo": "Hoje homenageamos um grupo de cento e dezessete mártires vietnamitas. A maioria viveu e pregou entre os anos 1830 e 1870.",
+      "fonte": "A12 · Santuário de Aparecida"
     },
     "2026-11-25": {
+      "imagem": "https://www.a12.com/source/files/originals/25_-_Santa_Catarina_de_Alexandria_A12-159765.jpg",
       "data": "2026-11-25",
-      "resumo": "Santa Catarina de Alexandria é invocada como protetora pelos estudantes, intelectuais e filósofos.",
-      "fonte": "A12 · Santuário de Aparecida",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=306&day=25&month=11",
       "nome": "Santa Catarina de Alexandria",
-      "imagem": "https://www.a12.com/source/files/originals/25_-_Santa_Catarina_de_Alexandria_A12-159765.jpg"
+      "resumo": "Santa Catarina de Alexandria é invocada como protetora pelos estudantes, intelectuais e filósofos.",
+      "fonte": "A12 · Santuário de Aparecida"
     },
     "2026-11-26": {
+      "imagem": "https://www.a12.com/source/files/originals/26_-_Sao_Leonardo_de_Porto_Mauricio_A12-510269.jpg",
       "data": "2026-11-26",
-      "resumo": "São Leonardo de Porto Maurício era devoto do Sagrado Coração Jesus na forma da adoração ao Jesus Eucarístico e devoto da Virgem…",
-      "fonte": "A12 · Santuário de Aparecida",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=307&day=26&month=11",
       "nome": "São Leonardo de Porto Maurício",
-      "imagem": "https://www.a12.com/source/files/originals/26_-_Sao_Leonardo_de_Porto_Mauricio_A12-510269.jpg"
+      "resumo": "São Leonardo de Porto Maurício era devoto do Sagrado Coração Jesus na forma da adoração ao Jesus Eucarístico e devoto da Virgem…",
+      "fonte": "A12 · Santuário de Aparecida"
     },
     "2026-11-27": {
+      "imagem": "https://www.a12.com/source/files/originals/27_-_Sao_Virgilio_A12-040792.jpg",
       "data": "2026-11-27",
-      "resumo": "Virgílio era homem de fé fortalecida e de vasta cultura, dominava como poucos as ciências matemáticas.",
-      "fonte": "A12 · Santuário de Aparecida",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=308&day=27&month=11",
       "nome": "São Virgílio",
-      "imagem": "https://www.a12.com/source/files/originals/27_-_Sao_Virgilio_A12-040792.jpg"
+      "resumo": "Virgílio era homem de fé fortalecida e de vasta cultura, dominava como poucos as ciências matemáticas.",
+      "fonte": "A12 · Santuário de Aparecida"
     },
     "2026-11-28": {
+      "imagem": "https://www.a12.com/source/files/originals/28_-_Santa_Catarina_Laboure_A12-690533.jpg",
       "data": "2026-11-28",
-      "resumo": "Nossa Senhora das Graças apareceu para Catarina e mandou que ela produzisse a medalha milagrosa",
-      "fonte": "A12 · Santuário de Aparecida",
       "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=657&day=28&month=11",
       "nome": "Santa Catarina Labouré",
-      "imagem": "https://www.a12.com/source/files/originals/28_-_Santa_Catarina_Laboure_A12-690533.jpg"
+      "resumo": "Nossa Senhora das Graças apareceu para Catarina e mandou que ela produzisse a medalha milagrosa",
+      "fonte": "A12 · Santuário de Aparecida"
+    },
+    "2026-11-29": {
+      "imagem": "https://www.a12.com/source/files/originals/29_-_Sao_Saturnino_de_Toulouse_A12-505185.jpg",
+      "data": "2026-11-29",
+      "url": "https://www.a12.com/reze-no-santuario/santo-do-dia?saint_id=310&day=29&month=11",
+      "nome": "São Saturnino de Toulouse",
+      "resumo": "Santo Saturnino é uma das devoções mais populares na França e na Espanha. Sua vida pode ser confirmada em importantes documentos sobre…",
+      "fonte": "A12 · Santuário de Aparecida"
     }
-  },
-  "fonte": "https://www.a12.com",
-  "atualizadoEm": "2026-11-22T01:24:15.8206325Z"
+  }
 }
