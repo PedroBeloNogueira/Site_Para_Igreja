@@ -1,46 +1,6 @@
 {
-  "atualizadoEm": "2026-11-23T21:30:32.023Z",
+  "atualizadoEm": "2026-11-24T20:13:14.723Z",
   "liturgias": {
-    "2026-11-23": {
-      "data": "23/11/2026",
-      "liturgia": "2ª feira da 34ª Semana do Tempo Comum",
-      "cor": "Verde",
-      "oracoes": {
-        "coleta": "Levantai, Senhor, nós vos pedimos, o ânimo dos vossos fiéis, para que, fazendo frutificar com solicitude a obra da salvação, recebam maiores auxílios de vossa paternal bondade. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
-        "oferendas": "Acolhei, Senhor, os sagrados dons que mandastes oferecer ao vosso nome; e, para que eles nos tornem agradáveis aos olhos da vossa paternal bondade, fazei-nos sempre obedecer a vossos mandamentos. Por Cristo, nosso Senhor.",
-        "comunhao": "Deus todo-poderoso, nós vos pedimos, não permitais que se separem de vós aqueles a quem concedeis a alegria de participar da vossa vida. Por Cristo, nosso Senhor.",
-        "extras": []
-      },
-      "leituras": {
-        "primeiraLeitura": [
-          {
-            "referencia": "Ap 14, 1-3. 4b-5",
-            "titulo": "Leitura do Livro do Apocalipse de São João",
-            "texto": "Eu, João, 1tive esta visão: O Cordeiro estava de pé sobre o monte Sião. Com ele, os cento e quarenta e quatro mil que tinham a fronte marcada com o nome dele e o nome do seu Pai. 2Ouvi uma voz que vinha do céu; parecia o barulho de águas torrenciais e o estrondo de um forte trovão. O ruído que ouvi era como o som de músicos tocando harpa. 3Estavam diante do trono, diante dos quatro Seres vivos e dos Anciãos, e cantavam um cântico novo. Era um cântico que ninguém podia aprender; só os cento e quarenta e quatro mil marcados, que foram resgatados da terra. 4bEles seguem o Cordeiro aonde quer que vá. Foram resgatados do meio dos homens, como primeira oferta a Deus e ao Cordeiro. 5Na sua boca nunca foi encontrada mentira. São íntegros!"
-          }
-        ],
-        "salmo": [
-          {
-            "referencia": "Sl 23(24)",
-            "refrao": "É assim a geração dos que buscam vossa face, ó Senhor, Deus de Israel.",
-            "texto": "— Ao Senhor pertence a terra e o que ela encerra, o mundo inteiro com os seres que o povoam; porque ele a tornou firme sobre os mares, e sobre as águas a mantém inabalável.\n— “Quem subirá até o monte do Senhor, quem ficará em sua santa habitação?” “Quem tem mãos puras e inocente coração, quem não dirige sua mente para o crime.\n— Sobre este desce a bênção do Senhor e a recompensa de seu Deus e Salvador”. “É assim a geração dos que o procuram, e do Deus de Israel buscam a face”"
-          }
-        ],
-        "segundaLeitura": [],
-        "evangelho": [
-          {
-            "referencia": "Lc 21,1-4",
-            "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Lucas",
-            "texto": "Naquele tempo, 1Jesus ergueu os olhos e viu pessoas ricas depositando ofertas no tesouro do Templo. 2Viu também uma pobre viúva que depositou duas pequenas moedas. 3Diante disto, ele disse: “Em verdade vos digo que essa pobre viúva ofertou mais do que todos. 4Pois todos eles depositaram, como oferta feita a Deus, aquilo que lhes sobrava. Mas a viúva, na sua pobreza, ofertou tudo quanto tinha para viver”."
-          }
-        ],
-        "extras": []
-      },
-      "antifonas": {
-        "entrada": "É de paz que o Senhor vai falar a seu povo e seus fiéis, e aos que a ele se converterem. (Cf. Sl 84, 9)",
-        "comunhao": "Cantai louvores ao Senhor, todas as gentes, pois comprovado é seu amor para conosco. (Cf. Sl 116, 1. 2)"
-      }
-    },
     "2026-11-24": {
       "data": "24/11/2026",
       "liturgia": "Santo André Dung-Lac, presbítero, e companheiros mártires, Memória",
@@ -285,6 +245,46 @@
       "antifonas": {
         "entrada": "A vós, meu Deus, elevo a minha alma, e confio em vós. Que eu não seja envergonhado, nem se riam de mim os meus inimigos! Pois não será desiludido quem em vós espera. (Cf. Sl 24, 1-3)",
         "comunhao": "O Senhor nos dará tudo o que é bom, e a nossa terra nos dará suas colheitas. (Cf. Sl 84, 13)"
+      }
+    },
+    "2026-11-30": {
+      "data": "30/11/2026",
+      "liturgia": "Santo André, Apóstolo, Festa",
+      "cor": "Vermelho",
+      "oracoes": {
+        "coleta": "Senhor, Deus de poder, nós vos suplicamos humildemente que, assim como o apóstolo Santo André foi exímio pregador e guia da vossa Igreja, seja também, junto de vós, nosso constante intercessor. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+        "oferendas": "Possam agradar-vos, ó Deus todo poderoso, estas oferendas que vos apresentamos na festa de Santo André, a fim de que, sendo aceitas por vós, se tornem para nós fonte de vida. Por Cristo, nosso Senhor.",
+        "comunhao": "Fortifique-nos, Senhor, a comunhão do vosso sacramento, para que, a exemplo do apóstolo Santo André, carregando a cruz de Cristo, mereçamos viver com ele na glória do céu. Por Cristo, nosso Senhor.",
+        "extras": []
+      },
+      "leituras": {
+        "primeiraLeitura": [
+          {
+            "referencia": "Rm 10,9-18",
+            "titulo": "Leitura da carta de São Paulo aos Romanos",
+            "texto": "Irmãos, 9se, com tua boca, confessares Jesus como Senhor e, no teu coração, creres que Deus o ressuscitou dos mortos, serás salvo. 10É crendo no coração que se alcança a justiça e é confessando a fé com a boca que se consegue a salvação. 11Pois a Escritura diz: “Todo aquele que nele crer não ficará confundido”. 12Portanto, não importa a diferença entre judeu e grego; todos têm o mesmo Senhor, que é generoso para com todos os que o invocam. 13De fato, todo aquele que invocar o nome do Senhor será salvo. 14Mas como invocá-lo sem antes crer nele? E como crer sem antes ter ouvido falar dele? E como ouvir sem alguém que pregue? 15E como pregar sem ser enviado para isso? Assim é que está escrito: “Quão belos são os pés dos que anunciam o bem”. 16Mas nem todos obedeceram à Boa-nova. Pois Isaías diz: “Senhor, quem acreditou em nossa pregação?” 17Logo, a fé vem da pregação, e a pregação se faz pela palavra de Cristo. 18Então, eu pergunto: será que eles não ouviram? Certamente que ouviram, pois “a voz deles se espalhou por toda a terra, e as suas palavras chegaram aos confins do mundo”."
+          }
+        ],
+        "salmo": [
+          {
+            "referencia": "Sl 18(19A)",
+            "refrao": "Seu som ressoa e se espalha em toda a terra.",
+            "texto": "– Os céus proclamam a glória do Senhor, e o firmamento, a obra de suas mãos; o dia ao dia transmite essa mensagem, a noite à noite publica essa notícia.\n– Não são discursos nem frases ou palavras, nem são vozes que possam ser ouvidas; seu som ressoa e se espalha em toda a terra, chega aos confins do universo a sua voz."
+          }
+        ],
+        "segundaLeitura": [],
+        "evangelho": [
+          {
+            "referencia": "Mt 4,18-22",
+            "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+            "texto": "Naquele tempo, 18quando Jesus andava à beira do mar da Galileia, viu dois irmãos: Simão, chamado Pedro, e seu irmão André. Estavam lançando a rede ao mar, pois eram pescadores. 19Jesus disse a eles: “Segui-me, e eu farei de vós pescadores de homens”. 20Eles, imediatamente, deixaram as redes e o seguiram. 21Caminhando um pouco mais, Jesus viu outros dois irmãos: Tiago, filho de Zebedeu, e seu irmão João. Estavam na barca com seu pai, Zebedeu, consertando as redes. Jesus os chamou. 22Eles, imediatamente, deixaram a barca e o pai e o seguiram."
+          }
+        ],
+        "extras": []
+      },
+      "antifonas": {
+        "entrada": "Às margens do mar da Galileia, o Senhor viu dois irmãos: Pedro e André, e os chamou, dizendo: Vinde e segui-me, farei de vós pescadores de homens. (Cf. Mt 4, 18-19)",
+        "comunhao": "Disse André a Simão Pedro, seu irmão: Encontramos o Messias, isto é o Cristo. E o conduziu a Jesus. (Cf. Jo 1, 41-42)"
       }
     }
   }
