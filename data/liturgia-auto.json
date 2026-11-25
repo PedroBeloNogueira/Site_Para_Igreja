@@ -1,46 +1,6 @@
 {
-  "atualizadoEm": "2026-11-24T20:13:14.723Z",
+  "atualizadoEm": "2026-11-25T04:17:13.130Z",
   "liturgias": {
-    "2026-11-24": {
-      "data": "24/11/2026",
-      "liturgia": "Santo André Dung-Lac, presbítero, e companheiros mártires, Memória",
-      "cor": "Vermelho",
-      "oracoes": {
-        "coleta": "Ó Deus, fonte e origem de toda paternidade, que tornastes fiéis à cruz do vosso Filho os Santos mártires André e seus companheiros até o derramamento do seu sangue; por sua intercessão, concedei-nos que, difundindo o vosso amor possamos ser chamados vossos filhos e filhas e o sejamos de fato. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
-        "oferendas": "Recebei, Pai santo, as oferendas que vos apresentamos venerando a paixão dos santos mártires vietnamitas, para que mereçamos ser encontrados fiéis a vós nas adversidades de nossa vida, e possamos oferecer-nos como sacrifício agradável aos vossos olhos. Por Cristo, nosso Senhor.",
-        "comunhao": "Senhor, saciados com o alimento do mesmo pão, na comemoração dos vossos santos mártires, nós vos suplicamos que, permanecendo unidos no vosso amor, alcancemos o prêmio eterno da nossa perseverança. Por Cristo, nosso Senhor.",
-        "extras": []
-      },
-      "leituras": {
-        "primeiraLeitura": [
-          {
-            "referencia": "Ap 14,14-19",
-            "titulo": "Leitura do livro do Apocalipse de São João",
-            "texto": "Eu, João, 14na minha visão, vi uma nuvem branca e, sentado na nuvem, alguém que parecia um “filho de homem”. Tinha na cabeça uma coroa de ouro e, nas mãos, uma foice afiada. 15Saiu do templo um outro anjo, gritando em alta voz para aquele que estava sentado na nuvem: “Lança tua foice e ceifa. Chegou a hora da colheita. A seara da terra está madura!” 16E aquele que estava sentado na nuvem lançou a foice, e a terra foi ceifada. 17Então saiu do templo que está no céu mais um anjo. Também ele tinha nas mãos uma foice afiada. 18E saiu, de junto do altar, outro anjo ainda, aquele que tem o poder sobre o fogo. Ele gritou em alta voz para aquele que segurava a foice afiada: “Lança a foice e colhe os cachos da videira da terra, porque as uvas já estão maduras”. 19E o anjo lançou a foice afiada na terra e colheu as uvas da videira da terra. Depois, despejou as uvas no grande lagar do furor de Deus."
-          }
-        ],
-        "salmo": [
-          {
-            "referencia": "Sl 95(96)",
-            "refrao": "O Senhor vem julgar nossa terra.",
-            "texto": "– Publicai entre as nações: “Reina o Senhor!” Ele firmou o universo inabalável, e os povos ele julga com justiça.\n– O céu se rejubile e exulte a terra, aplauda o mar com o que vive em suas águas; os campos com seus frutos rejubilem, e exultem as florestas e as matas.\n– Na presença do Senhor, pois ele vem, porque vem para julgar a terra inteira. Governará o mundo todo com justiça e os povos julgará com lealdade."
-          }
-        ],
-        "segundaLeitura": [],
-        "evangelho": [
-          {
-            "referencia": "Lc 21,5-11",
-            "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
-            "texto": "Naquele tempo, 5algumas pessoas comentavam a respeito do templo que era enfeitado com belas pedras e com ofertas votivas. Jesus disse: 6“Vós admirais estas coisas? Dias virão em que não ficará pedra sobre pedra. Tudo será destruído”. 7Mas eles perguntaram: “Mestre, quando acontecerá isso? E qual vai ser o sinal de que essas coisas estão para acontecer?” 8Jesus respondeu: “Cuidado para não serdes enganados, porque muitos virão em meu nome, dizendo: ‘Sou eu!’ E ainda: ‘O tempo está próximo’. Não sigais essa gente! 9Quando ouvirdes falar de guerras e revoluções, não fiqueis apavorados. É preciso que essas coisas aconteçam primeiro, mas não será logo o fim”. 10E Jesus continuou: “Um povo se levantará contra outro povo, um país atacará outro país. 11Haverá grandes terremotos, fomes e pestes em muitos lugares; acontecerão coisas pavorosas e grandes sinais serão vistos no céu”."
-          }
-        ],
-        "extras": []
-      },
-      "antifonas": {
-        "entrada": "Não devemos gloriar-nos a não ser na cruz de nosso Senhor Jesus Cristo; pois a palavra da cruz é força de Deus para nós que fomos salvos. (Cf. Gl 6,14; 1Cor 1,18)",
-        "comunhao": "Bem-aventurados os que são perseguidos por causa justiça porque deles é o reino dos céus. (Cf. Mt 5,10)"
-      }
-    },
     "2026-11-25": {
       "data": "25/11/2026",
       "liturgia": "4ª feira da 34ª Semana do Tempo Comum",
@@ -285,6 +245,46 @@
       "antifonas": {
         "entrada": "Às margens do mar da Galileia, o Senhor viu dois irmãos: Pedro e André, e os chamou, dizendo: Vinde e segui-me, farei de vós pescadores de homens. (Cf. Mt 4, 18-19)",
         "comunhao": "Disse André a Simão Pedro, seu irmão: Encontramos o Messias, isto é o Cristo. E o conduziu a Jesus. (Cf. Jo 1, 41-42)"
+      }
+    },
+    "2026-12-01": {
+      "data": "01/12/2026",
+      "liturgia": "3ª feira da 1ª Semana do Advento",
+      "cor": "Roxo",
+      "oracoes": {
+        "coleta": "Senhor Deus, sede propício às nossas súplicas, e auxiliai-nos em nossa tribulação. Consolados pela presença do vosso Filho que vem, sejamos purificados da antiga culpa. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+        "oferendas": "Aceitai, Senhor, com bondade as nossas humildes preces e oferendas; e como não podemos invocar os nossos méritos, socorrei-nos com o remédio da vossa misericórdia. Por Cristo, nosso Senhor.",
+        "comunhao": "Nós vos suplicamos, Senhor, que, saciados com o alimento espiritual, pela participação nestes santos mistérios, nos ensineis a apreciar com sabedoria as coisas terrenas e colocar nossas esperanças nos bens eternos. Por Cristo, nosso Senhor.",
+        "extras": []
+      },
+      "leituras": {
+        "primeiraLeitura": [
+          {
+            "referencia": "Is 11,1-10",
+            "titulo": "Leitura do livro do profeta Isaías",
+            "texto": "Naquele dia, 1nascerá uma haste do tronco de Jessé e, a partir da raiz, surgirá o rebento de uma flor. 2Sobre ele repousará o Espírito do Senhor: espírito de sabedoria e discernimento, espírito de conselho e fortaleza, espírito de ciência e temor de Deus; 3no temor do Senhor encontra ele seu prazer. Ele não julgará pelas aparências que vê nem decidirá somente por ouvir dizer, 4mas trará justiça para os humildes e uma ordem justa para os homens pacíficos; fustigará a terra com a força da sua palavra e destruirá o mau com o sopro dos lábios. 5Cingirá a cintura com a correia da justiça e as costas com a faixa da fidelidade. 6O lobo e o cordeiro viverão juntos e o leopardo deitar-se-á ao lado do cabrito; o bezerro e o leão comerão juntos e até mesmo uma criança poderá tangê-los. 7A vaca e o urso pastarão lado a lado, enquanto suas crias descansam juntas; o leão comerá palha como o boi; 8a criança de peito vai brincar em cima do buraco da cobra venenosa; e o menino desmamado não temerá pôr a mão na toca da serpente. 9Não haverá danos nem mortes por todo o meu santo monte: a terra estará tão repleta do saber do Senhor quanto as águas que cobrem o mar. 10Naquele dia, a raiz de Jessé se erguerá como um sinal entre os povos; hão de buscá-la as nações, e gloriosa será a sua morada."
+          }
+        ],
+        "salmo": [
+          {
+            "referencia": "Sl 71(72)",
+            "refrao": "Nos seus dias, a justiça florirá e paz em abundância, para sempre.",
+            "texto": "– Dai ao rei vossos poderes, Senhor Deus, vossa justiça ao descendente da realeza! Com justiça ele governe o vosso povo, com equidade ele julgue os vossos pobres.\n– Nos seus dias, a justiça florirá e grande paz, até que a lua perca o brilho! De mar a mar estenderá o seu domínio, e desde o rio até os confins de toda a terra!\n– Libertará o indigente que suplica e o pobre ao qual ninguém quer ajudar. Terá pena do indigente e do infeliz, e a vida dos humildes salvará.\n– Seja bendito o seu nome para sempre! E que dure como o sol sua memória! Todos os povos serão nele abençoados, todas as gentes cantarão o seu louvor!"
+          }
+        ],
+        "segundaLeitura": [],
+        "evangelho": [
+          {
+            "referencia": "Lc 10,21-24",
+            "titulo": "Proclamação do evangelho de Jesus Cristo segundo Lucas",
+            "texto": "21Naquele momento, Jesus exultou no Espírito Santo e disse: “Eu te louvo, Pai, Senhor do céu e da terra, porque escondeste essas coisas aos sábios e inteligentes e as revelaste aos pequeninos. Sim, Pai, porque assim foi do teu agrado. 22Tudo me foi entregue pelo meu Pai. Ninguém conhece quem é o Filho, a não ser o Pai; e ninguém conhece quem é o Pai, a não ser o Filho e aquele a quem o Filho o quiser revelar”. 23Jesus voltou-se para os discípulos e disse-lhes em particular: “Felizes os olhos que veem o que vós vedes! 24Pois eu vos digo que muitos profetas e reis quiseram ver o que estais vendo e não puderam ver; quiseram ouvir o que estais ouvindo e não puderam ouvir”."
+          }
+        ],
+        "extras": []
+      },
+      "antifonas": {
+        "entrada": "Eis que o Senhor virá e com ele todos os seus santos, e naquele dia brilhará uma grande luz. (Cf. Zc 14,5.7)",
+        "comunhao": "O Senhor, justo juiz, dará a coroa da justiça aos que esperam com amor a sua vinda. (Cf. 2Tm 4,8)"
       }
     }
   }
